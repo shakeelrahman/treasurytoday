@@ -10967,6 +10967,9 @@ body .dropdown-link {
   }
 }
 @media (min-width: 768px) {
+  .footer{
+    padding-top: 72px;
+  }
   .footer-cont {
     position: relative;
     padding-bottom: 80px;
