@@ -1,0 +1,86 @@
+// Common styling
+h1 {
+  font-size: 80px;
+}
+.page-link {
+font-size: 14px !important;
+}
+.link-btn{
+   transition: 0.5s;
+}
+.link-btn:hover {
+  color: #fff !important;
+  background-color: $secondary;
+}
+
+// Topics pages
+
+
+// Magazines pages
+.magazine {
+.read-more {
+  transition: 0.5s;
+}
+.read-more:hover {
+  color: #fff !important;
+  background-color: $secondary;
+}
+}
+
+// Awards pages
+.awards {
+.quote-block blockquote:before {
+  content: "";
+  display: block;
+  height: 24px;
+  background-image: url(../assets/images/icon-quote-6ad305.svg);
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+  margin-bottom: 20px;
+}
+.person{
+float: right;
+margin: 0 0 2em 2em;
+max-width: 100%;
+}
+}
+
+// Womens pages
+
+
+@media (max-width: 768px) {
+// common styling
+  h1 {
+    font-size: 36px;
+  }
+  
+// Topics pages
+.insights-banner {
+  img {
+    border-bottom: 1px solid #e6e6e6 !important;
+    padding-bottom: 30px;
+  }
+}
+
+// Awards pages
+.awards {
+  .pagination{
+    justify-content: space-between;
+  }
+}
+}
+
+@media (max-width: 400px) {
+// podcasts & events pages
+.podcasts{
+.link-sec{
+  margin-left: 0 !important;
+  margin-top: 20px;
+}
+}
+}
+
+// Single pages
+.light-icon{
+color: #888;
+}

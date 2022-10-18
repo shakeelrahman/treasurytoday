@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<category><![CDATA[Americas]]></category>
+		<title><![CDATA[Canada’s treasury teams prepare for payments revolution]]></title>
+		<publish_date><![CDATA[ Published: Jul 2022 ]]></publish_date>
+		<hero_image><![CDATA[https://treasurytoday.com:443/-/media/images/regional-focus/americas/2022-07-08-tt-00-rf__emerald-lakeyoho-national-park-canada-1201026013__1920x1080.jpg?w=420&usecustomfunctions=1¢ercrop=1&hash=AA1E83C07D13A6920E49D3379A3B8113]]></hero_image>
+		<complete_body><![CDATA[<div class="gs-grid__col gs-grid__col-1-10 gs-grid__col--expand" style="">
+<div class="hero hero--article ">
+<div class="hero__heroarticle__img-wrap">
+<p><em>Treasury teams in Canada have been clamouring for a real-time, central payments infrastructure run on the global standardised model for years. Finally, it’s about to arrive.</em></p>
+<picture class="hero__picture" imgclass=".heroarticle_summary__img"><!--[if IE 9]><video style='display: none;'><![endif]--><source media="(min-width: 1440px)" srcset="https://treasurytoday.com:443/-/media/images/regional-focus/americas/2022-07-08-tt-00-rf__emerald-lakeyoho-national-park-canada-1201026013__1920x1080.jpg?w=1800&amp;usecustomfunctions=1¢ercrop=1&amp;hash=C3D2D8B587D4B58B2CB418A7BE3CF1FD"/><!--[if IE 9]></video><![endif]--><!--[if IE 9]><video style='display: none;'><![endif]--><source media="(min-width: 1200px)" srcset="https://treasurytoday.com:443/-/media/images/regional-focus/americas/2022-07-08-tt-00-rf__emerald-lakeyoho-national-park-canada-1201026013__1920x1080.jpg?w=1400&amp;usecustomfunctions=1¢ercrop=1&amp;hash=AD05C64B4C0885E4F99E895D70CB7A29"/><!--[if IE 9]></video><![endif]--><!--[if IE 9]><video style='display: none;'><![endif]--><source media="(min-width: 1024px)" srcset="https://treasurytoday.com:443/-/media/images/regional-focus/americas/2022-07-08-tt-00-rf__emerald-lakeyoho-national-park-canada-1201026013__1920x1080.jpg?w=1200&amp;usecustomfunctions=1¢ercrop=1&amp;hash=594967062F6E0C133B7A518FD2B087F8"/><!--[if IE 9]></video><![endif]--><!--[if IE 9]><video style='display: none;'><![endif]--><source media="(min-width: 769px)" srcset="https://treasurytoday.com:443/-/media/images/regional-focus/americas/2022-07-08-tt-00-rf__emerald-lakeyoho-national-park-canada-1201026013__1920x1080.jpg?w=1024&amp;usecustomfunctions=1¢ercrop=1&amp;hash=755DFB4709541E0015D988B7C3E691EE"/><!--[if IE 9]></video><![endif]--><!--[if IE 9]><video style='display: none;'><![endif]--><source media="(min-width: 550px)" srcset="https://treasurytoday.com:443/-/media/images/regional-focus/americas/2022-07-08-tt-00-rf__emerald-lakeyoho-national-park-canada-1201026013__1920x1080.jpg?w=638&amp;usecustomfunctions=1¢ercrop=1&amp;hash=12B9536D10A6DF9A50C5829A495D7236"/><!--[if IE 9]></video><![endif]--><img alt="Canada Emerald National Park" class=".heroarticle_summary__img" src="https://treasurytoday.com:443/-/media/images/regional-focus/americas/2022-07-08-tt-00-rf__emerald-lakeyoho-national-park-canada-1201026013__1920x1080.jpg?w=420&amp;usecustomfunctions=1¢ercrop=1&amp;hash=AA1E83C07D13A6920E49D3379A3B8113" srcset="https://treasurytoday.com:443/-/media/images/regional-focus/americas/2022-07-08-tt-00-rf__emerald-lakeyoho-national-park-canada-1201026013__1920x1080.jpg?w=420&amp;usecustomfunctions=1¢ercrop=1&amp;hash=AA1E83C07D13A6920E49D3379A3B8113"/></picture> </div>
+</div><div class="v-spacing--bottom">
+<h2 class="h2 copy__heading"></h2>
+<h3 class="sub-heading copy__sub-heading"></h3>
+<div class="copy__body">
+<p>Life has returned to normal after the pandemic, and in the height of summer, central Toronto bars, cafes, theatres and sidewalks are filled with people. A less visible re-building, years in the making, is also gathering momentum and spluttering into life. Canada is in the process of modernising its antiquated payments system, dating from the 1970s and based on a patchwork of scattered formats. A new, real-time central payments infrastructure that runs on a standard model and able to integrate into global jurisdictions and international clearing systems in countries like Sweden, the US, UK and Singapore, is beginning to emerge.</p>
+<p>Canada’s new payment rails will transform treasury processes across the country. From Toronto, home to Canada’s largest treasury community and most corporate headquarters, the country’s financial hub and largest talent pool. North into French-speaking Quebec and the province’s largest city Montreal, also with a significant business presence. West to Calgary in Alberta, where oil and gas groups dominate the business skyline and onto Vancouver, the bustling west coast seaport in British Columbia, amongst Canada’s densest, most ethnically diverse cities but with fewer corporate headquarters.</p>
+<h4 id="international-connectivity-real-time-rails">International connectivity; real time rails</h4>
+<p>ISO 20022 XML file formats comprise the backbone to the new infrastructure, explains Cal Fryer, Director, Cash Management at TD Securities in Toronto and recent President &amp; Chair of Treasury Management Association of Canada – Toronto. Although the ISO file format still allows country uniqueness, most of its fields are standardised in a global format. “If a Canadian business wants to pay a company overseas it currently needs to prepare a wire using SWIFT. Under ISO 20022 XML framework, alternative electronic payment channels will become available, and the two systems will talk the same language, allowing the delivery of both the financial transaction and electronic remittance data on a near real time basis.”</p>
+<p>Using ISO file formats will allow treasury teams to see and attach more data to accompany payments, providing a framework to settle multiple invoices in automatic, straight through reconciliation, streamlining payment processes and delivering billions of dollars of savings through operational efficiency. Treasury teams will be able to click on payment and remittance information and see details of the transaction beneath, explains Fryer. “Back office teams have lacked the remittance information that accompanies a receivable and rely on manual processes. Corporations have been wanting to improve their reconciliation processes for decades and this will be one of the key enablers of that goal.”</p>
+<p>Although corporations have been clamouring for change for years, Canada’s banks have often dragged their feet, reluctant to re-configure and disrupt existing processes. But now the country’s oligopolistic banking sector where just five banks dominate around 80% of transactions are fully on-board. The Canadian payments association, Payments Canada, and tech partners including IBM went live with the wire aspect of the modernisation programme in 2021 and are now targeting introducing real-time rails that will allow Canadian banks to exchange instant payments by 2023. “There are no specific pain points other than slow progress and slow implementation,” explains Ian Argue, Director, Corporate Treasury Services at PwC in Vancouver. “Payment solutions are hard to pull out and enacting change takes a long time. Because it is an evolution, it always takes time to move to the point where people realise the benefits.”</p>
+<p>Desperate to benefit from the value-add modernisation promises, treasury teams are pushing ahead with getting their own systems up to speed. Migrating to the new format; adjusting to work on different files and integrating them with their ERP systems and TMS, all the while ensuring consensus to invest from their organisations. “Companies are focused on how to adapt their treasury operations to the changing payments landscape,” explains Maureen Jarvis, Managing Director, Head of Global Transaction Services Canada at Bank of America in Toronto. She describes a climate of keen scrutiny and analysis amongst Canada’s treasury community of what different treasury teams are doing when it comes to integrating change; what ERP systems they are upgrading and how best to build the agile technology environment that works alongside banking partners to optimise the opportunity for innovation.</p>
+<h4 id="fintech">Fintech</h4>
+<p>Travelling west out of Toronto along the Toronto-Waterloo Region Corridor passes through the largest tech cluster in North America outside Silicon Valley. It supports 15,000 tech companies from Google to Shopify; 5,200 start-ups and hosts 200,000 tech workers. The corridor is also gaining a reputation for deep tech, focused on innovations such as AI.</p>
+<p>Perhaps one of the most important consequences of Canada’s payments modernisation will be its impact on the burgeoning fintech scene housed in the cluster given the fact non-bank payment providers will also have access to the new system of 24-hour, real-time, low value payments. “It will lead to more innovation,” enthuses Argue who predicts that alongside more fintech and bank partnerships, a new payments system will catalyse a swathe of new B2B and B2C payment solutions driven by fintech innovators. “Expect more services in support of reconciliation and information flows, or even payments to new market segments.”</p>
+<h4 id="open-banking">Open banking</h4>
+<p>Canada’s fintech community will also get a boost from open banking regulation in the pipeline. Although less advanced than payments modernisation, new rules and technology offering secure ways to share financial data with fintech promises far reaching change. It will drive innovation and expand consumer access to the growing variety of financial services such as budgeting and savings tools. It will also benefit small businesses by helping to streamline operations and by providing faster access to credit.</p>
+<p>The Canadian government has appointed an open banking lead, tasked with engaging stakeholders to develop an accreditation framework, setting up a common set of rules and technical standards. “The government is moving in the right direction,” says Jarvis. “The open banking movement has already introduced a number of innovative consumer solutions globally, and the treasury community can look forward to real-time, market-driven benefits that help improve working capital and customer experience.”</p>
+<h4 id="wider-picture">Wider picture</h4>
+<p>Canada’s payments revolution and open banking push are part of a wider narrative around technological change that is transforming treasury in Canada and driving efficiency. Manual processes are giving way to automation and AI is providing new insights on data, giving treasury new forecasting capabilities. It is an area where BofA’s Jarvis is noticing particularly strong client demand. “Banks are really focused on helping clients use their data appropriately,” she explains. “Corporates want to know what the data is signalling, how to make their operations more efficient; they are looking at the data to forecast trends and want to use data to help guide transformational change.” She adds that companies are especially looking to their banks to offer insights on the corporate data they hold. “Companies are looking to their banks and saying you hold our data, how do we get insights into that data and make use of it?”</p>
+<p>In another trend, many corporate treasury teams are adopting cloud-based technology within their IT environment. “We are seeing significant resources being dedicated to new technology projects for large corporations that involve migrating ERP/TMS platforms to the cloud,” says Fryer, who notes treasury’s adoption of new technology continues to be driven by three key priorities: centralisation, rationalisation and automation. “Treasury teams are rationalising, working out how they can improve and create efficiencies, exploring where technology is available to automate manual components and introduce robotic elements.”</p>
+<h4 id="macro-themes">Macro themes</h4>
+<p>Like treasury the world over, Canadian teams currently have a wary eye on the macro landscape. Historically low interest rates have come to an end as Canada’s central bank struggles to keep inflation under control. The benchmark interest rate is now 1.5% and a further 150 basis points are factored in by year end with key implications for treasury. On one hand, investments will do better; on the other it will expose the level of corporate debt companies loaded up on when money was free. “Lots of debt has been added to corporate balance sheets and companies are going to have to think about how they deleverage,” says Fryer. “It’s an interesting time for corporates to think about where value creation lies.”</p>
+<p>Share buybacks, deleveraging and dividend increases to shore up stock valuations and return value to shareholders in volatile equity market could be on the cards. “Companies want more certainty around cash forecasting,” adds Argue. “Access to liquidity is a priority and corporates are centralising it as much as they can.” One group of corporates in a fortunate position are Canada’s oil and gas giants in Alberta, buoyed by US$100 a barrel crude oil prices, now able to repair their balance sheets, beef up dividends and invest in production.</p>
+<p>Lastly, experts reflected on another pervasive treasury challenge in Canada’s post-pandemic economic landscape: scarce and expensive treasury talent. “There are so many job openings; companies must pay up because it’s an employees’ market,” concludes Fryer.</p>
+</div>
+</div>
+
+</div>]]></complete_body>
+	</node>
+	<node>
+		<category><![CDATA[Americas]]></category>
+		<title><![CDATA[Question Answered: Treasury in Latin America]]></title>
+		<publish_date><![CDATA[ Published: Oct 2015 ]]></publish_date>
+		<hero_image><![CDATA[]]></hero_image>
+		<complete_body><![CDATA[<div class="gs-grid__col gs-grid__col-1-10 gs-grid__col--expand" style="">
+<div class="hero hero--article spaceing">
+<div class="hero__heroarticle__img-wrap">
+</div>
+</div><div class="v-spacing--bottom">
+<h2 class="h2 copy__heading"></h2>
+<h3 class="sub-heading copy__sub-heading">This issue’s question</h3>
+<div class="copy__body"><p><em>“What’s new in the Latin American treasury space? Are there any cash management or payment innovations treasurers should be aware of, for instance?”</em></p></div>
+</div>
+<div class="v-spacing--bottom highlight-block">
+<div class="copy__body"><div class="vcard" style="min-height:150px;">
+<img alt="Juan Pablo Cuevas, Head of Global Transaction Services, Latin America, Bank of America Merrill Lynch" src="https://treasurytoday.com:443/-/media/images/regional-focus/americas/2015-10-tt-01-qa-juan-pablo-cuevas-100x150.jpg?la=en&amp;hash=7F4DF56B906D8313E17500CDDEF0974B" style="float:left;margin:0 2em 2em 0;"/>
+<h3 class="fn">Juan Pablo Cuevas</h3>
+<h5 class="title">Head of Global Transaction Services, Latin America</h5>
+<h5 class="org">Bank of America Merrill Lynch</h5>
+</div></div>
+</div>
+<div class="v-spacing--bottom">
+<h2 class="h2 copy__heading"></h2>
+<h3 class="sub-heading copy__sub-heading"></h3>
+<div class="copy__body"><p>In Latin America, the treasury space is undergoing a significant and rapid transformation as a number of forces converge to shape the future of cash management in the region. We often talk about the effects of companies expanding their operational footprints and the evolving regulatory landscape as contributors to the challenges facing treasuries today. And while there is no question that these will continue to influence and impact treasury strategies and priorities, there is another aspect driving the evolution of treasury in the region, which is the enormous focus on and investment in making cash management processes easier, safer and cheaper.</p>
+<p>This activity has been heavily influenced by two factors: advancements in technology and changing client needs and expectations. Further accelerating the evolution is the symbiotic relationship between these factors. Client needs are driving advancements in technology, and advancements in technology are influencing client expectations.</p>
+<p>Mobile is a good example of how treasury is evolving. In the last few years, consumers have adopted mobile banking in large numbers and as this usage continues to grow, treasury professionals who access their personal bank accounts from a mobile device are demanding the same functionality, speed, simplicity and transparency in the business banking environment – and at a lower cost. Banks have recognised the potential for mobile technology in the business-to-business environment and are actively working on new solutions.</p>
+<p>The introduction of mobile technology has also increased the need and expectation for real-time, ‘instant’ payments. The respective payment infrastructures in the region are responding. For example, in Mexico, the country is moving to 24/7 payments availability and is improving speed of settlement from 30 seconds to five seconds.</p>
+<p>While the popularity of mobile devices is a worldwide phenomenon, the huge growth in usage is coming from emerging markets. In fact, Latin America had the fastest rate of smartphone adoption globally in 2014, according to a report from market research firm GfK. And although consumer mobile banking transactions in the region are low right now, we expect this figure to increase soon as countries continue to evolve digitally.</p>
+<p>What’s more, the focus of emerging technologies is by no means limited to the payments space: innovation is also addressing the challenges associated with receivables and, more specifically, the reconciliation process which for many firms can be extremely challenging. In Latin America, it’s common for many companies to employ large teams specifically tasked with matching payments to the respective client and invoice. In the past, efforts to streamline reconciliation have had limited success – but a new automated accounts receivable matching solution could help companies post cash faster, reduce days sales outstanding and increase efficiency.</p>
+<p>The innovation applies rules defined by a company, and matches payments to the company’s open accounts receivable files. The technology is able to identify exceptions, which can then be corrected online before being posted. By reconciling payments faster, companies may be able to free up their customers’ credit limits – potentially increasing sales – while also improving their own working capital cycles.</p>
+<p>From an overall innovation perspective, the game has changed and technology is constantly evolving. Understanding the latest advances in technology, as well as trends impacting the treasury space, will prove invaluable to companies looking to stay ahead of the cash management curve.</p></div>
+</div>
+<div class="v-spacing--bottom highlight-block">
+<div class="copy__body"><div class="vcard" style="min-height:150px;">
+<img alt="John Taboada, Director of Corporate Initiatives, Latin America, SWIFT" src="https://treasurytoday.com:443/-/media/images/regional-focus/americas/2015-10-tt-01-qa-john-taboada-100x150.jpg?la=en&amp;hash=8D7E482DFD0F0E5F294294C430483DDC" style="float:left;margin:0 2em 2em 0;"/>
+<h3 class="fn">John Taboada</h3>
+<h5 class="title">Director of Corporate Initiatives, Latin America</h5>
+<h5 class="org">SWIFT</h5>
+</div></div>
+</div>
+<div class="v-spacing--bottom">
+<h2 class="h2 copy__heading"></h2>
+<h3 class="sub-heading copy__sub-heading"></h3>
+<div class="copy__body"><p>Managing cash and liquidity effectively and efficiently is the cornerstone of a well-run treasury function across the globe. Latin America is no exception. The region, much like similar markets, faces the challenge of managing manual processes which are both risky and costly. This problem is then compounded by regional nuances such as operating in different countries with different currencies, varied bank statement formats and several electronic banking systems and host-to-host applications. More than ever before, Latin American treasurers are seeking technology to help facilitate automation, standardisation and provide better cash visibility.</p>
+<p>The shift to better and more robust, standardised technology is building significant momentum amongst treasurers in Latin America. This means that innovation and standardisation is moving into the spotlight, receiving greater precedent on the way. Treasurers are making the most of new technology that provides them with such features as a dashboard for customised reporting, drill-down capabilities as well as timely visibility of the opening position of the day. When treasurers can access multi and single-currency views and streamlined reconciliation processes, they can ultimately get to market faster.</p>
+<p>Participation from the corporate sector which began leveraging SWIFT connectivity in 1999 has grown at a rapid pace. Today, we have over 1500 corporates connected on SWIFT and this trend is also seen in Latin America where corporate connectivity has grown to over 50 connections over the last five years. Additionally, banks are also increasingly adopting ISO 20022 messaging to standardise the way they interact with their corporate clients, which is helping drive participation.</p>
+<p>Corporate treasurers are leveraging SWIFT’s technology to consolidate financial institution statements, translate them and then transfer them into their back office system. This eliminates a series of manual processes, including managing external devices, logging onto multiple banking portals and downloading multi-formatted statements which then require conversion into a standard format.</p>
+</div>
+</div>
+<div class="v-spacing--bottom highlight-block">
+<div class="copy__body"><div class="vcard" style="min-height:150px;">
+<img alt="Jose Luis López-Sors, Head of Transaction Banking Latin America, BBVA" src="https://treasurytoday.com:443/-/media/images/regional-focus/americas/2015-10-tt-01-qa-jose-luis-lopez-sors-100x150.jpg?la=en&amp;hash=75A3BEB1A23DD1EB9A93A80690FBFBFA" style="float:left;margin:0 2em 2em 0;"/>
+<h3 class="fn">Jose Luis López-Sors</h3>
+<h5 class="title">Head of Transaction Banking Latin America</h5>
+<h5 class="org">BBVA</h5>
+</div></div>
+</div>
+<div class="v-spacing--bottom">
+<h2 class="h2 copy__heading"></h2>
+<h3 class="sub-heading copy__sub-heading"></h3>
+<div class="copy__body"><p>Technology is without doubt changing the landscape related to banking services in the region. It brings, on one hand, the possibility of ‘digitising’ payment and collection services that today still rely extensively on the use of cash and, on the other, the efficiencies brought by the integration of payment and collection information into ERPs.</p>
+<p>The fast growing penetration of mobile and smartphone users offers multiple opportunities to bring efficiency and minimise the use of cash and physical branch services, as well as reaching the non-banked population that need to receive payments without opening bank accounts or issuing physical credit cards as those remain too costly.</p>
+<p>Some examples of such services include: ‘Mass Mobile Payments’ by which a corporate or government payer issues payments by sending codes to mobile users that can retrieve the cash on ATMs without a credit card, the development of apps to manage branch queues by informing the user of the estimated time to be attended and pre-register the operations to be made and the use of real-time information related to a payment to unblock the delivery of goods. In all cases, the result is a reduction in the use of the branch services, which still remains one of the big challenges in the region for corporates as queues are still, unfortunately, a reality and represent a time-consuming task for companies.</p></div>
+</div>
+<div class="v-spacing--bottom quote-block" style="">
+<blockquote>It brings, on one hand, the possibility of ‘digitising’ payment and collection services that today still rely extensively on the use of cash and, on the other, the efficiencies brought by the integration of payment and collection information into ERPs.</blockquote>
+<p class="quote-block__source"></p>
+</div>
+<div class="v-spacing--bottom">
+<h2 class="h2 copy__heading"></h2>
+<h3 class="sub-heading copy__sub-heading"></h3>
+<div class="copy__body"><p>But mobile use is only one part of the digital revolution we are facing today. When we look on the corporate side, the degree of automation of tasks that can be achieved using ERP integration represents an excellent opportunity to reduce low value-added tasks that are executed today by treasury teams (for example, reconciliation of payments and collections). Therefore, efforts can be focused on treasury planning and forecasting.</p>
+<p>As an example, direct channels like SWIFTnet and host-to-host bring corporates the opportunity to issue payment and collection files, track the status of each transaction and reconcile it without any human intervention, connecting the corporate ERP and the bank systems without navigating through a web portal. An additional factor is the possibility of standardising the file formats, channels and heterogeneous processing of several countries and banks using regional players and standard XML messages, reducing dramatically the need of costly IT developments on the corporate side to adapt to each local bank.</p></div>
+</div>
+<div class="v-spacing--bottom highlight-block">
+<h2 class="h3 copy__heading">Next question:</h2>
+<div class="copy__body"><p><em>“What is best practice when implementing electronic cheque deposit scanners? What processes do corporates have in place to fully leverage this product? Also, once the cheques are scanned, for how long should they be kept?”</em></p>
+<p>Please send your comments and responses to <a href="mailto:qa@treasurytoday.com">qa@treasurytoday.com</a></p></div>
+</div>
+
+</div>]]></complete_body>
+	</node>
+	<node>
+		<category><![CDATA[Americas]]></category>
+		<title><![CDATA[Colombia: top of the class]]></title>
+		<publish_date><![CDATA[ Published: Mar 2015 ]]></publish_date>
+		<hero_image><![CDATA[https://treasurytoday.com:443/-/media/images/regional-focus/americas/201503tt09cyffamousancientarchaeologicalattractionlaciudadperdidalostcityss154379651920x1080.jpg?w=420&usecustomfunctions=1¢ercrop=1&hash=ED0D888F70C84690849848ABEFD39DFA]]></hero_image>
+		<complete_body><![CDATA[<div class="gs-grid__col gs-grid__col-1-10 gs-grid__col--expand" style="">
+<div class="hero hero--article ">
+<div class="hero__heroarticle__img-wrap">
+<p><em>Economic growth in Colombia has exceeded the world’s average growth rate every year – bar 2010 – this century. Although impressive growth rates have sometimes been attributed to ‘good fortune’ in rich natural resources, this article explores the role that robust economic management has played in helping the nation successfully cope with external shock factors. We also examine what the future holds for the country’s economy and those corporates operating in and out of Colombia.</em></p>
+<picture class="hero__picture" imgclass=".heroarticle_summary__img"><!--[if IE 9]><video style='display: none;'><![endif]--><source media="(min-width: 1440px)" srcset="https://treasurytoday.com:443/-/media/images/regional-focus/americas/201503tt09cyffamousancientarchaeologicalattractionlaciudadperdidalostcityss154379651920x1080.jpg?w=1800&amp;usecustomfunctions=1¢ercrop=1&amp;hash=6D9DD777E27B8D971DF6EAECB118C310"/><!--[if IE 9]></video><![endif]--><!--[if IE 9]><video style='display: none;'><![endif]--><source media="(min-width: 1200px)" srcset="https://treasurytoday.com:443/-/media/images/regional-focus/americas/201503tt09cyffamousancientarchaeologicalattractionlaciudadperdidalostcityss154379651920x1080.jpg?w=1400&amp;usecustomfunctions=1¢ercrop=1&amp;hash=1C70105575744DF0D877A01292E1BE25"/><!--[if IE 9]></video><![endif]--><!--[if IE 9]><video style='display: none;'><![endif]--><source media="(min-width: 1024px)" srcset="https://treasurytoday.com:443/-/media/images/regional-focus/americas/201503tt09cyffamousancientarchaeologicalattractionlaciudadperdidalostcityss154379651920x1080.jpg?w=1200&amp;usecustomfunctions=1¢ercrop=1&amp;hash=EDFDF3C348B1BEC28BACCEBC24EEB076"/><!--[if IE 9]></video><![endif]--><!--[if IE 9]><video style='display: none;'><![endif]--><source media="(min-width: 769px)" srcset="https://treasurytoday.com:443/-/media/images/regional-focus/americas/201503tt09cyffamousancientarchaeologicalattractionlaciudadperdidalostcityss154379651920x1080.jpg?w=1024&amp;usecustomfunctions=1¢ercrop=1&amp;hash=B01C99EE4A4D276D7F5B7C262EBF2E0B"/><!--[if IE 9]></video><![endif]--><!--[if IE 9]><video style='display: none;'><![endif]--><source media="(min-width: 550px)" srcset="https://treasurytoday.com:443/-/media/images/regional-focus/americas/201503tt09cyffamousancientarchaeologicalattractionlaciudadperdidalostcityss154379651920x1080.jpg?w=638&amp;usecustomfunctions=1¢ercrop=1&amp;hash=F90E88B12D5023D646FE5320C8BF9B79"/><!--[if IE 9]></video><![endif]--><img alt="Famous ancient archaeological attraction" class=".heroarticle_summary__img" src="https://treasurytoday.com:443/-/media/images/regional-focus/americas/201503tt09cyffamousancientarchaeologicalattractionlaciudadperdidalostcityss154379651920x1080.jpg?w=420&amp;usecustomfunctions=1¢ercrop=1&amp;hash=ED0D888F70C84690849848ABEFD39DFA" srcset="https://treasurytoday.com:443/-/media/images/regional-focus/americas/201503tt09cyffamousancientarchaeologicalattractionlaciudadperdidalostcityss154379651920x1080.jpg?w=420&amp;usecustomfunctions=1¢ercrop=1&amp;hash=ED0D888F70C84690849848ABEFD39DFA"/></picture> </div>
+</div>
+<div class="v-spacing--bottom highlight-block">
+<div class="copy__body">
+<h3>Key facts</h3>
+<dl>
+<dt>Population:</dt>
+<dd>48.32 million (2013)</dd>
+<dt>GDP per capita:</dt>
+<dd>$378.4 billion (2013)</dd>
+<dt>GDP annual growth:</dt>
+<dd>4.7% (2013), 4.7% (2014e)</dd>
+<dt>Ease of doing business rank (2015):</dt>
+<dd>34</dd>
+<dt>Index of economic freedom (2015):</dt>
+<dd>28</dd>
+</dl>
+</div>
+</div>
+<div class="v-spacing--bottom">
+<h2 class="h2 copy__heading"></h2>
+<h3 class="sub-heading copy__sub-heading"></h3>
+<div class="copy__body"><p>Colombia shouldn’t suffer from the perceptions of the past; the reality of the last decade has brought extraordinary change to the country. The past five years, in particular, have seen major milestones reached in Colombia’s economic journey. The country gained much-sought-after promotion to investment-grade status in 2011 from Standard &amp; Poor’s, Moody’s and Fitch, where it remains. And, in 2013, the annual level of foreign direct investment (FDI) reached a record high of $16.8 billion.</p>
+<p>Juan Pablo Cuevas, Head of GTS Latin America and Caribbean, Bank of America Merrill Lynch, explains that “in recent years, we have seen an incredible flow of FDI into Colombia, there really has been a lot of interest in companies going to work there and the economy is booming today.”</p>
+<p>Furthermore, “in 2014, Colombia was the strongest performing economy in Latin America. The country did not experience the same drastic slowdown as other commodity exporters, such as Chile and Peru,” says Marcos Buscaglia, Head of Latin America Economics, Bank of America Merrill Lynch Global Research. Exemplified by a GDP growth estimate for 2014 of 4.7% – compared to regional examples of 0.1% for Brazil, 2.4% for Peru and 1.7% for Chile – Colombia has been outperforming its regional peers.</p>
+<p>This impressive growth is indicative of the government’s consistently sound economic policies that have strengthened the country’s ability to weather external shocks. Focusing on fiscal discipline, flexible exchange rate management, inflation targeting and investments in infrastructure (in October 2012, the government pledged a $10 billion spend over ten years), the resulting macroeconomic stability has convinced investors that improvements are here to stay.</p>
+<p>Achievements such as these are no small feat for a country overcoming armed conflict. For more than 50 years, the struggle to defeat Revolutionary Armed Forces of Colombia (Fuerzas Aramadas Revolucionarias de Colombia or FARC) guerrillas had sidelined Colombia from international markets.</p>
+<h3 id="developments-towards-peace">Developments towards peace</h3>
+<p>In October 2012, the government started formal peace negotiations with the FARC. Now, three years on, both sides could be close to a final agreement. Peace talks have reached – and signed – vital agreements on land reform and how thousands of acres will be returned to displaced populations.</p>
+<p>The crucial objective yet to be reached is how best to balance peace, reconciliation and retribution. If this can be achieved, it could end one of the longest periods of violence experienced in any country throughout the 20<sup>th</sup> and 21<sup>st</sup> centuries.</p>
+<p>In terms of the impact this will have on the Columbian economy, according to Buscaglia, it must be noted that “most of the peace dividend has already been reaped in recent years. So, although signing a peace agreement will bring additional benefits, they won’t be as high in net terms – considering the costs of implementing the peace process – as they were in past years.”</p>
+<h3 id="trouble-spots">Trouble spots?</h3>
+<p>Although violence in Colombia may be reducing, concerns are being raised around the country’s over reliance on the oil and mining industries – which accounted for over 80% of all FDI in 2012. Net energy exports also account for approximately 8.4% of the country’s GDP, meaning that Colombia could be vulnerable to globally declining oil prices.</p>
+<p>That said, Scotiabank’s Regional Outlook from November 2014 reports that “the Colombian financial sector is systemically sound and adequately capitalised to withstand financial market shocks caused by a steep oil price decline.” Colombia’s flexible exchange rate (stimulating other sectors of economic activity and partially offsetting lower oil revenues) and countercyclical fiscal policy should act as buffers – broader public deficits cushioning the negative impacts from external shocks.</p>
+<p>Additionally, ending rebel attacks should eliminate lost output caused by destroyed pipelines, costing $500m in 2014. So, although the global decline in oil prices could result in wider twin fiscal and current account deficits, the government predicts economic growth of 4.2% (lowered from 4.8%) for 2015 – more than twice the 1.3% forecast for the Latin America and Caribbean region. Bank of America Merrill Lynch Global Research, however, predicts the Colombian economy to slow down to 2% in 2015 and Scotiabank to 3.5%.</p>
+<h3 id="banking-sector">Banking sector</h3>
+<p>Colombia’s banking system comprises 22 privately owned banks, of which 11 are domestic, nine are foreign and one is state-owned (Banco Agrario). The two largest banking groups – Grupo Sarmiento Angulo (Banco de Bogotá) and Grupo Empresarial Antiogueño (Bancolombia) – are domestically owned and accounted for approximately 53% of the private banking sector’s total assets in May 2014.</p>
+<p>“The local banks have considerable market share and sufficient financial muscle to endeavour in new markets, accompanying some local corporates to expand into Central America, for instance,” explains BBVA’s Carlos Galindo, Head of Global Transaction Banking in Colombia. The financial crisis of 1998-99 meant that whilst many of the larger Latin American banks took advantage of the turbulent financial conditions and bought up other banks, numerous foreign banks opted to sell operations in Colombia.</p>
+<p>Recent acquisitions demonstrate that Latin American banks are still dominant in Colombia, these include: Chilean CorpBanca’s entrance into the Colombian banking sector through the acquisition of Spain’s Santander’s local subsidiary renaming the entity CorpBanca Colombia (2011), CorpBanca’s further expansion of operations in Colombia through its purchase of Helm Bank (2012) and Bancolombia’s purchase of HSBC’s Panama operations (2014).</p>
+<p>Foreign banks – including BBVA, Bank of America Merrill Lynch, Citibank, GNB Sudameris and ProCredit – however do remain active in the banking sector. Their presence is without doubt intensifying competition and the amount of investment directed towards advanced technologies.</p>
+<p>But what does all this mean for treasurers operating in the region? “The financial sector is suitable and prepared to attend to corporate clients’ needs,” says Galindo. Furthermore, according to Cuevas, “corporates can trust the institutions in Colombia. Many years ago, it was much more complicated but these days the country has a very strong financial system which is regulated by the Financial Superintendency of Colombia (SFC). The financial sector of Colombia exhibits good corporate governance, SFC are always on top of the companies and are doing a phenomenal job.”</p>
+<h3 id="payments">Payments</h3>
+<ul>
+<li>
+<h5>Cash.</h5>
+<p>The amount of paper and coin has dramatically reduced but cash remains an important payment instrument, particularly for low-value transactions. Transactions completed using cash are exempt from the financial transactions tax.</p>
+</li>
+<li>
+<h5>Cheques.</h5>
+<p>These have been increasingly replaced by electronic payment products since the 2000s – the number of cheques processed peaked at 212 million in 1996.</p>
+</li>
+<li>
+<h5>Payment cards.</h5>
+<p>During the past decade the use of payment cards has steadily increased. Between 2011 and 2012, transactions completed using debit cards increased by 16.9% and, for credit cards, by 3.7%. In 2013, there were 18,417,238 debit cards and 11,226,733 credit cards in circulation.</p>
+</li>
+<li>
+<h5>Credit transfers.</h5>
+<p>Electronic credit transfers are used by companies for salary, supplier and benefit payments. High-value, urgent credit transfers are cleared and settled via CUD on a real-time basis. Low-value, non-urgent credit transfers are batched and processed through ACH Colombia (for company and individual payments) or ACH CENIT (for government collections or payments).</p>
+</li>
+<li>
+<h5>Direct debits.</h5>
+<p>These are relatively uncommon in the region but their use has slowly grown in the last five years in Colombia. When they are used, it tends to be for utility bills. Direct debits are also processed via ACH Colombia or ACH CENIT.</p>
+</li>
+</ul>
+<figure>
+<figcaption>
+<h4 id="table-1">Table 1: Physical access of financial services</h4>
+</figcaption>
+<table>
+<thead>
+<tr>
+<th><br/>
+</th>
+<th>2008</th>
+<th>2012</th>
+</tr>
+</thead>
+<tbody class="td-right">
+<tr>
+<th colspan="3">Commercial bank branches</th>
+</tr>
+<tr>
+<th>Per 1,000 km<sup>2</sup></th>
+<td>4.0</td>
+<td>4.6</td>
+</tr>
+<tr>
+<th>Per 100,000 adults</th>
+<td>14.0</td>
+<td>14.9</td>
+</tr>
+<tr>
+<th colspan="3">ATMs</th>
+</tr>
+<tr>
+<th>Per 1,000km<sup>2</sup></th>
+<td>7.7</td>
+<td>11.1</td>
+</tr>
+<tr>
+<th>Per 100,000 adults</th>
+<td>27.0</td>
+<td>35.8</td>
+</tr>
+</tbody>
+</table>
+<p class="source"><em>Source: IMF</em></p>
+</figure>
+<p>Payments of high value tend to be made electronically whilst lower value transactions seem resistant to follow suit. The Better Than Cash Alliance notes an accelerated shift away from cash in recent years, 69% of the value of money was paid electronically each month in 2012. However, this value only represents 9.7% of the volume of the 828 million payments paid monthly in 2012. The government hopes to lead the way in electronic-payment progression (where they provide a preferable payment option to cash), its own payments are largely electronic – 94% by value and 76% by volume.</p>
+<p>But progression could face a tough reality: only 18% of the 1.6 million small businesses in Colombia have a formal relationship with the financial system – the informal cash economy gives an indication of just how prevalent informal employment is in some areas of Colombia. Furthermore, improvements to physical access of financial services are proving rather slow (<a href="#table-1">Table 1</a>).</p>
+<h3 id="drivers-of-change">Drivers of change</h3>
+<p>Nevertheless, there is a wide recognition of the need for change – and large local corporates are emerging as the champions of this change. “It is the larger Colombian companies that have been expanding through Central and Latin America, described as ‘multilatinas’, which are driving the migration towards enhanced technologies and host to host systems. Going forward, it will be these expanding firms that will be looking for more centralisation of treasury and demanding more electronic types of payment cross-regional to increase their efficiency,” says Cuevas.</p>
+<p>This is a visible trend also noted by Galindo, “regionalisation is happening between Colombia and the Pacific Alliance countries. This is reflected in the current demands from our corporate clients, which, being either subsidiaries or regional corporates (not headquartered in Colombia), are landing in Colombia to establish regional treasuries. This evolution is demanding banks to deliver better products regarding regional platforms, multi-currency platforms and multi-country support.</p>
+<h4 id="chart-1">Chart 1: Colombia’s GDP growth rate</h4>
+<p><a href="https://treasurytoday.com:443/-/media/images/regional-focus/americas/2015-03-tt-09-cyf-chart-01-colombia-gdp-growth-rate-970x455.jpg?la=en&amp;hash=AC1A45CE8802CCCF4A965B2F7F274C3E" target="_blank"><img alt="Chart 1: Colombia’s GDP growth rate" src="https://treasurytoday.com:443/-/media/images/regional-focus/americas/2015-03-tt-09-cyf-chart-01-colombia-gdp-growth-rate-970x455.jpg?la=en&amp;hash=AC1A45CE8802CCCF4A965B2F7F274C3E" width="970"/></a></p>
+<p class="source"><em>Source: Central Bank/World Bank</em></p>
+<p>“What we are seeing right now is the growing need of any corporate, no matter whether local, regional or subsidiary, to expand across the region. Thus, both regional and global banks must deliver the best solutions to integrate clusters of countries and create efficient schemes of vertical integration which can be used in several different countries, depending on the client’s needs.”</p>
+<h3 id="corporate-attraction">Corporate attraction</h3>
+<p>Colombia has certainly been doing all it can to improve the business environment for corporates in recent years, being ranked 34<sup>th</sup> globally in the World Bank Group’s ease of doing business 2015 – up 19 places since 2014 and outperforming the regional Latin American and Caribbean average. The country also received its highest ever rank of economic freedom, placed 28<sup>th</sup> in the world by the Heritage Foundation.</p>
+<p>Increased innovation within the local population has also seen Colombia being recognised as an international leader in entrepreneurship by the World Economic Forum (WEF). WEF citied Colombia, along with Chile, as the current global benchmark – largely as a result of its aggressive entrepreneurship policymaking programmes. The report also emphasised that peace would only further productivity and competitiveness in Colombia.</p>
+<p>Such achievements recognise that Colombian legal and regulatory systems are, for the most part, transparent and consistent with international standards. The Organisation for Economic Co-operation and Development (OECD), which Colombia is in the formal accession process with, found that legal frameworks in the country are compatible with OECD standards of corporate governance. This investigation was completed at Colombia’s request – yet another indication of the government’s proactive attitude.</p>
+<p>Furthermore, Colombia has shed its association with corruption. Cuevas explains that “the country has the strong institutions and legal frameworks necessary for corporates to do business and continues to replicate good practices from around the world.”</p>
+<p>Despite the positive developments, one of the major headaches corporates still face in the country is the existence of a financial transaction tax, currently levied at 4% per 1,000 pesos or 0.4%. In 2013, the International Monetary Fund (IMF) recommended that phasing out the financial transaction tax faster than currently planned should be a priority, but the 2014 tax reform incorporates the extension of the financial transaction tax until 2018.</p>
+<p>It is likely however that, as the economy further expands over the years leading up to the 2018 deadline, the financial transaction tax could be reduced.</p>
+<h3 id="country-outlook">Country outlook</h3>
+<p>So where next for the country? “Sentiment is positive in Colombia and the country remains very attractive to international investors – but the drivers of growth will change in coming years,” says Buscaglia. “Previously, the high prices of oil have attracted an important flow of investment and capital inflows helped domestic demand – hence there was strong investment into the service sector, shopping malls, for instance. This is likely to change. The weakened exchange rate means export sectors (other than oil) and import-competing sectors will benefit the most in coming years. There will be a change, and slowdown, in the engines of growth but certainly not into reverse gear,” he explains.</p>
+<p>In addition, the rise of ‘multilatinas’ will pave the way for further FDI and encourage technology, markets, and legislation across Latin America to become more homogenised. Whilst a decline in oil prices beyond 2015 could present challenges, with multiple market opportunities, expanding trade links (exports and imports rose to an estimated 31% of GDP in 2013) and confidence in ending armed violence, Colombia should continue to keep pace with its already high standards.</p></div>
+</div>
+
+</div>]]></complete_body>
+	</node>
+	<node>
+		<category><![CDATA[Americas]]></category>
+		<title><![CDATA[Pension reform in Chile: retiring the state]]></title>
+		<publish_date><![CDATA[ Published: Nov 2014 ]]></publish_date>
+		<hero_image><![CDATA[]]></hero_image>
+		<complete_body><![CDATA[<div class="gs-grid__col gs-grid__col-1-10 gs-grid__col--expand" style="">
+<div class="hero hero--article spaceing">
+<div class="hero__heroarticle__img-wrap">
+</div>
+</div><div class="v-spacing--bottom">
+<h2 class="h2 copy__heading"></h2>
+<h3 class="sub-heading copy__sub-heading"></h3>
+<div class="copy__body"><p>Chile’s privatised pension insurance is one of the most celebrated and indeed imitated arrangements of its kind in the world today. The system of privatised accounts managed by private funds introduced in 1981 was deemed to be so successful that it became a model from which countries as diverse as Poland and Nigeria have borrowed elements from. In 2004, US President George W. Bush even went so far as to call it a “great example” which America could learn “lessons from” when reforming its own pension system. If imitation is indeed the sincerest form of flattery, then Chile’s pension system clearly has a lot of admirers.</p>
+<p>The murky political setting from which Chile’s pension revolution arose cannot be avoided, however. In the early 1980s, Chile was ruled by the military regime of General Augusto Pinochet – now widely acknowledged to have committed numerous human rights abuses, including the kidnap, torture and murder of large numbers of its own citizens.</p>
+<p>In democracies, welfare reform is always challenging, not least because those who are accountable to the electorate are mindful that somebody almost always loses out. ‘Win-win’ scenarios, as we will see, are very much a rarity in pension reform. But for reasons that should be obvious, a public backlash is not something the Pinochet regime would have spent too much time agonising over.</p>
+<h3 id="the-chicago-boys">The ‘Chicago Boys’</h3>
+<p>General Pinochet first seized power following a military coup d’état on 11<sup>th</sup> September 1973, that came about after a severe economic crisis and perceived breakdown in democracy destabilised the presidency of socialist leader Salvador Allende. After deposing Allende, who died in uncertain circumstances as troops surrounded La Moneda Palace, Pinochet’s first priority in power was to do something about Chile’s inflation-ravished economy. With no economic expertise within their own ranks, the military regime brought in a group of Chilean economists educated in Chicago under the tutelage of the eminent American economist Milton Friedman.</p>
+<blockquote>
+<p>“So severe was the danger of a complete collapse, small minor tweaks would not suffice. The country, the Chicago Boys said, needed nothing less than a form of economic shock therapy.”</p>
+</blockquote>
+<p>The ‘Chicago Boys’, as they came to be known, were just about the counter opposite of the Allende regime in ideological terms. While Allende’s government had seen the solution to Chile’s economic predicament as more nationalisation and more central planning, the Chicago Boys, in stark contrast, advocated leaving market forces to steer the economy.</p>
+<p>But so severe was the danger of a complete collapse they argued, that small, minor tweaks would simply not suffice. The country, the Chicago Boys said, needed nothing less than a form of economic ‘shock therapy’, an unfortunate term – given the grim political realities amid which the policy was implemented – that had been coined by their mentor, Friedman. A multitude of free market polices were subsequently introduced in a very short space of time. Government intervention and public enterprises were restricted; businesses expropriated under Allende were returned to the private sector; price controls were abolished and financial markets deregulated; labour unions were suppressed; and progressive taxes either abolished or significantly reduced.</p>
+<p>Within a couple of years, inflation began to return to more manageable levels and, after the recession of 1975, growth began to accelerate once again, thanks largely to a surge in foreign direct investment, and the country entered into a boom that would last the rest of the decade. Now, spurred on by shock therapy’s apparent success, the Pinochet regime set its sights on the state’s final remaining frontier: the welfare system.</p>
+<h3 id="the-pinera-plan">The Piñera plan</h3>
+<p>Social security in Chile first came into being in the early 1920s with reforms that established a system in which retirement income was provided by a range of state administered pay-as-you-go (PAYGO) pension funds. PAYGO schemes have, perhaps unfairly, been likened by some to a “Ponzi” scheme: active contributors finance retirement payments to pensioners and increasing obligations are supposedly met by both drawing on the stock of accumulated savings and their accumulated net income. This arrangement worked, to begin with. However, by the early 1970s benefits had been increased to such a degree that the system in Chile was no longer financially sustainable, even if the government chose to raise contribution rates (which were, by that time, already representing more than 50% of a workers annual salary).</p>
+<p>José Piñera, Chile’s Minister of Labour, and one of the leading members of the Chicago Boys, had longed for many years to oversee the overhaul of Chile’s pension system. For Piñera, the Bismarckian PAYG system inherited by the Pinochet regime was an anathema to his laissez-faire principles. For one thing, the system was mildly redistributive. However, in Piñera’s eyes the worst sin of all was that it almost completely ignored the investment potential of the market. In the late 1970s he drew up a plan that would radically change that.</p>
+<p>On 4<sup>th</sup> November 1980, the military government approved decrees designed to reshape the country’s pension system. The state managed and, by then, insolvent pension regime, was to be replaced by a system based on individual retirement accounts administrated by private companies, or “administradoras de fondos de pensiones” (AFPs).</p>
+<p>All Chileans already in employment – with the exception of the armed forces – would have a choice on whether to opt in to the new scheme, or remain on the ‘grandfather’ system, but were offered financial incentives to go private. New entrants to the labour market however, were not offered the former state pension. Under the new, privatised system, workers no longer paid a social security tax to the state or collected a state-funded pension. Instead, those that opted to switch to the new system were required to deposit 10% of their wages to an AFP of their choice. Workers were also free to contribute an additional 10% of their wages each month if they hoped to retire early or obtain a higher pension. One of the keys to the new system was the ability for contributors to change from one AFP to another. That helped to foster competition between the various providers to offer a higher return on investment, better customer service and lower commission.</p>
+<p>Once the age of retirement is reached, Chileans on the private scheme had two options. First, a programme of withdrawals could be set up, subject to limits based on the life expectancy of the retirees and their dependents. Alternatively, contributors could choose to use capital in their account to purchase an annuity from a private life insurance company.</p>
+<h3 id="miracle-of-chile">“Miracle of Chile”</h3>
+<p>There was clearly much to admire in the new pension system Piñera helped establish. Since the system became active on 1<sup>st</sup> May 1981 the funds have averaged a real return on investment of around 10-12% per year, around three times higher than even Piñera himself anticipated. Of course, like with any investment vehicle, annual yields have fluctuated to a degree, however, when it comes to pensions, it is the average over the long term that is important.</p>
+<figure class="center">
+<figcaption>
+<h5 id="chart-1">Chart 1: Chilean AFP System AUM</h5>
+<p>AUM (Chilean peso (CLP) billion)</p>
+</figcaption>
+<a class="enlargeable" href="http://treasurytoday.com/i/2014/11/2014-11and12-tt-07-bigp-chart-01-chilean-afp-system-aum.png"><img alt="Chart 1: Chilean AFP System AUM" height="196" src="http://treasurytoday.com/i/2014/11/2014-11and12-tt-07-bigp-chart-01-chilean-afp-system-aum-t.png" width="300"/></a>
+<p class="source">Source: Superintendencia de Pensiones (Chile), IMF World Economic Outlook</p>
+</figure>
+<p>There were some knock-on benefits too. As Chileans began to deposit money into the new private scheme, a huge pool of capital, approximately $162 billion or 62% of GDP, accumulated. When this capital began, in turn, to be invested back into the Chilean economy it provided an enormous boost in investment, helping to drive the growth surge of the 1980s that some observers, including Piñera’s one-time mentor Friedman, called the “Miracle of Chile”.</p>
+<p>Using these facts, Piñera has been able to make a convincing case that his reforms were not only the right thing to do economically, but also from a social justice perspective. “The new pension system has made a significant contribution to the reduction of poverty,” he claimed in a recent by-lined article for The Washington Post. This feat was accomplished, he continued, by “increasing the size and certainty of old-age, survivors and disability pensions and by the indirect, but very powerful, effect of promoting economic growth and employment.”</p>
+<h3 id="ageing-gracefully">Ageing gracefully?</h3>
+<p>The general thrust of Piñera’s argument is difficult to dispute. With a measure as radical as wholesale privatisation of a public benefit scheme, however, debate was always going to be polarised to some degree. In recent years, Chileans, now ruled democratically, have revisited the Piñera reforms and a number of shortcomings have been highlighted.</p>
+<p>One of the perceived shortcomings was a lack of universal coverage. Private pensions, by their very nature, only covered those Chileans who had paid in. Therefore, labour market trends, such as long periods of unemployment, informal employment or withdrawal from the labour market due to family obligations, meant that a significant number of workers – up to 40% by some estimates – were not making the regular payments that would guarantee them an adequate pension in retirement. Something had to be done.</p>
+<p>In 2008, the Chilean government, under the presidency of the Socialist Party leader Michelle Bachelet, decided the time was right for a revamp. But the Piñera reforms were not swept under the carpet entirely – at least for the time being. Instead Bachelet government brought in a World Bank-approved “three pillar” reform to provide a basic universal pension for individuals within the bottom 60% of income distribution not covered by a private scheme. Under the new system, individuals who did not contribute to a pension during their working life are provided with a small monthly sum of around $150, while those who did contribute but accumulated little are entitled to an additional subsidy of the same amount.</p>
+<p>The overhaul may not stop there, however. This year, Bachelet was elected for a second time after winning a landslide victory over the conservative Independent Democratic Union candidate, Evelyn Matthei. On the campaign trail, Bachelet made repeated promises to look again at the private pension system, and analyse whether it has lived up to its promises. No formal decision has been made, as yet. However, conservative opponents are concerned that this might spell the end for a system which they say remains the “envy of the world”.</p>
+<figure class="center">
+<figcaption>
+<h5 id="chart-2">Chart 2: The Chilean Model</h5>
+<p>In Chile 73% of retirement savings come from the profits on investments. Just 27% come from contributions.</p>
+</figcaption>
+<a class="enlargeable" href="http://treasurytoday.com/i/2014/11/2014-11and12-tt-07-bigp-chart-02-the-chilean-model.png"><img alt="Chart 2: The Chilean Model" height="193" src="http://treasurytoday.com/i/2014/11/2014-11and12-tt-07-bigp-chart-02-the-chilean-model-t.png" width="300"/></a>
+<p class="source">Source: Chilean Association of Pension Fund Administrators (AFP)</p>
+</figure>
+<h3 id="learning-from-chile">Learning from Chile</h3>
+<p>But should other countries continue to hold Chile up as an example to envy and to learn from? The reforms introduced by Piñera certainly helped to bring dynamism to the Chilean economy and addressed the shortcomings of the old system (the same shortcomings many state pension systems in the West are now grappling with). But the large numbers of Chileans left without pension coverage shows us that the system was not perfect. A system that fails nearly half of its population cannot, after all, claim to be an unmitigated success. This, perhaps, helps to explain why, where countries have sought to learn from Chilean pension reform, few have chosen to import the model wholesale.</p>
+<p>Instead, most countries have sought to borrow the most successful elements of the reform – namely personal accounts with private providers leveraging the investment potential of the market – but balanced with the option of state provision to provide coverage for those who still need it.</p>
+<p>There may also be another reason why other countries have struggled to follow the Chilean plan to the exact letter. That reason is consent. It goes without saying that the experiment undertaken by Chile over a quarter of a century ago was highly radical in its nature. Indeed, the system that was adopted was – and remains – so radical that it seems doubtful many democratically elected governments would view it as a practicable solution.</p>
+<p>Even former UK Prime Minister, Margaret Thatcher, a close friend of Pinochet – and hardly someone who could be accused of harbouring socialist sympathies – dismissed the idea of following Chile’s example as too extreme when it was suggested to her. Chile, she was reported to have said, was indeed a “remarkable success” but added that Britain’s “democratic institutions and the need for a high degree of consent” make “some of the measures” taken to reform pensions “quite unacceptable.”</p>
+<p>The extent to which other countries can follow Chile though may be beside the point, though. Back in 1940s war-torn Britain, William Beveridge, to many the founding father of the welfare state, designed a system of state administrated insurance to protect citizens from the risks associated with life events – such as old age – that could see them slide into poverty. What José Piñera proved was that it is possible, to an extent, to take the state out of the equation in the provision of such insurance. And when that happens, those who are covered often find themselves better off as a result. “The ultimate lesson,” he later wrote, “is that the only revolutions that are successful are those that trust the individual, and the wonders that individuals can do when they are free”.</p></div>
+</div>
+
+</div>]]></complete_body>
+	</node>
+	<node>
+		<category><![CDATA[Americas]]></category>
+		<title><![CDATA[Mexico: trading up]]></title>
+		<publish_date><![CDATA[ Published: May 2014 ]]></publish_date>
+		<hero_image><![CDATA[]]></hero_image>
+		<complete_body><![CDATA[<div class="gs-grid__col gs-grid__col-1-10 gs-grid__col--expand" style="">
+<div class="hero hero--article spaceing">
+<div class="hero__heroarticle__img-wrap">
+</div>
+</div><div class="v-spacing--bottom">
+<h2 class="h2 copy__heading"></h2>
+<h3 class="sub-heading copy__sub-heading"></h3>
+<div class="copy__body"><div class="country-facts" style="width:250px;margin-bottom:2em;">
+<h4>Key facts</h4>
+<dl>
+<dt>Population:</dt><dd>120.8 million<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></dd>
+<dt>GDP per capita 2013 (US dollars):</dt><dd>$10,629.88<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup></dd>
+<dt>GDP percent change 2013:</dt><dd>1.1%<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup></dd>
+<dt>Current account balance 2013 (US dollars/billions):</dt><dd>-22.33<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup></dd>
+<dt>Inflation (average consumer prices) percent change:</dt><dd>3.804 (2013)<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup></dd>
+<dt>Ease of doing business (2013) rank:</dt><dd>3 out of 189 globally<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></dd>
+<dt>Corruption perceptions index (2013) rank:</dt><dd>Joint-106 out of 175 globally<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup></dd>
+</dl>
+</div>
+<p>The birthplace of several advanced civilisations such as the Maya and Aztec, Mexico has a rich and colourful history. Conquered and colonised by Spain in the 1500s, it became an independent nation some 300 years later. Today, the country has a GDP of $1.18 trillion and is Latin America’s second largest economy, after Brazil. The service sector makes up the lion’s share (60%) of Mexico’s free market economy, with industry (37%) also contributing significantly to the economy. Following the ‘Mexican Miracle’ of growth between the 1940s and 1970s, the country’s economy has slumped and recovered several times, but has never matched the consistent growth achieved during its golden period in the mid-20<sup>th</sup> century.</p>
+<p>In 2013 Mexican economic growth fell to 1.1% – the slowest the country has seen since the recession of 2009, and well below the 3.9% it recorded in 2012. One key factor that has played a part in Mexico’s sluggish growth is the slowdown in the US manufacturing sector. With almost 80% of its exports going to the US, changes in economic conditions north of the border do not take long to filter down to Mexico. Even the weather in the US can affect Mexico’s economy, according to Mexican central bank Governor Agustín Carstens.</p>
+<p>However, while it is liable to feel the impact of negative developments in the US, Mexico’s close ties with its influential neighbour have also contributed to the Latin American country’s relative macroeconomic stability. Inflation in Mexico has not topped 6% since 2001. This stability is also reflected in the movements of the free-floating Mexican peso (MXN). For five years the MXN/USD exchange rate has hovered largely between 12-14.</p>
+<p>Marco Oviedo, Chief Economist for Mexico at Barclays, sees the MXN (which is not subject to any exchange controls) maintaining its steady course for some time to come. “As the US continues to reduce the monetary stimulus, we believe the peso will be stable compared with the rest of the emerging market currencies. Long-term the MXN has followed the USD, and if the dollar strengthens, the peso will strengthen with it. We are expecting the MXN to close this year at 12.95, implying that it will hover around 12.90-13 during the year,” he says.</p>
+<p>Another factor contributing to the country’s stable exchange rate is the North American Free Trade agreement (Nafta), signed by Canada, Mexico and the US 20 years ago. “Nafta has been key to Mexico’s currency stability,” says Juan Pablo Cuevas, Head of Global Transaction Services for Latin America and the Caribbean at Bank of America Merrill Lynch. “It has also made Mexico’s banking sector more competitive and led to the development of a host of new banking products and services between the three countries.” Certain practices can only be carried out between Nafta members, too. Cross-border sweeps for cash concentration between resident and non-resident entities, for example, can only be conducted within the bloc.</p>
+<p>Mexico is also negotiating with the US and Canada as to how the Nafta members can fit into the Trans-Pacific Partnership (TPP). If the three North American countries become part of the trade agreement, which was originally signed in 2005 by Brunei, Chile, New Zealand and Singapore, it could forge stronger trade links between them and the signatories on the other side of the Pacific.</p>
+<h3 id="political-credibility">Political credibility</h3>
+<p>Closely aligned to Mexico’s economic stability is a political credibility that is starting to inspire confidence, both domestically and further afield. “This is the best political environment since Mexico became a modern democracy and we saw a lot of reforms approved last year,” says Barclays’ Oviedo. “Though the political parties will begin to move on with their own agendas before the 2015 elections, we don’t have radical politicians in the congress, and the political conditions are very positive right now,” he says.</p>
+<p>Mexican president Enrique Peña Nieto of the PRI (Partido Revolucionario Institucional) party, has instigated a number of aggressive reforms (such as the establishment of an autonomous federal authority to challenge the dominance of telecommunications giant Telmex, and a banking reform initiative to make lending easier) to encourage economic growth through increased competitiveness since he assumed office in December 2012. Peña Nieto even featured on the cover of Time Magazine in February – further evidence of his standing as an economic reformer.</p>
+<p>Despite the determination of its leader and the many opportunities offered to Mexico through collaboration with its neighbouring economies, the country still faces significant challenges to growth.</p>
+<h3 id="a-country-divided">A country divided?</h3>
+<p>In a research paper, entitled “A tale of two Mexicos”, management consultant McKinsey &amp; Company said the country’s two-speed economy, in which large companies are highly productive while smaller firms have their output stymied by red tape, is acting as a brake on Mexico’s growth.</p>
+<p>“A modern, fast-growing Mexico, with globally competitive multinationals and cutting-edge manufacturing plants, exists amid a far larger group of traditional Mexican enterprises that do not contribute to growth,” says McKinsey in the report. “These two Mexicos are moving in opposite directions. The largest companies are raising productivity by an impressive 5.8% a year, while the productivity of small, slow-growing enterprises is falling by 6.5% a year. And with employment growing faster in the traditional Mexico, more labour is shifting to low-productivity work.”</p>
+<p>Mexico’s cash-driven ‘informal economy’ is an additional challenge here. “Thirty percent of Mexico’s total economy continues to be informal, and this portion of the economy runs entirely through cash,” says Barclays’ Oviedo.</p>
+<p>This large informal economy is a problem for Mexico in the lost tax revenue and social security contributions it represents. Indeed, some analysts believe it is holding the nation back from fulfilling its economic potential, although to what extent is unclear. What is certain, however, is that this portion of the economy – which accounted for 60% of total employment in Mexico in 2013 – is of huge significance to the country.</p>
+<p>Interestingly, while its large informal economy relies on cash as a means of exchange, Mexico has a sophisticated payments network relative to its Latin American contemporaries to support its larger businesses.</p>
+<figure>
+<table>
+<thead>
+<tr>
+<th colspan="5">Mexico</th>
+</tr>
+<tr>
+<th>Payment statistics</th>
+<th colspan="3">Millions of transations</th>
+<th>% change</th>
+</tr>
+<tr>
+<th></th>
+<th>2004</th>
+<th>2008</th>
+<th>2012</th>
+<th>2004-2012</th>
+</tr>
+</thead>
+<tbody class="td-right">
+<tr>
+<th>Cheques</th>
+<td>165.4</td>
+<td>150.0</td>
+<td>108.2</td>
+<td>-35</td>
+</tr>
+<tr>
+<th>SPEI transfers</th>
+<td>4.53</td>
+<td>41.71</td>
+<td>171.9</td>
+<td>3795</td>
+</tr>
+<tr>
+<th>ACH credit transfer</th>
+<td>12.7</td>
+<td>22.36</td>
+<td>127.9</td>
+<td>1007</td>
+</tr>
+<tr>
+<th>ACH direct debits</th>
+<td>2.38</td>
+<td>21.40</td>
+<td>15.7</td>
+<td>660</td>
+</tr>
+<tr>
+<th>Credit card payments</th>
+<td>N/A</td>
+<td>387.1</td>
+<td>383.8</td>
+<td>-1 (2008-2012)</td>
+</tr>
+<tr>
+<th>Debit card payments</th>
+<td>N/A</td>
+<td>414.0</td>
+<td>752.2</td>
+<td>82 (2008-2012)</td>
+</tr>
+</tbody>
+</table>
+</figure>
+<h3 id="payments-infrastructure">Payments infrastructure</h3>
+<p>The central bank, the Banco de México (Banxico), has driven the development of the country’s payments system. “Mexico’s payments infrastructure has been undergoing an incredible evolution over the last ten years,” says BofAML’s Cuevas. “The Banco de México has made a concerted effort to improve the system, trying to get rid of paper and move towards electronic payments. They have also created a very efficient market for the compensation of high- and low-value cheques,” he says.</p>
+<blockquote>
+<p>“Mexico has one of the more efficient and developed payments systems in the region, and it is constantly improving.”</p>
+<p><cite>Simon Shingleton, Regional Head of Multinationals Sales – Global Payments and Cash Management, Latin America, HSBC</cite></p>
+</blockquote>
+<p>The Sistema de Pagos Electrónicos Interbancarios (SPEI) is Mexico’s real-time gross settlement system, and is owned and operated by Banxico. SPEI operates on a T+0 basis. In 2012 there were 172 million SPEI transfers with a combined value of almost MXN 200 billion – an increase of 55.3% in terms of volume and 11.3% in value on the previous year.</p>
+<p>New regulation, coming into effect in September 2014, will require domestic priority payments on SPEI to be closed within five seconds (the limit is currently 30 seconds), effectively enabling instantaneous same-day transfers to be made.</p>
+<p>The Centro de Compensación Bancaria (CECOBAN) is a compensation centre owned by a consortium of banks in Mexico. It processes interbank cheques, credit transfers and direct debits in the country. CECOBAN operates on a T+1 basis.</p>
+<p>“Mexico has one of the more efficient and developed payments systems in the region, and it is constantly improving,” says Simon Shingleton, Regional Head of Multinationals Sales – Global Payments and Cash Management, Latin America, at HSBC. “Like the rest of Latin America, there is still a lot of cheque usage, especially for low value payments and in the industrial and service sectors, but electronic payments are on the up and same-day transfers are being heavily promoted by the central bank,” he adds.</p>
+<p>Cheque usage remains prevalent, accounting for 108 million transactions in 2012, although it is steadily decreasing (from 165 million and 150 million transactions in 2004 and 2008 respectively). Both MXN- and USD-denominated cheques can be drawn on Mexican banks.</p>
+<h3 id="liquidity-management">Liquidity management</h3>
+<p>Corporates operating in Mexico have almost the same range of liquidity management services at their disposal as their counterparts in Europe and the US. Cross-border cash concentration is allowed in Mexico, as is zero-balancing, although with the latter corporates must keep different currencies in separate structures.</p>
+<p>Neither notional pooling nor inter-bank cash pooling, however, are permitted in Mexico. In order to work around this restriction, some banks allow their clients to sweep MXN or USD out of Mexico into a multi-currency notional pool abroad, with the funds being swept back the same day. This arrangement effectively allows an entity to conduct notional pooling without being domiciled in Mexico.</p>
+<blockquote>
+<p>“Despite concerns over its sprawling informal economy and the continuing problem of security, Mexico’s sound economic growth and stable currency make it an attractive regional base for corporates.”</p>
+<p><cite>Simon Shingleton</cite></p>
+</blockquote>
+<p>“Besides notional pooling, all the liquidity management services a corporate would expect to have in Europe, Asia and North America, are available in Mexico, and increasing numbers of MNCs are looking to centralise regional operations in the country,” says HSBC’s Shingleton.</p>
+<p>From May of this year, banks in Mexico are required to support mobile payments, and in September, mobile payments will be allowed beyond normal business hours, from 6am to 1pm, 365 days a year.</p>
+<p>Furthermore, a financial reform package consisting of 34 financial and banking laws was published in January 2014. The new laws are intended to strengthen banking regulation and the legal framework by guaranteeing collection, increasing competition and enhancing transparency in the sector. Standard and Poor’s has said the reforms could ultimately lead to a higher banking penetration in Mexico in the long run.</p>
+<p>The largest banks in Mexico (by total assets) are BBVA Bancomer (part of BBVA Group), Banamex (part of Citigroup), Banco Santander México (part of BSCH Group), Banco Mercantil de Norte (part of Banorte) and HSBC Bank Mexico. Seventy-five percent of banking assets in Mexico are foreign owned; Banorte is the only private bank in the country that remains majority owned by domestic shareholders.</p>
+<h3 id="useful-information-for-treasurers">Useful information for treasurers</h3>
+<p>In addition to its fellow Nafta members, Mexico has free trade agreements in place with Bolivia, Chile, Columbia, Costa Rica, El Salvador, the EU, Guatemala, Honduras, Israel, Japan, Nicaragua and Uruguay. Mexico has a free trade agreement on cars with Brazil. Imports are subject to VAT of 16%, or 11% for goods imported into border regions. Certain products, including electricity, are subject to an export tax of 25-50%.</p>
+<p>The federal corporate income tax rate in Mexico is 29%. This will fall to 28% in 2015. Withholding tax is not imposed on dividends.</p>
+<p>Demand for bank credit is rising in Mexico. In April, Banorte, the country’s largest domestically owned bank, reported a 27% rise in first-quarter profits, which it said was partly the result of increased lending activity. The bank said its loan portfolio grew 12% over the year to MXN405 billion, with consumer loans up 17% and loans to SMEs up 20%. And this trend could well continue as a result of Peña Nieto’s banking reform bill, which has the increase of credit provision to the private sector as one of its key goals.</p>
+<p>Though nurturing private sector growth through banking reform has been warmly welcomed by many Mexicans, others feel Peña Nieto’s reforms have not addressed one of the biggest problems facing the country: organised crime.</p>
+<h3 id="security-concerns">Security concerns</h3>
+<p>In fact, security, particularly the ongoing problems with drug cartels, remains a challenge for Mexico. Mexico’s murder rate was 21.5 per 100,000 people according to a United Nations report published in April, and around 85,000 people are estimated to have died in drug-related killings since 2007. Barclays’ Oviedo says that while many have lauded current government’s economic reforms, there has been less enthusiasm over its approach to dealing with organised crime. “Security is the elephant in the room in Mexico,” he says.</p>
+<p>“Fighting the drug cartels was one of the main pillars of the previous administration, but since Peña Nieto came into office the government’s strategy on tackling the issue has not been particularly clear or coherent. Kidnappings and extortion have increased in certain areas of the country, although assassinations and killings have fallen on the whole. There are still a lot of security issues that need to be addressed.”</p>
+<h3 id="reactivation-of-confidence">Reactivation of confidence</h3>
+<p>Despite concerns over its sprawling informal economy and the continuing problem of security, Mexico’s sound economic growth and stable currency make it an attractive regional base for corporates, and HSBC’s Shingleton says there is a strong argument in favour of centralising treasury operations in Mexico.</p>
+<p>“Treasurers can come with confidence into the country,” says HSBC’s Shingleton. “From a liquidity management perspective, it makes sense to consider Mexico as part of a North American or global solution, as you can move money into and out of the country freely, which is not possible in some other Latin American countries. Mexico is very much geared up to work with MNCs, and many are looking at setting up SSCs there,” he adds.</p>
+<p>In April Mexico’s economy showed signs of picking up after its sluggish 2013 and beginning to 2014. Inflation fell from 4.48 to 3.89, while the consumer confidence index rose from 84.5 to 88.8, in what Banxico Governor Agustín Carstens described as a ‘reactivation’ of the economy. Now the question is whether MNCs can learn to share Mexican consumers’ confidence in the nation’s economy.</p>
+<div class="footnotes">
+<ol>
+<li id="fn:1">
+<p>World Bank <a href="#fnref:1" rev="footnote">↩</a></p>
+</li>
+<li id="fn:2">
+<p>IMF World Economic Outlook April 2014 <a href="#fnref:2" rev="footnote">↩</a></p>
+</li>
+<li id="fn:3">
+<p>Transparency International <a href="#fnref:3" rev="footnote">↩</a></p>
+</li>
+</ol>
+</div></div>
+</div>
+
+</div>]]></complete_body>
+	</node>
+	<node>
+		<category><![CDATA[Americas]]></category>
+		<title><![CDATA[Mauritius: aiming high]]></title>
+		<publish_date><![CDATA[ Published: Mar 2014 ]]></publish_date>
+		<hero_image><![CDATA[]]></hero_image>
+		<complete_body><![CDATA[<div class="gs-grid__col gs-grid__col-1-10 gs-grid__col--expand" style="">
+<div class="hero hero--article spaceing">
+<div class="hero__heroarticle__img-wrap">
+</div>
+</div><div class="v-spacing--bottom">
+<h2 class="h2 copy__heading"></h2>
+<h3 class="sub-heading copy__sub-heading"></h3>
+<div class="copy__body"><div class="country-facts" style="width:250px;margin-bottom:2em;">
+<h4>Key facts</h4>
+<dl>
+<dt>Population:</dt><dd>1.3 million.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></dd>
+<dt>GDP per capita 2013 (US dollars):</dt><dd>$9,135.64 (IMF estimate).<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup></dd>
+<dt>GDP % change 2013:</dt><dd>3.4% (IMF estimate).<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup></dd>
+<dt>Current account balance 2013 (US dollars/billions):</dt><dd>-1.177 (IMF estimate).<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup></dd>
+<dt>Inflation (average consumer prices) % change:</dt><dd>4.742 (2013) (IMF estimate).<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup></dd>
+<dt>Ease of doing business (2013) rank:</dt><dd>20 out of 185 globally.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></dd>
+<dt>Corruption perceptions index (2013) rank:</dt><dd>52 out of 175 globally.<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup></dd>
+</dl>
+</div>
+<p>In February 2014, Rundheersing Bheenick, Governor of the Bank of Mauritius (BoM), called for a hike in the Mauritian key repo rate in order to try and prevent capital flight from the Indian Ocean island nation. Governor Bheenick made the comments just days after the BoM’s monetary policy committee had decided to make no change to the rate, keeping it at 4.65%.</p>
+<p>He argued that a rise in the repo rate would protect the country from the turbulence that has hit other emerging markets, as well as addressing the low level of savings in the country (between 2007 and 2012 gross national saving as a percentage of GDP fell from 21.5 to 14.9). Bheenick also argued, however, that Mauritius needed more than a higher repo rate as a shot in the arm: it also required structural reform in order to achieve GDP growth of more than 4% a year.</p>
+<p>While Mauritius was not hit as hard by the financial crisis as some other emerging countries (it has not, for example, experienced negative GDP growth since the early 1980s) the nation’s growth has tended to lag behind the Sub-Saharan average in recent years.</p>
+<p>“In principle, the Mauritian economy has the potential to exceed its current growth rate by a significant margin,” says Nuvin Balloo, a Senior Economist at Mauritius Commercial Bank. “It should aim for long-term growth of 4.5% or 5% – based on our estimations, this is attainable despite the underlying international conditions. The problem is there are some endogenous factors impeding higher growth – notably, deep-rooted structural reforms are required to bolster the country’s productivity and competitiveness levels.”</p>
+<p>This modest (by Mauritian expectations) growth is set to be fuelled by continued expansion in Mauritius’ financial services, ICT and seafood sectors. Axys, a Mauritian brokerage firm, forecasted late last year that annual growth in the expanding banking and ICT sectors would reach 5.5% and 8% respectively, outstripping the overall growth rate. This growth in the island’s ‘new economy’ contrasts with its traditional industries, which are stagnant. Textiles recorded negative growth in 2012 and has progressed little since, while tourism grew by less than 1% in 2013.</p>
+<p>Managing an economy operating at two very different velocities is one of the key challenges for Mauritius’ government and central bank.</p>
+<h3 id="managing-the-rupee">Managing the rupee</h3>
+<p>Although the Constitution of Mauritius mentions no official language, it is an English- and French-speaking country and maintains trading and diplomatic relations with the UK and France (rulers of the country between 1710-1810 and 1810-1968 respectively). The Mauritian economy is highly susceptible to events in Europe, and recession in the euro area has had an impact on the country’s growth. This is partly because the tourist trade – one of the nation’s key industries – is driven by European (particularly French) visitors.</p>
+<p>Despite the country’s sluggish growth, the Mauritian rupee has been stable against the US dollar, fluctuating relatively little over the past two years. The BoM is active in monitoring the value of the rupee and in mid-2012 it moved to check growing appreciation in the currency with Operation Reserves Reconstitution, which saw it build up reserves of the currency, obtaining more than Rs100 billion ($3.3 billion) by May 2013. Prior to this intervention, the central bank had pursued a free-floating foreign exchange regime.</p>
+<p>“The combination of Mauritius’ relatively small size, its open economy and its high level of international penetration mean the evolution of the rupee on the FX markets is closely linked to that of the US dollar, though domestic factors also matter,” says Balloo.</p>
+<p>The central bank also has a comparatively strong hold on inflation (between 2009 and 2013 its inflation averaged 3.9% percent). Unemployment in the country is also relatively low, not breaking the 10% barrier since the early 1980s.</p>
+<h3 id="offshore-hub">Offshore hub</h3>
+<p>In recent years, Mauritius has firmly positioned itself as an offshore financial hub and has backed this up by actively providing the foundations for its free-market economy to flourish. “Mauritius’ role as an offshore financial hub has been buoyed by taxation agreements with a number of countries, mainly with India, but also with some African nations. Thanks, in large part, to these agreements a huge amount of captive flows transits through Mauritius to be invested elsewhere,” says Balloo.</p>
+<p>Mauritius is a key fund channel for India, and the two countries maintain close ties. Indeed, when Mauritius officially opened the Ebene office park – the centre of its offshore financial industry – in 2005, it was Indian Prime Minister Manmohan Singh who was invited to cut the ribbon.</p>
+<p>It is estimated that more than 40% of foreign direct investment (FDI) into India over the past ten years, or $76 billion, has been channelled through Mauritius. One agreement that helps facilitate these captive flows is the double-tax avoidance agreement between Mauritius and India, which is a key driver of the flow of funds along the so-called ‘Mauritius route’. This agreement allows companies to pay taxes in the legal country of residence, usually the jurisdiction with lower taxes.</p>
+<p>India is also Mauritius’ top import trading partner, followed by China and France. Its main export trading partners are the UK, France and the US.</p>
+<h3 id="free-market">Free-market</h3>
+<p>In his first budget speech in November 2012, incoming Minister of Finance and Economic Development Xavier-Luc Duval made clear his commitment to pursuing a market-based, pro-business approach. But even before then, Mauritius had chosen its free-market course. “Mauritius has built its success on a free market economy,” said accounting group KPMG in a 2012 report.</p>
+<figure class="center">
+<figcaption>
+<h5 id="chart-1-real-gdp-annual-percent-change">Chart 1: real GDP (annual % change)</h5>
+</figcaption>
+<a class="enlargeable" href="http://treasurytoday.com/i/2014/03/2014-03-tt-06-cyf-chart-01-real-gdp-annual-percent-change.png"><img alt="Chart 1: real GDP (annual % change)" height="309" src="http://treasurytoday.com/i/2014/03/2014-03-tt-06-cyf-chart-01-real-gdp-annual-percent-change-t.png" width="300"/></a>
+<p class="source">Source: World Bank</p>
+</figure>
+<p>In the 2014 Index of Economic Freedom, published by US conservative think tank the Heritage Foundation, Mauritius was ranked eighth, four places above the United States (ranked 12<sup>th</sup>).</p>
+<p>The country has an open and efficient regulatory framework that is designed to encourage investment, both domestic and foreign, in the country. Mauritius is ranked a very respectable 20<sup>th</sup> in the World Bank’s Ease of Doing Business Index, ahead of countries such as Germany (21<sup>st</sup>), Japan (27<sup>th</sup>), the Netherlands (28<sup>th</sup>), Switzerland (29<sup>th</sup>) and France (38<sup>th</sup>).</p>
+<p>“Mauritius is very business-friendly. The country is sending out the message that it is absolutely open for business – it has a good regulatory environment, an open economy and an attractive corporate tax regime,” says Cas Coovadia, Managing Director of the Southern African Development Community Banking Association, of which Mauritius is a member state. Mauritius has a flat corporate tax rate of 15%. There is also an alternative tax rate of 7.5% of accounting profits (or 10% of dividends declared), which is applied if this yields more tax payable than the flat rate.</p>
+<p>The island’s political stability – “It is one of the most stable countries politically on the continent,” says Coovadia – also contributes to this business-friendly environment. The country has a well-established democracy and holds free general elections every five years – the last was held in 2010 and resulted in a coalition of the Mauritius Labour Party, the Militant Socialist Movement and the Mauritian Social Democrat Party winning a majority.</p>
+<p>In addition, Mauritius was the top-ranked country in the 2013 Ibrahim Index of African Governance, which measures the delivery of public goods and services, and policy outcomes, and which classifies results by safety and rule of law, participation and human rights, sustainable economic opportunity and human development. It also has one of the lowest levels of corruption of African nations. “Mauritius is an appropriately governed, transparent society,” adds Coovadia. “Corruption is very low, which is probably helped by the fact that they have a very small population, so it is easier to stamp out corruption before it really starts.”</p>
+<h3 id="electronic-payments-on-the-up">Electronic payments on the up</h3>
+<p>The Mauritius Automated Clearing and Settlement System (MACSS) is the country’s national real-time gross settlement system and is operated by the BoM. More than Rs1 trillion ($33 billion) of transactions were made on the system during the first half of 2013 – an increase of 15% on the equivalent period in 2012. According to the BoM, all transactions during this period were settled on the system without delay or loss. MACSS is largely reliable, although it did suffer two outages during the first half of 2013.</p>
+<p>Settlement is made in Mauritian rupees as well as a limited number of foreign currencies, including pound sterling, US dollar, euro, Swiss franc and South African rand, and payment instructions are sent using SWIFT.</p>
+<p>Electronic transactions are on the up in Mauritius – in the first half of 2013 there were 1.4 million electronic clearing transactions on MACSS with a combined value of more than Rs28 billion ($915m) – a rise of 11.2% on the equivalent period in 2012. Mid-way through 2013, 14 of the 20 banks that operate in Mauritius provided electronic banking services.</p>
+<figure class="center">
+<figcaption>
+<h5 id="chart-2-transactions-on-maccs">Chart 2: Transactions on MACCS</h5>
+</figcaption>
+<a class="enlargeable" href="http://treasurytoday.com/i/2014/03/2014-03-tt-06-cyf-chart-02-transactions-on-maccs.png"><img alt="Chart 2: Transactions on MACCS" height="132" src="http://treasurytoday.com/i/2014/03/2014-03-tt-06-cyf-chart-02-transactions-on-maccs-t.png" width="300"/></a>
+<p class="source">Source: Bank of Mauritius</p>
+</figure>
+<p>The five largest banks (in terms of total assets) are Mauritius Commercial Bank, HSBC Bank (Mauritius), Standard Chartered (Mauritius), State Bank of Mauritius and Barclays Mauritius. All banks in the country are permitted to carry out both domestic and offshore activities, which is crucial given the way Mauritius has sought to position itself as an offshore financial hub.</p>
+<p>Cheques remain a common payment instrument in Mauritius. During the 2012-2013 financial year a daily average of 20,568 cheques with a value of Rs1.1 billion ($36m) was cleared, slightly down from average of 21,287 cheques cleared, with the same value, during the previous financial year.</p>
+<p>Since the implementation of the BoM’s Cheque Truncation System (CTS), which was completed in February 2013, cheques are no longer physically exchanged on the Bank’s premises.</p>
+<p>Regional payments are handled using the Regional Payment and Settlement System (REPSS), which allows the 19 member countries of the Common Market for Eastern and Southern Africa (COMESA) to transfer funds between one another. The system is built on open standards and is accessible to non-member states. REPSS is operated by the COMESA Clearing House and the BoM. It was set up with the aim of stimulating economic growth in the region through intra-regional trade.</p>
+<h3 id="cash-management">Cash management</h3>
+<p>Notional cash pooling and cash concentration are not available in Mauritius, although cross-border cash management is allowed. Cross-border activity goes through SWIFT and is settled with correspondent bank accounts held abroad.</p>
+<p>Mauritius issues treasury bills, typically with maturities of 91, 182 and 364 days. All securities are settled on a T+3 settlement cycle, except Treasury bills, which are settled on a T+1 cycle.</p>
+<p>Settlement and custody is carried out on the Stock Exchange of Mauritius (official market) and the Development and Enterprise Market (formerly the OTC market). The central securities depository for immobilised equities, corporate debt and listed Treasury bills in Mauritius is the Central Depository and Settlement Co. Ltd. Settlement and depository services for immobilised government debt issues traded on the secondary market are offered by the BoM.</p>
+<p>There are three custody service providers in Mauritius: HSBC, Mauritius Commercial Bank and Standard Chartered.</p>
+<p>The BoM allows for two basic models for mobile payments in the country, one bank-led and the other driven by mobile network operators. Mobile (consumer) banking is offered by five banks in Mauritius.</p>
+<h3 id="the-dubai-of-west-africa">The Dubai of West Africa?</h3>
+<p>At the beginning of 2013, Mauritius was hit by a spate of Ponzi schemes, with fraudsters exploiting loopholes in the country’s regulatory framework to defraud more than 2,000 individuals of around Rs1 billion ($32.7m). The BoM described the uncovering of the schemes as ‘a wake-up call for regulatory and other authorities to review their operations as they relate to detecting and combating financial crime.’</p>
+<p>Some observers feel that if this island nation can iron out some of the weaknesses in its financial environment – such as this capacity for its regulators to be caught napping by fraudsters – then it could progress into a much more imposing proposition as a financial hub.</p>
+<p>And it seems the government is taking this ironing out process seriously. As part of last November’s budget, finance minister Duval announced the government’s intention to grant greater power to Mauritius’ financial market regulator and to establish a serious fraud office.</p>
+<p>“Mauritius has a fantastic opportunity to really establish itself as a vital financial hub for Francophone Africa, as other countries in the region have nowhere near the level of infrastructure and financial sophistication it does. If it can continue to attract global corporate activity as it has done so far, it could become the Dubai of West Africa,” says Coovadia.</p>
+<div class="footnotes">
+<ol>
+<li id="fn:1">
+<p>World Bank <a href="#fnref:1" rev="footnote">↩</a></p>
+</li>
+<li id="fn:2">
+<p>IMF World Economic Outlook October 2013 <a href="#fnref:2" rev="footnote">↩</a></p>
+</li>
+<li id="fn:3">
+<p>Transparency International <a href="#fnref:3" rev="footnote">↩</a></p>
+</li>
+</ol>
+</div></div>
+</div>
+
+</div>]]></complete_body>
+	</node>
+	<node>
+		<category><![CDATA[Americas]]></category>
+		<title><![CDATA[Argentina’s debt crisis]]></title>
+		<publish_date><![CDATA[ Published: Feb 2014 ]]></publish_date>
+		<hero_image><![CDATA[]]></hero_image>
+		<complete_body><![CDATA[<div class="gs-grid__col gs-grid__col-1-10 gs-grid__col--expand" style="">
+<div class="hero hero--article spaceing">
+<div class="hero__heroarticle__img-wrap">
+</div>
+</div><div class="v-spacing--bottom">
+<h2 class="h2 copy__heading"></h2>
+<h3 class="sub-heading copy__sub-heading"></h3>
+<div class="copy__body"><p>When the Argentine President Fernando de la Rúa was forced out of office in late 2001, Argentina was already deep in what would become the most severe economic, social and political crisis of its history. Since the late 1990s, most fundamental indicators had painted a gloomy outlook. Incomes were falling and unemployment rising. The Argentine government, meanwhile, continued to add to its enormous international debts, leaving the economy increasingly vulnerable to economic shocks.</p>
+<p>The breaking point came on 30<sup>th</sup> November 2001. With Argentines worried about a peso devaluation and a deposit freeze, overnight interest rates rose sharply. In addition, spreads between US treasury bonds and Argentine bonds increased to 5,000 basis points. A run on the banks was now the inevitable outcome.</p>
+<h3 id="the-making-of-a-crisis">The making of a crisis</h3>
+<p>Argentina’s debt crisis had its roots in market reforms adopted a decade earlier by the government of Carlos Menem. In the early 1990s, the incoming Menem administration had committed itself to tackling malignant hyperinflation. After an earlier inflation stabilisation plan had ended in abject failure – a substantial devaluation and a 58% fall in foreign exchange reserves, to be precise – a currency board arrangement was adopted in a last ditch attempt to rescue the economy. Under the ‘convertibility law’, the Argentine peso was tied with the US dollar at par. In other words, one Argentine peso was to be equal to one US dollar.</p>
+<p>It was a gamble but one which appeared, at least initially, to have paid off. Inflation quickly returned to more manageable levels and, fuelled by a torrent of IMF-backed privatisations and deregulation, the economy entered a decade-long boom. In the context of the resulting surge of optimism in the Argentine financial markets, the country received large volumes of foreign capital in a very short period of time. In turn, this increase in foreign capital inflows helped to foster confidence in the convertibility plan, which increased both banks’ propensity to make dollar denominated loans and the willingness of debtors to borrow in dollars. The result was an extensive and, as it would turn out, ominous dollarisation of both liabilities and assets in the Argentine banking sector.</p>
+<p>There was one other major drawback to the policy. Exports shot up in price and foreign imports suddenly became very cheap. Many goods, formerly produced domestically, now began to be imported from abroad. To begin with, this trend was mitigated by the fact that Brazil, Argentina’s main trading partner, also pegged its currency the real against the dollar. But when the Brazilian government was forced to devalue in 1999, an Argentine balance of payments crisis could only be delayed temporarily through greater international borrowing. By late 2001, the country’s foreign debt, largely owed by central and provincial governments, accounted for 50% of GDP. Approximately $30 billion of that sum was due to mature in 2002. It was clearly an unsustainable situation.</p>
+<p>That Argentina’s leaders found themselves in a self-imposed fiscal and monetary strait-jacket did not help matters either. With the convertibility plan in place, the central bank was unable to adjust interest rates or devalue the peso to help restore industrial competitiveness. The only recourse, therefore, was to control public spending in an attempt to trigger a process that economists call ‘internal deflation’. However, in a country where federal government held little influence over state and municipal spending, such attempts at budgetary discipline were all but futile.</p>
+<p>Unsurprisingly, concerns about the sustainability of the currency peg began to mount. Meanwhile, the cheap market finance that helped to drive the boom of the 1990s began to dry up and capital inflows began to reverse. Businesses and citizens, guessing the government’s next move, looked to store more of their wealth in dollar accounts at their banks. The logic, of course, was that if the country’s political leaders did decide to do what everyone expected and devalue the peso then at least their savings would be safe denominated in dollars. For many Argentines, it was an assumption that proved to be very costly indeed.</p>
+<h3 id="el-corralito">El Corralito</h3>
+<p>Fearing an all-out run on the banks, the Argentine government froze all accounts on 1<sup>st</sup> December 2001. Argentine citizens were allowed to withdraw a small amount of cash – initially 250 pesos – on a weekly basis from their accounts but, crucially, this was limited only to peso accounts. If one wanted to withdraw savings from a dollar account the sum had to first be converted into pesos which, given the ongoing crisis, very few rational people were willing to do. The situation came to be known as “El Corralito”, or “the little corral”. Argentine depositors – much like the cattle the country has long been famed for farming – were trapped in a small pen with no means of escape.</p>
+<p>The following month, just weeks after defaulting on a record $95 billion worth of sovereign debt, the government succumbed to the inevitable and proceeded with a devaluation of the peso. Dollar accounts, however, were not spared. All accounts denominated in dollars were subsequently converted into pesos – but at the old exchange rate. It effectively amounted to an appropriation of three-quarters of people’s savings. A citizen with savings totalling $10,000 the month before now had a mere $2,500.</p>
+<blockquote>
+<p>The economic impact of Argentina’s crisis was unprecedented in the country’s history. Although GDP growth had been on a negative slope since the late 1990s, it declined by a colossal 11% in the year following the crisis. Unemployment soon accounted for more than a quarter of the total workforce and inflation, the country’s longstanding nemesis, inevitably worsened.</p>
+</blockquote>
+<p>“Imagine what your reaction would be going into a bank today and the teller informing you that you cannot access your money anymore,” says Fernando Aguirre, who recently authored a book detailing what life was really like in Argentina during the crisis period.</p>
+<p>Aguirre explains that during the Corralito, citizens were only permitted to withdraw very small amounts of money from their accounts each week – a sum which he approximates would be equal to £100 in the UK today. There were absolutely no concessions or exceptions to this rule and, distressingly, there were even some cases in which people who had saved up money to fund life-saving operations were denied access to their cash at the critical time. “People knew they were being robbed and they were furious.”</p>
+<p>In the weeks that followed the bank freeze, social unrest very nearly brought the country to its knees. It began with protestors taking to the streets of Buenos Aires, banging pots and pans and chanting defiant slogans against the government. But by the time of the peso’s devaluation, those protests had escalated into full scale rioting and looting. In ugly scenes, which will appear depressingly familiar to anyone who has followed the Greek sovereign debt crisis, police deployed water cannons, rubber bullets and executed cavalry charges in a desperate attempt to break up the crowds and restore peace. Four weeks and four presidential resignations after the first bank runs began, the country was in a state of total disarray. “That was when the unrest was at its worst across the country,” adds Aguirre. “When you went outside, you really feared for your personal safety.”</p>
+<h3 id="life-after-default">Life after default</h3>
+<p>The economic impact of Argentina’s crisis was unprecedented in the country’s history. Although GDP growth had been on a negative slope since the late 1990s, it declined by a colossal 11% in the year following the crisis. Unemployment soon accounted for more than a quarter of the total workforce and inflation, the country’s longstanding nemesis, inevitably worsened – although not by as much as some economists expected. By the end of 2002, the exchange rate had reached nearly four pesos on the dollar and the rate of accumulated inflation totalled 80% according to data from Trading Economics. Falling incomes and rising prices meant that before the year was out, nearly two-thirds of the Argentine population would be living on incomes below the national poverty line, a quarter of which were considered destitute.</p>
+<p>Devaluations are often messy, painful affairs. Argentina’s recovery, however, was remarkably quick given the scale of the initial downturn. By August, the exchange rate had stabilised and even began to slowly appreciate soon after. Exports immediately became more robust and imports waned following the devaluation providing immediate relief to the current account. By the end of 2002, the country was once again reporting positive GDP growth figures (see Chart 1).</p>
+<figure class="center">
+<figcaption>
+<h5 id="chart-1-argentina-real-gdp-per-capita">Chart 1: Argentina: real GDP per capita</h5>
+</figcaption>
+<img alt="Chart 1: Argentina: real GDP per capita" height="276" src="https://treasurytoday.com:443/-/media/images/regional-focus/americas/2014-02-tt-06-bigp-chart-01-argentina-real-gdp-per-capita-t.png?la=en&amp;hash=9E58AC2B2E370C1E92009FC2BC592950" width="300"/> 
+<p class="source">Source: World Bank</p>
+</figure>
+<p>What factors explain the Argentine recovery? Typically, analysts refer to three key factors although there is often disagreement about which one should receive most emphasis. Some analysts argue that most of the credit should be attributed to the default on the debt. There is one shortcoming to this explanation, however. In 2001, Argentina’s debt-to-GDP ratio was 55% – although because much of this figure was denominated in dollars it did increase substantially after devaluation of the peso. But if one takes that 55% and compares it to ratios recorded in the UK and France in 2013 of 88.7% and 90.2% respectively, it quickly becomes clear that Argentina was not facing a solvency problem in the run up to the crisis, but a liquidity problem. Although defaulting would certainly have helped to alleviate some of the burden of this liquidity problem, there is little evidence to suggest it was a decisive factor in Argentina’s return to growth.</p>
+<p>The decision of the Argentine government to devalue the peso appears to have more explanatory power. Leaving the peg to the dollar was not only advantageous to Argentina’s exporters; it also helped to weaken the real value of wages and public sector expenditures, something which was critical in reducing government expenditures in real terms and allowing the government to run substantial fiscal surpluses. Moreover, the downside of devaluation – rapid inflation – was also less severe than many expected, largely due to the immediate recession and accompanying high rates of unemployment.</p>
+<blockquote>
+<p>Leaving the peg to the dollar was not only advantageous to Argentina’s exporters; it also helped to weaken the real value of wages and public sector expenditures, something which was critical in reducing government expenditures in real terms and allowing the government to run substantial fiscal surpluses.</p>
+</blockquote>
+<p>Finally, changes in the global economic environment couldn’t have been more favourable for Argentina. With Brazil recovering from its slump and China beginning what would become a decade of stratospheric economic expansion, demand for Argentine goods soon looked a lot healthier. Then there was the boom in the commodities cycle. Global demand for Argentine exports such as soybeans, corn, wheat, petroleum and gas was not only growing, but the prices being paid by importers for these goods were increasing too.</p>
+<h3 id="vultures-circling">Vultures circling</h3>
+<p>It took four years of negotiations before Argentina agreed a deal with their creditors to restructure the terms of Argentina’s outstanding debts. On 1<sup>st</sup> March 2005, the late Néstor Kirchner, Argentina’s President – and husband to current President Christina Kirchner – declared the deal, in which a majority of investors (75%) surrendered their claims in exchange for new bonds worth roughly 35 cents on the dollar, to be a triumph.</p>
+<p>Not every bond holder accepted defeat that easily, however. Holdouts retained a total of $4 billion of debt, of which so-called ‘vulture funds’ – funds which buy securities in distressed investments – held $1.3 billion. The vulture funds refused, outright, to negotiate with the Argentine government, opting instead to enter into a long litigation battle to be repaid at 100% face value.</p>
+<p>The case is still making its way through the US court system today. In 2010, the Argentine government reopened the debt exchange deal for the bondholders who had rejected the previous offer. A large majority of the holdouts opted to accept the swap this time around, raising the total amount of sovereign debt restructured to 92.6%. But two hedge funds, NML Capital and Aurelius, held on for 100% repayment of their $1.3 billion lent to the country. Despite an influential US appeals court ordering them to repay all the holdouts, Argentina maintains that these creditors will not be paid at all, and have stated their plan to challenge the ruling by bringing their case to the US Supreme Court.</p>
+<h3 id="lessons-for-the-troika">Lessons for the Troika?</h3>
+<p>In some respects Argentina’s crisis resembles the situation in the Eurozone today. Just as Greece joined the euro to import German monetary credibility, Argentina tied itself to the dollar allowing it to piggyback on US monetary credibility. Greece, like Argentina, has also found itself in a recession which it is unable to combat through monetary and exchange rate policy, with membership to the euro restricting these options in the same way that the convertibility plan did for the Argentine government.</p>
+<p>There are important differences, however. Firstly, when it was hit by the crisis Argentina still had its own currency. Dropping the peg to the dollar was a difficult step but, for Greece, leaving the euro would be a mammoth feat to accomplish without causing yet more turmoil both in Greece itself, and the wider Eurozone. Secondly, Greece, as a member of the Eurozone, has been able to call on the European Central Bank (ECB) and, by extension, other Eurozone countries, for assistance. Argentina, meanwhile, had no lender to turn to, not even the IMF, after the situation began to deteriorate in late 2001. Lastly, Greece’s debt today is far larger than Argentina’s was when it defaulted, meaning that the adjustments which will need to be made, subsequent to default, will be much more severe than was the case with Argentina.</p>
+<p>Nevertheless, Europe should be able to draw some general lessons from Argentina’s crisis. Debt defaults can be messy and, as the ongoing litigation demonstrates, sometimes extremely protracted. But it is not impossible and, even if defaulting is not enough to restore growth in itself, it can work to restore fiscal health. In Argentina’s case, however, the recovery hinged on two main factors – the real depreciation of the currency, and the luck of a positive global economic environment stimulating export demand. Ominously for Europe, neither of those factors appear conceivable in Greece’s case.</p>
+<h3 id="blue-dollar-crisis-reprised">Blue dollar crisis (reprised)</h3>
+<p>Sadly, recent events suggest that Argentina’s leaders are still haunted by their past mistakes. Although Argentina has defied expectations since the default, embarking on its strongest run of growth since the 1940s, recent declines in commodity prices have once again put the economy under pressure.</p>
+<p>Analysts have been warning for some time now that the country has allowed inflation to spiral out of control. Rather than introduce measures to tackle inflation, however, the Argentine government reportedly opted instead to manipulate the figures. Staff at the central statistical authority, the Nacional de Estadista, were replaced with political appointees and the rate of inflation was henceforth decided almost entirely by edict. Meanwhile, although the dollar peg was abandoned in 2002, the peso continued to be heavily managed through central bank intervention in the foreign exchange market.</p>
+<p>In mid-January 2014, the Argentine central bank finally gave up the ghost and stopped acting to prop up the currency amid intensifying capital outflows and dwindling foreign exchange reserves. The Argentine peso promptly fell by 11%, its sharpest decline since the last crisis.</p>
+<p>Whether or not Argentina’s authority figures have the resolve to avert a full-blown crisis of the type we saw at the beginning of the millennium remains to be seen. By repealing foreign exchange controls, the central bank might help to restore some confidence and the economy’s competitiveness in international markets. But that will merely buy the country some time, say analysts. For the situation to improve, Argentina will have to make tough decisions to tackle the perennial problem of inflation. If that fails to happen, the combination of falling currency reserves and rising prices could put the economy on the brink once again.</p></div>
+</div>
+
+</div>]]></complete_body>
+	</node>
+</data>

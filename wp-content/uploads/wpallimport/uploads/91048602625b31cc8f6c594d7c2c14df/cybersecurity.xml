@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<title><![CDATA[Data protection: a serious discipline]]></title>
+		<content><![CDATA[
+
+
+<p><em>Ben Rapp is Founder and Principal of data privacy and protection consultancy, Securys. A lifetime technologist with a background in philosophy, his professional journey led him from writing software to creating the IT infrastructure on which the software ran, and then finally into protecting that infrastructure from threat.</em></p>
+<picture class="hero__picture" imgclass=".heroarticle_summary__img"><!--[if IE 9]><video style='display: none;'><![endif]--><source media="(min-width: 1440px)" srcset="https://treasurytoday.com:443/-/media/images/technology/cybersecurity/2022-09-08-tt-00-sf__cyber-security-digital-crime-concept-data-1811727022__1920x1080.jpg?w=1800&amp;usecustomfunctions=1¢ercrop=1&amp;hash=BDDC58F5BC09F343DE0FDCA296F1AC85"/><!--[if IE 9]></video><![endif]--><!--[if IE 9]><video style='display: none;'><![endif]--><source media="(min-width: 1200px)" srcset="https://treasurytoday.com:443/-/media/images/technology/cybersecurity/2022-09-08-tt-00-sf__cyber-security-digital-crime-concept-data-1811727022__1920x1080.jpg?w=1400&amp;usecustomfunctions=1¢ercrop=1&amp;hash=B00F3A4BA4AC66DF6971F408B874882B"/><!--[if IE 9]></video><![endif]--><!--[if IE 9]><video style='display: none;'><![endif]--><source media="(min-width: 1024px)" srcset="https://treasurytoday.com:443/-/media/images/technology/cybersecurity/2022-09-08-tt-00-sf__cyber-security-digital-crime-concept-data-1811727022__1920x1080.jpg?w=1200&amp;usecustomfunctions=1¢ercrop=1&amp;hash=0F4E73AAC0B429A5AF2EA624F8B1C315"/><!--[if IE 9]></video><![endif]--><!--[if IE 9]><video style='display: none;'><![endif]--><source media="(min-width: 769px)" srcset="https://treasurytoday.com:443/-/media/images/technology/cybersecurity/2022-09-08-tt-00-sf__cyber-security-digital-crime-concept-data-1811727022__1920x1080.jpg?w=1024&amp;usecustomfunctions=1¢ercrop=1&amp;hash=260F3D255E360A2FE4E386041FF8DEF7"/><!--[if IE 9]></video><![endif]--><!--[if IE 9]><video style='display: none;'><![endif]--><source media="(min-width: 550px)" srcset="https://treasurytoday.com:443/-/media/images/technology/cybersecurity/2022-09-08-tt-00-sf__cyber-security-digital-crime-concept-data-1811727022__1920x1080.jpg?w=638&amp;usecustomfunctions=1¢ercrop=1&amp;hash=59ECE919D1AFF2597C5DEE4F3288DE3F"/><!--[if IE 9]></video><![endif]--><img alt="Person using laptop with security overlay" class=".heroarticle_summary__img" src="https://treasurytoday.com:443/-/media/images/technology/cybersecurity/2022-09-08-tt-00-sf__cyber-security-digital-crime-concept-data-1811727022__1920x1080.jpg?w=420&amp;usecustomfunctions=1¢ercrop=1&amp;hash=C10CB29781410DF42C09AD8F98D0B8E9" srcset="https://treasurytoday.com:443/-/media/images/technology/cybersecurity/2022-09-08-tt-00-sf__cyber-security-digital-crime-concept-data-1811727022__1920x1080.jpg?w=420&amp;usecustomfunctions=1¢ercrop=1&amp;hash=C10CB29781410DF42C09AD8F98D0B8E9"/></picture> 
+
+
+<!-- BOXED -->
+
+<img alt="Portrait of Ben Rapp, Founder and Principal, Securys" class="portrait" height="200" src="https://treasurytoday.com:443/-/media/images/technology/cybersecurity/2022-09-08-tt-00-sf__ben-rapp__securys__150x200.jpg?la=en&amp;hash=8816DDDBBD72D2FC3339FBCA47CAD7D7" style="float:left;margin: 0 2em 2em 0 ;" title="Portrait of Ben Rapp, Founder and Principal, Securys" width="150"/>
+<h3 class="fn" style="margin-bottom:5px;">Ben Rapp</h3>
+<h5 class="title">Founder and Principal</h5>
+<p><img alt="Securys logo" class="org" src="https://treasurytoday.com:443/-/media/logo/secury-logo-2022__100x28.png?la=en&amp;hash=452FB7E7D7EB4358FFAA79A27F7075CD" style="margin-top:1.5em;" title="Securys logo" width="100"/></p>
+
+<!-- BOXED -->
+
+
+<h2 class="h2 copy__heading"></h2>
+<h3 class="sub-heading copy__sub-heading"></h3>
+<p>“Back in the early to mid 2000s, we were really getting to grips with the idea that threat matters. We focused on protecting data from a combination of external threat and accidental loss. So we were very resilient and that was the flavour at the time,” he says.</p>
+<p>During this time Rapp was on the board of Tech UK, and there was a lot of discussion about ‘data protection’ in Europe, and ‘data privacy’ in the US.</p>
+<p>“This was the other side of the coin. It was less about the business protecting the data to protect itself, and more about the business protecting the data to protect the individuals whose data it is.”</p>
+<p>Rapp then became involved in various working groups that were discussing the General Data Protection Regulation (GDPR). As the world began to wake up to a new era of harvesting and protecting data, Rapp started writing about the subject.</p>
+<p>He quickly decided this was a more interesting field. “Information security had become a very technical but also a slightly weaponised discipline, full of former military people who run around shouting acronyms at each other.”</p>
+<p>As he explains, “You're in a constant war with the bad guys, and the bad guys have more resources than you – it’s slightly soul-destroying. Because obviously, for the bad guys, that’s their job. They are a well-resourced industry. For you, even as the cyber people inside a bank, banking is fundamentally the job.”</p>
+<p>Rapp began to look at data protection in more depth, gaining various professional accreditations in the field. He sold his managed service provider business and built a new company that treated data protection as a serious and practical discipline.</p>
+<p>“What’s interesting about the space that we're in, is that, effectively, it has three competing groups of service providers, but it’s still predominately done in-house. Most organisations despair that they have to do this privacy thing because of the GDPR. They think the GDPR is what privacy means. Whereas, in fact, it's broader than that.”</p>
+<p>Rapp describes an ecosystem where companies hire an individual and make it their job to ‘go and fix this problem’ – a near-impossible task.</p>
+<p>Rapp says, “Our job is to take an organisation through the privacy maturity journey, so that they actually have privacy embedded operationally in the business, and are properly compliant in the sense of keeping the regulator happy.</p>
+<p>“But more importantly, the organisation bakes in this idea of facing the data subject properly and treating the data as if they were stewards of it rather than owners.</p>
+<p>“That has a number of consequences. But the main two consequences are they get a better reception from regulators and reduce their regulatory risk, and they get a better reception from data subjects.”</p>
+<p>When it comes to those data subjects, Rapp explains that a significant number take their data privacy seriously. “The basic finding from recent research we conducted is that about 40% of people have often made a purchasing decision with privacy as a material component. There are also those who stop using services they've previously used because they find out how their data will be used. You can use privacy to press a commercial advantage.”</p>
+<p>Data protection comes with significant regulatory risk, and it’s a complex topic. “The world isn’t the GDPR and that’s it. There are 137 countries that have data protection regulations, but the GDPR only has a bearing on about 40 of them, even if you include the adequacy countries. So approximately 90 countries are actually doing this themselves.”</p>
+<p>And data protection rules can even differ within a country itself. In the United States, five states have their own data privacy regulations. Data protection is complicated, and it’s extremely critical to get right.</p>
+<p>We asked Rapp what this means for corporate finance professionals, like our audience.</p>
+<p>“I think if you're a CFO, you're going to carry the responsibility,” he says. “You have to understand whether the budget you've set aside for appropriate controls and risk treatments is sufficient to mitigate the risk that you face down to an acceptable level.”</p>
+<p>In his experience, companies are not pricing the risk adequately. As a consequence, they are underspending – or worse, they’re misspending. He explains there are companies who are spending a lot of money on data privacy, but not achieving a great deal. He acknowledges that there are people out there who are getting this right, but they are a minority.</p>
+<p>Although many companies are aware of the severe consequences for data protection breaches, Rapp feels they often view them as a kind of empty threat.</p>
+<p>“The scale of fines – particularly in Europe – is gargantuan. You’re talking about a 4% of global turnover fine for a bad breach of the GDPR. You've now got the potential 6% of turnover fine – added on to the 4% – if you breach some of the new issue market regulations or the new AI rules. But these haven’t happened yet, and so everyone’s gone ‘Ha! It’s not real.’”</p>
+<p>But Rapp is concerned that this a dangerous misconception.</p>
+<p>“Regulators move very, very slowly. They do a lot of work in the background – quiet conversations and shoulder tapping. But the quiet conversations and shoulder tapping are not working. It’s sometimes said that recessions happen ‘slowly, and then all at once’. Well, we are about to be in an ‘all at once’ moment with data privacy.</p>
+<p>“There's a real risk of it becoming an existential threat. And it just doesn't feel like that because the tempo of enforcement is so slow. But it's one of those mills that grinds very slowly that can grind very, very fine indeed.”</p>
+<p>European pressure groups have been a driving force in firing up the regulators. Austrian privacy advocates NOYB – the non-profit pressure group founded by Max Schrems – filed a complaint with the Irish Data Protection Commission against Facebook, regarding the way Europeans’ data was processed after being transferred to the US.</p>
+<p>The initial case was brought in 2013. The final judgement was issued in July 2020, agreeing with NOYB. It found that US data protections did not provide protection equivalent to that of the EU – potentially making data transfer to the US unlawful.</p>
+<p>Rapp considers the US to be the most challenging region for data privacy professionals – but notes it is gradually becoming more aligned with an emerging global consensus on privacy standards.</p>
+<p>“Historically, the US approach to privacy has been fragmented and very complicated. But several things have changed. There have been changes in posture by the Federal Trade Commission (FTC), which is the primary enforcer of privacy outside of financial services.</p>
+<p>“Five states have now passed principles-based data privacy legislation. There is a federal data protection bill in front of both houses, with bipartisan support. This is also part of the manoeuvring around trying to enable data transfers from the EU to the US. The US recognises the risk of losing that market.”</p>
+<p>Rapp is clear about the importance businesses should be placing on data protection.</p>
+<p>“If I were the CFO of a company that was significantly dependent on the processing of consumer personal data, I would want to push this up my agenda,” he says. “I would make sure it's a board-level concern, to reflect the fact that increasingly my consumers are younger people, who are much more alert to this kind of thing. They care much more about ethics and purpose, and this fits very neatly into the privacy sphere.</p>
+<p>But it’s not just customers that businesses need to be concerned about. They also need to consider their employees, who will include similarly privacy-aware individuals.</p>
+<p>“There’s a lot of employee data processing that goes on,” he says. “A big part of our work is dealing with employee privacy. We mostly deal with very large organisations that have hundreds of thousands of people globally. And there's an awful lot of personal data in relation to their staff circulating around. For example, psychometric testing data, which is pretty sensitive stuff, moving through six or seven jurisdictions before it ends up going back to the country it first started.”</p>
+<p>It’s easy for companies to get complacent and treat data protection regulators as being similar to regulators in other areas. “The old-school attitude of ‘a fine is just the cost of doing business’ just doesn’t fly – partly because of the power to shut you down, and partly because your consumer customers will care.”</p>
+<p>Another pitfall to avoid is taking a narrow view on what exactly constitutes a data breach. Many companies focus on the external risks from cybercrime such as data theft or ransomware. But data breaches are not just bad actors stealing data from your company – in fact that’s a minority of cases.</p>
+<p>“Confidentiality breaches tend to be inadvertent misuse, or often, incorrect destinations. For example, ‘I forwarded this to the wrong person’, and ‘I left it on the train’. There was a case in Japan, where somebody lost an entire prefecture’s universal database of citizens because they left it on the train.”</p>
+<p>A better way to look at data privacy is through the lens of ‘data abuse’ – misprocessing data, and using it in ways that are not legal. Rapp points to Italy and Spain as examples of countries where the data privacy regulators are concerned about data abuse.</p>
+<p>“This is something that we think people don't look at enough. They spend far too much time looking at German, French and Irish regulators, as well as the US and the UK. But the enforcement tempo in Spain in particular, is much higher than it is inside the UK or Ireland. They're carrying out more than 50 enforcement actions per quarter, compared to an average of one or two in the UK or Ireland.</p>
+<p>“If you're British, French or German – or in the US – I don't know whether you’re looking at the scale of the fines being levied by the Garante in Italy. But I think if you're an Italian CFO, you've probably woken up.</p>
+<p>“The reality is that the risk of fines is real, and growing. It’s a ticking time bomb.”</p>
+<p>Rapp’s final piece of advice: “The first thing is to make sure that you're doing privacy governance properly. You sit on the board. You are ultimately responsible for stewardship of the money. Make sure that you are asking the right questions internally, and that your privacy governance reports actually address the risks that are out there.</p>
+<p>“Make sure that you understand the breadth of privacy regulation. Understand it is not just about protecting data against breach of confidentiality to third parties. If you make that mistake, and are driven by your overfocus on cyber risk, then you're massively underestimating the other risks that we face.</p>
+<p>“The second thing is – and this is transparently commercial – get yourself benchmarked. Understand where you sit versus best practice, versus the competition. You do this in every other area. There is a real reluctance, I think, to go outside the organisation. But you need that outside view. You need that extra horsepower.”</p>
+
+
+]]></content>
+		<excerpt><![CDATA[Ben Rapp is Founder and Principal of data privacy and protection consultancy, Securys. A lifetime technologist with a background in philosophy, his professional journey led him from writing software to creating the IT infrastructure on which the software ran, and then finally into protecting that infrastructure from threat.]]></excerpt>
+		<featuredimage><![CDATA[https://treasurytoday.com:443/-/media/images/technology/cybersecurity/2022-09-08-tt-00-sf__cyber-security-digital-crime-concept-data-1811727022__1920x1080.jpg]]></featuredimage>
+		<publishdate><![CDATA[2022-09-01]]></publishdate>
+		<category><![CDATA[Cybersecurity]]></category>
+		<issponsored><![CDATA[False]]></issponsored>
+	</node>
+	<node>
+		<title><![CDATA[Fighting fire with fire – using a community-based approach to combat payment fraud ]]></title>
+		<content><![CDATA[
+
+
+<p><em>As fraudsters are becoming increasingly sophisticated, and sharing data across their criminal networks, treasurers need to do more to protect themselves. By also using data, and a community-based approach, they can ‘fight fire with fire’ and prevent payment fraud.</em></p>
+<picture class="hero__picture" imgclass=".heroarticle_summary__img"><!--[if IE 9]><video style='display: none;'><![endif]--><source media="(min-width: 1440px)" srcset="https://treasurytoday.com:443/-/media/images/technology/cybersecurity/2021-12-08-sf-00__concept-credit-card-theft-hackers-cards-1107463670__1920x1080.jpg?w=1800&amp;usecustomfunctions=1¢ercrop=1&amp;hash=38B1933CA87BB6AA64EA538ACA891C6B"/><!--[if IE 9]></video><![endif]--><!--[if IE 9]><video style='display: none;'><![endif]--><source media="(min-width: 1200px)" srcset="https://treasurytoday.com:443/-/media/images/technology/cybersecurity/2021-12-08-sf-00__concept-credit-card-theft-hackers-cards-1107463670__1920x1080.jpg?w=1400&amp;usecustomfunctions=1¢ercrop=1&amp;hash=EFA1FF39280889BEA0D70070C9F5377C"/><!--[if IE 9]></video><![endif]--><!--[if IE 9]><video style='display: none;'><![endif]--><source media="(min-width: 1024px)" srcset="https://treasurytoday.com:443/-/media/images/technology/cybersecurity/2021-12-08-sf-00__concept-credit-card-theft-hackers-cards-1107463670__1920x1080.jpg?w=1200&amp;usecustomfunctions=1¢ercrop=1&amp;hash=1C877C2969E459F1C313013E528397D2"/><!--[if IE 9]></video><![endif]--><!--[if IE 9]><video style='display: none;'><![endif]--><source media="(min-width: 769px)" srcset="https://treasurytoday.com:443/-/media/images/technology/cybersecurity/2021-12-08-sf-00__concept-credit-card-theft-hackers-cards-1107463670__1920x1080.jpg?w=1024&amp;usecustomfunctions=1¢ercrop=1&amp;hash=7E967AA46FCDA46FD1FCFE8431C96967"/><!--[if IE 9]></video><![endif]--><!--[if IE 9]><video style='display: none;'><![endif]--><source media="(min-width: 550px)" srcset="https://treasurytoday.com:443/-/media/images/technology/cybersecurity/2021-12-08-sf-00__concept-credit-card-theft-hackers-cards-1107463670__1920x1080.jpg?w=638&amp;usecustomfunctions=1¢ercrop=1&amp;hash=995F672A6758B4D0A75259C77F5CF7D6"/><!--[if IE 9]></video><![endif]--><img alt="Hacker with credit card and pc" class=".heroarticle_summary__img" src="https://treasurytoday.com:443/-/media/images/technology/cybersecurity/2021-12-08-sf-00__concept-credit-card-theft-hackers-cards-1107463670__1920x1080.jpg?w=420&amp;usecustomfunctions=1¢ercrop=1&amp;hash=39DE26DB95406B832A236A76DB906AA0" srcset="https://treasurytoday.com:443/-/media/images/technology/cybersecurity/2021-12-08-sf-00__concept-credit-card-theft-hackers-cards-1107463670__1920x1080.jpg?w=420&amp;usecustomfunctions=1¢ercrop=1&amp;hash=39DE26DB95406B832A236A76DB906AA0"/></picture> 
+
+
+
+<!-- BOXED -->
+
+<img alt="Portrait of Jon Paquette, VP Customer Success, US, TIS" class="portrait" height="200" src="https://treasurytoday.com:443/-/media/images/technology/cybersecurity/2021-12-08-sf-00__john-paquette-pic__150x200.jpg?la=en&amp;hash=305E3C4A09892814E655CAAB34EA28A4" style="float:left;margin:0 2em 2em 0;" title="Portrait of Jon Paquette, VP Customer Success, US, TIS" width="150"/>
+<h3 class="fn">Jon Paquette</h3>
+<h5 class="title">VP Customer Success, US</h5>
+<p><img alt="TIS logo" class="org" src="https://treasurytoday.com:443/-/media/logo/tis-logo-2021.svg?la=en&amp;hash=E7C1BD751810EF114C563D63EACC593B" style="margin-top:1.5em;" title="TIS logo" width="50"/></p>
+
+<!-- BOXED -->
+
+
+
+<h2 class="h2 copy__heading"></h2>
+<h3 class="sub-heading copy__sub-heading"></h3>
+<p>Halloween has been and gone this year, but things are still scary out there. Scary for treasurers when it comes to cybercrime, that is. The threats are rising: fraudsters are more sophisticated, they are better connected, and they are launching more attacks. In the face of these ever-increasing dangers, treasurers need to up their game and raise their defences to the next level.</p>
+<p>The attacks are becoming more automated, making it easier for fraudsters to launch large volumes of attacks more quickly, explains Jon Paquette, VP Customer Success, US at Treasury Intelligence Solutions (TIS). Also, they are using more information – which may be publicly available – to make their approaches to potential victims look more genuine. If they know the habits, routines and work processes of their potential targets, they can get inside the heads of their victims and know how to trick them into doing something that bypasses the usual controls that are in place at their organisation. And the more information they have, the easier it is to do.</p>
+<h4 id="access-to-data">Access to data</h4>
+<p>These days, fraudsters have access to all kinds of information on their target. This could include the systems they are using at work, who they report to, and who signs off on large transactions, for example. This information is big business: it will be shared across criminal networks so that fraudsters can add it to the data they are amassing on potential targets. “Fraudsters are sharing this data to attack organisations in a smarter way and a much more automated way,” says Paquette. The attacks are also scaling up, “They are seeing a lot more success in their attacks,” he adds.</p>
+<p>For corporate treasurers, there are many forms of cybercrime to worry about. Attacks are getting more sophisticated, and using the latest technologies available, but some of the more old-fashioned scams are still working well for them and reaping large rewards. Business email compromise (BEC) scams still abound, even though there is a much greater awareness in the treasury community – and in businesses more broadly – about the nature of these attacks. BEC attacks typically target treasurers, or those who are authorised to make large transfers, and their email accounts may be hacked, or compromised.</p>
+
+
+
+<blockquote><p>We conducted a partner survey and we found that the actual losses from BEC attacks have doubled over a two-year period. So even though there is greater awareness of these attacks, the success rates are still double. That’s a really scary thing for treasurers.</p></blockquote>
+<p class="quote-block__source"></p>
+
+
+<h2 class="h2 copy__heading"></h2>
+<h3 class="sub-heading copy__sub-heading"></h3>
+<h4 id="sophisticated-attacks">Sophisticated attacks</h4>
+<p>Unlike mass phishing scams, which target individuals indiscriminately, BEC scams are highly-sophisticated ‘spear phishing’ attacks that target specific individuals who are known to hold the purse strings at large corporations. The fraudsters will lie in wait, choosing the right moment when they know their victim will be fooled into thinking their superior is asking them to make an unusual transfer. The criminals may only proceed when they know the chief executive officer (CEO) is on holiday, with intermittent access to email and no phone reception, for example. So, when the treasurer receives an email from them – the address seems genuine – they think it is natural for the CEO to communicate in this way, it is understandable that the transfer is urgent, and they don’t double check because they know the CEO is otherwise uncontactable. They go ahead and make the transfer, not realising they are sending money right into the criminals’ hands.</p>
+<p>Unfortunately, BEC attacks like this are becoming more commonplace, and Paquette says the figures are getting more alarming. As a former treasury practitioner himself, Paquette comments that he would hear about BEC attacks on a weekly, even daily basis. Now what is different, he says, is the frequency of the losses. “We conducted a partner survey and we found that the actual losses from BEC attacks have doubled over a two-year period. So even though there is greater awareness of these attacks, the success rates are still double. That’s a really scary thing for treasurers,” says Paquette.</p>
+<p>What is also frightening is the use of cutting-edge techniques, such as deepfake technology. With deepfakes, it is possible to take an audio recording and make it seem like someone you know is saying something they haven’t actually said. Deepfakes have gained prominence for their use in political disinformation campaigns, and one video made by BuzzFeed in 2018 shows how realistic they can be. The video records actor Jordan Peele speaking, mimicking Barack Obama’s voice. His mouth is then merged with a real video of Obama talking. Through the use of artificial intelligence and video editing software, the end result is a video of Obama speaking words he has never spoken. Although this technology is not being used widely in fraud attacks against corporates at the moment, it gives an indication of the kind of threats that are coming.</p>
+<p>At a basic level, audio clips of a CEO could be spliced together and left as a voicemail instructing a treasurer to make a large transfer. But as the technology becomes more sophisticated – with natural language processing, artificial intelligence (AI) and machine learning – a bot will be able to learn how to have a natural conversation in the style of the person it is mimicking. This kind of fraud is beginning to hit the headlines. In 2019, there was a case where a CEO’s voice was mimicked and a ‘fake Johannes’ instructed a subordinate to transfer US$240,000 urgently – which they did. It was so realistic the managing director really believed it was their CEO making the request. This voice cloning attack was reportedly the first of its kind, or at least the first attack that has been reported by the media. “This brings the threats to a whole new level,” says Paquette of deepfake fraud.</p>
+<h4 id="increasing-losses">Increasing losses</h4>
+<p>These new threats also come at a time when cybercrime more generally has been on the rise. Fraudsters have pounced on the change in work patterns – of working from home and more online interactions – due to the COVID-19 pandemic and ensuing lockdowns. In 2020, the Federal Bureau of Investigation’s Internet Crime Complaint Center (IC3), received a record number of complaints – an increase of 69% to 791,790 – from the US public. The reported losses from cybercrime were more than US$4.1bin. And of these losses, the BEC attacks were the costliest. IC3 reports that there were 19,369 BEC-related complaints in 2020, which totalled a loss of approximately US$1.8bn. IC3’s Internet Crime Report 2020 also notes that the attacks are becoming more sophisticated and are no longer just targeting the email accounts of CEOs or chief financial officers (CFOs). Now it may be vendor email accounts, or lawyers’ accounts, for example, that are being targeted.</p>
+<p>This trend of moving downstream from the CEO, CFO or treasurer is also occurring with fake invoice attacks, notes Paquette. In the past, it may have been just the treasurer who was targeted. Now the attacks are being pushed further down an organisation and it may be the procurement or accounts payable teams that are being targeted with fake invoices, he says.</p>
+<p>And it’s not just the corporate that is being targeted – it could be their suppliers as well. “We're seeing instances of supplier accounts being hacked and then the fraudster sending in what looks like a legitimate request to change the instructions,” says Paquette. These attacks can target the users of the enterprise resource planning [ERP] systems – either through hacking or social engineering – and the internal master-data such as beneficiary bank account details are changed. Once these details are changed, the fraudsters can then send legitimate-looking invoices with the new bank account details. The first the supplier hears about it is when they call up to ask why their last few invoices haven’t been paid. The corporate thinks they have been paying the supplier; they have been making payments – just into the wrong account. With corporates typically handling thousands of invoices every month, it is impossible to scrutinise the details of every invoice or wire instruction change request. And as their organisations become more complex, larger, and more international, their exposure to this kind of fraud increases exponentially.</p>
+<h4 id="improving-detection">Improving detection</h4>
+<p>So, given these trends of increased BEC losses, greater automation, more scale, more sharing of information among criminals, what can be done in the face of these growing – and worrying – threats?  There are two things, says Paquette. “You can prevent it, or you can detect it,” he explains. In preventing such fraud, an organisation can invest in all the controls and technology to stop it from happening. However, in the face of the increasing threats, and the growing automation – as well as the increased sophistication of the attacks – it is becoming a lot harder for organisations to prevent everything that comes their way. Awareness of the problems and training to spot attacks is not enough. “The attacks target people and manual processes. The fraudsters are always looking, assuming control gaps are there. And they will find them,” says Paquette.</p>
+<p>The other approach, explains Paquette, is to detect the fraud and use a safety net for when it does happen. That is where the Payee Community Screening (PCS) tool comes in, which can detect fraud before the payment is actually made. PCS uses a community-based network of trusted beneficiaries, vendors and bank account information so that payment instructions can be referenced against a vast pool of data. This data comes from the payment volumes of existing customers who are using TIS’s global payments solution.</p>
+<p>The beauty of big data is that as the members and the community grows – and more transaction data is acquired – the more accurate and useful it becomes. PCS uses data from verified transactions that are transmitted by clients through the TIS platform to determine the legitimacy of new payments.  As a specialised provider in the global payments space, TIS gives its customers access to over 11,000 banks in over 80 countries. This tremendous reach means that it can potentially identify more than 15 million unique beneficiaries.</p>
+<h4 id="the-community-approach">The community approach</h4>
+<p>The PCS solution uses a combination or rule-based and pattern-based technologies to detect anomalies, or flag when payment details could be fraudulent. PCS checks against an organisation’s own payment history to detect if beneficiary details have been tampered with. Also, a supplier’s bank account details can be checked against the transaction data of other organisations that are also paying them. If a corporate is paying a supplier to an account that does not match what the rest of the community is using, it will be flagged.</p>
+<p>Paquette explains that the transaction data from this community of organisations – of differing sizes, industries and geographies – can detect many kinds of abnormalities. With these checks against the community data, it becomes easier to detect fraud and fake invoices. Also, “If someone has identified an account that is being used in fraudulent attacks, that information can be shared across the whole community,” says Paquette. By leveraging the community in this way, the criminals can be stopped in their tracks as the other member organisations anticipate and counter these specific attacks.</p>
+<p>This community approach is how PCS differentiates itself from other solutions that are available in preventing payment fraud. Rather than solely being focused on technology capabilities and the rules and checks for detecting abnormal transactions, PCS’s strength comes from its focus on building the largest dataset possible. The value in the solution, and effectively fighting fraud, explains Paquette, is in the data. “The community data is a game changer,” he says.</p>
+<p>Paquette gives an example of how community data is different from relying on conventional controls. If a spoofed supplier email is sent from the contact at the supplier – say, John Smith – the check may be to verify that John Smith is the trusted contact at that organisation. They may check, and find that John Smith is indeed the trusted contact, and therefore the request is deemed genuine, and so the bank details get changed. This may not be picked up as problematic if the usual check – of verifying the contact name at the supplier – is relied on. Where the community approach is really powerful, explains Paquette, is that it can detect anomalies. For example, there may be other organisations that also use the same supplier, with the same trusted contact. “With community data you can see within the entire community that 15 other organisations – for example – are all paying this vendor and everyone else is paying using the beneficiary details you previously had in your vendor master before the latest change,” explains Paquette. “That is really powerful.”</p>
+<p>PCS’s value is also in its ability to reduce the number of false positives, and it overcomes a typical challenge that many organisations have with managing new solutions. Most organisations, Paquette explains, are concerned with the extra time that is taken up in weeding out the real positives from the false ones. “Having large amounts of data from various sources allows us to get really refined in the screening process, which results in few false positives,” says Paquette. “A common concern we have among the organisations that we talk to is about the false positive rate and how much work it will take to administer this tool on a day-to-day basis,” he says.</p>
+<h4 id="creating-a-safety-net">Creating a safety net</h4>
+<p>Even the best, most robust internal control issues may not be enough in the face of the increasing threats. And PCS is a solution that helps detect fraud, if – or when – it does occur. Even with the best controls, and training programmes in place, given the automation and scale of the attacks – and the persistence and increasing sophistication of fraudsters – organisations are coming under pressure to put a robust safety net in place.</p>
+<p>In the case of attacks that target procurement, for example, there may be one fraudulent transaction that is buried in a batch of 250 transactions, Paquette says. “There’s just no way to detect it without intelligent fraud detection software,” he adds. “PCS acts as a safety net.”  For organisations dealing with increasing volumes, it would be risky for them to not have something in place to detect fraud at the last stage of a transaction: “Without it you really don’t have anything to prevent an intrusion by the fraudsters into your procurement, accounts payable, or treasury processes from becoming an actual loss,” says Paquette.</p>
+<h4 id="adapting-to-change">Adapting to change</h4>
+<p>Also, the community-based approach means that the member organisations are staying on top of the latest trends and can adapt to the new threats that are emerging. Any fraud solution needs to be able to respond quickly and be flexible to the changing nature of the threats. “The threats are always changing, organisations are always changing,” says Paquette. “Organisations make acquisitions, they take on new systems, they change their banking relationships. The control gaps are constantly shifting, and screening needs to stay ahead of that”, adds Paquette.</p>
+<p>The PCS solution is always benchmarking against the market, and by analysing the data from the community it can anticipate what kind of attacks could be coming an organisation’s way. “It is never a one and done thing for fraud detection,” explains Paquette. Another way that TIS is able to stay on top of the latest trends is through its partnership with Deutsche Bank. In March 2021, the German bank announced that it had joined forces with TIS to develop and offer multi-bank services. The cooperation started with developing fraud prevention software for corporate customers and the partnership was established so the two parties could also develop and distribute multi-bank services for treasury and finance. Through this relationship TIS is close to the frontline of what financial institutions are facing in the fight against cybercrime, and this insight informs the development of TIS’s products and solutions.</p>
+<p>When it comes to developing cyber defences for the future, what will the cybercriminals be doing next? In this arms race between the fraudsters and their potential victims, what threats should corporates be preparing for next? “The truth is we just don’t know. And in some instances, I’m not even sure it would matter if we did,” says Paquette. He gives the example of BEC fraud, which treasurers are well aware of, and even though there are internal processes and training programmes in place to prevent it, the scams are still successful. The key to preventing payment fraud in the future, explains Paquette is to stay flexible and agile. “It’s not necessarily about predicting what is coming next but being prepared for anything,” says Paquette. “It is about having the right formula – we think we have that, and it is based on leveraging a foundation of good data,” he adds.</p>
+<p>The criminals are also sharing this data across their networks, in criminal communities. “It only makes sense for the corporates to use data and communities and automate to defend against them,” says Paquette. “It’s a fight fire with fire approach to fraud detection,” he adds.</p>
+
+
+
+]]></content>
+		<excerpt><![CDATA[As fraudsters are becoming increasingly sophisticated, and sharing data across their criminal networks, treasurers need to do more to protect themselves. By also using data, and a community-based approach, they can ‘fight fire with fire’ and prevent payment fraud.]]></excerpt>
+		<featuredimage><![CDATA[https://treasurytoday.com:443/-/media/images/technology/cybersecurity/2021-12-08-sf-00__concept-credit-card-theft-hackers-cards-1107463670__1920x1080.jpg]]></featuredimage>
+		<publishdate><![CDATA[2021-12-01]]></publishdate>
+		<category><![CDATA[Cybersecurity]]></category>
+		<issponsored><![CDATA[True]]></issponsored>
+	</node>
+	<node>
+		<title><![CDATA[Cybercriminals seek home comforts]]></title>
+		<content><![CDATA[
+
+
+<p><em>With the volume of cyber attacks increasing since the start of the coronavirus pandemic, corporates need to demand constant vigilance and security policy compliance from work-at-home treasury staff.</em></p>
+<picture class="hero__picture" imgclass=".heroarticle_summary__img"><!--[if IE 9]><video style='display: none;'><![endif]--><source media="(min-width: 1440px)" srcset="https://treasurytoday.com:443/-/media/images/technology/cybersecurity/2020-11-12-tt-tech__close-photo-soft-wave-brakes-into-1393305722__1920x1080.jpg?w=1800&amp;usecustomfunctions=1¢ercrop=1&amp;hash=CD024C8304A32F9C4FBB6A530F29F101"/><!--[if IE 9]></video><![endif]--><!--[if IE 9]><video style='display: none;'><![endif]--><source media="(min-width: 1200px)" srcset="https://treasurytoday.com:443/-/media/images/technology/cybersecurity/2020-11-12-tt-tech__close-photo-soft-wave-brakes-into-1393305722__1920x1080.jpg?w=1400&amp;usecustomfunctions=1¢ercrop=1&amp;hash=C60D3F272C46D71115E200863DABD7C3"/><!--[if IE 9]></video><![endif]--><!--[if IE 9]><video style='display: none;'><![endif]--><source media="(min-width: 1024px)" srcset="https://treasurytoday.com:443/-/media/images/technology/cybersecurity/2020-11-12-tt-tech__close-photo-soft-wave-brakes-into-1393305722__1920x1080.jpg?w=1200&amp;usecustomfunctions=1¢ercrop=1&amp;hash=5857D4A17F3A1DF45C826560B28D8118"/><!--[if IE 9]></video><![endif]--><!--[if IE 9]><video style='display: none;'><![endif]--><source media="(min-width: 769px)" srcset="https://treasurytoday.com:443/-/media/images/technology/cybersecurity/2020-11-12-tt-tech__close-photo-soft-wave-brakes-into-1393305722__1920x1080.jpg?w=1024&amp;usecustomfunctions=1¢ercrop=1&amp;hash=069D381035B75E583E95902CA98812F5"/><!--[if IE 9]></video><![endif]--><!--[if IE 9]><video style='display: none;'><![endif]--><source media="(min-width: 550px)" srcset="https://treasurytoday.com:443/-/media/images/technology/cybersecurity/2020-11-12-tt-tech__close-photo-soft-wave-brakes-into-1393305722__1920x1080.jpg?w=638&amp;usecustomfunctions=1¢ercrop=1&amp;hash=50D214A7D3F237B8DBAFD1A8F621B98E"/><!--[if IE 9]></video><![endif]--><img alt="Multi coloured posts of a jetty" class=".heroarticle_summary__img" src="https://treasurytoday.com:443/-/media/images/technology/cybersecurity/2020-11-12-tt-tech__close-photo-soft-wave-brakes-into-1393305722__1920x1080.jpg?w=420&amp;usecustomfunctions=1¢ercrop=1&amp;hash=966DE9F8F83B9EC798B5432070CEC086" srcset="https://treasurytoday.com:443/-/media/images/technology/cybersecurity/2020-11-12-tt-tech__close-photo-soft-wave-brakes-into-1393305722__1920x1080.jpg?w=420&amp;usecustomfunctions=1¢ercrop=1&amp;hash=966DE9F8F83B9EC798B5432070CEC086"/></picture> 
+
+<h2 class="h2 copy__heading"></h2>
+<h3 class="sub-heading copy__sub-heading"></h3>
+
+<p>Criminals thrive on turmoil, so it should come as no surprise that treasury exposure to cybercrime has increased over the course of this year. The latest Journeys to Treasury report produced by BNP Paribas, EACT, PwC and SAP refers to an upsurge in electronic fraud, with one contributor advising corporates to stress test their business continuity plans to mitigate the impact of a successful cyberattack.</p>
+<p>This represents an acceleration of a trend highlighted in the 2019 AFP cyber risk survey, which found that 88% of corporate practitioners’ organisations had been targeted by cybercriminals over the previous 18 months.</p>
+<p>When it comes to preventing cyberattacks, identity and access management is vital. Detection modules in treasury management systems detect anomalies in account use, for example if an unusual request is made.</p>
+<p>Another basic control principle is ensuring that the endpoint of the user connecting into the cloud system is encrypted across the network, explains the Chief Information Security Officer at treasury management solution vendor Kyriba, Eric Adam.</p>
+<p>“If a user is connecting from a public space, an attacker would be able to listen to all the network traffic using security software tools and if this traffic was not encrypted they could analyse it for password and account information,” he says. “We are therefore constantly refining our encryption technology, running penetration and network tests and assessing the vulnerability of individual devices.”</p>
+<p>Many organisations have different levels of control so if an attack was made on an internal business system it would not affect the applications they host or allow the attacker to extract data from these applications.</p>
+<p>“Application level security is vital to ensure treasury applications are not vulnerable to attack,” says Adam. “However, regardless of how the corporate structures its cybersecurity system, consistent policies are enormously important. If your business solutions require 15 character password access you want to keep this as consistent as possible across all applications.”</p>
+<p>A survey of IT professionals in the US, UK, France and Germany conducted by Tanium Security found that 90% reported an increase in the frequency of attacks after shifting to a distributed workforce. Visibility of new devices; overwhelmed IT capacity due to virtual private network (VPN)requirements; and increased security risks from video conferencing were the top three security challenges identified for staff working from home.</p>
+<p>According to Martin Schlageter, Head of Treasury Operations at multinational healthcare company Roche, working from home in itself doesn’t make it harder to protect treasury teams from cyber threats. However, he says, it does require different solutions (for example, highly sophisticated web application firewalls) as the existing measures don’t scale to such an unprecedented increase in traffic and remote working.</p>
+<p>“Firewalls and anti-virus protection may not be up to scratch on home PCs, so employers should ensure that only approved and tested communication devices are used for business and that these devices are not open to use by other family members,” says Len Jones, Senior Accountant at property services firm Wincham Group.</p>
+<p>Adrian Rodgers, Director of treasury consultancy ARC Solutions observes that corporate IT departments have spent a lot of time and money on creating hermetically sealed, safe computing environments for employees. “Staff using their own machines in shared space with family members is not going to improve the security situation, but this is not really the vendor community’s problem,” he says. “Responsibility for the development, propagation and validation of safe work from home practices lies with corporate IT departments.”</p>
+<p>In the office, treasury professionals will be protected by the corporate firewall and their IT colleagues will often be in close proximity, so if they receive a suspicious email, for example, they can quickly check if it is genuine. The networking equipment they use provides a further layer of protection. However, when they are working from home they will be using different routers and have different software controlling their devices’ hardware, while their physical separation from IT staff makes them more vulnerable.</p>
+<p>The first step for a corporate looking to boost its cybersecurity is ensuring it has enough VPN connections so that when staff connect remotely they are doing so through an encrypted private network. “They should then ensure that laptops and other devices being used at home are updated by the IT department,” says Adam. “Making IT staff available to answer queries promptly is important, as is phishing training to prevent employees downloading malware.” Jones says most potential cyber threats can be identified by a robust risk assessment, which will show the risks facing the overall organisation and its treasury staff. “It is clear that employee behaviour and IT literacy have a crucial role to play,” he says. Corporations need to build resilience to constant cyber threats while still being able to operate. Knowledge is the key and many large corporates have employed ethical hackers to penetrate their internal systems and operate as audit and assurance police.”</p>
+<p>A common form of attack is social interaction, which can lead to identity theft. Hackers may also impersonate CEOs or people in senior positions and use language which causes the recipient to initiate a payment. “Even with additional layers of authorisation this can be problematical as hackers may have access to other co-signatories on the accounts,” says Jones. “Criminals will also hack into client emails and impersonate the business in order to have the corporate pay them rather than the legitimate company. Multi-step verification processes and internal controls are crucial here so that no one person has complete control of the payment process.” Another step corporates can take to improve their cybersecurity is to establish protocols around how email addresses are structured so that phishers can be identified. Given the level of fine that can be levied by the ICO, companies should already have robust controls in place to protect sensitive information.</p>
+<p>Cultural organisational issues should be at the forefront here because data is a resource that has value and must be protected. User behaviour must also be modified so that apps and programmes are not downloaded indiscriminately, while the usual internal controls regarding passwords and user access (including past employee access) is essential.</p>
+<p>When asked how treasury cybersecurity technology vendors keep pace with the evolving threat from cybercriminals who are constantly developing new methods of attack, Adam explains that it starts with analysing the types of attack that are made to get an understanding of what the cybercriminal is trying to achieve.</p>
+<p>“We also ensure that only permitted communication is allowed between different corporate systems, which links back into the issue of access control,” he adds. “When we analyse major cybersecurity breaches, we can often trace the source to non-observance of a basic principle.”</p>
+<p>The authors of the Journeys to Treasury report observe that while treasurers rarely ‘own’ responsibility for cyber risk, they can play a major role in preventing attacks, given the sensitivity of the data and scale of financial transactions and holdings managed within their departments.</p>
+<p>It would be unusual for treasury departments to have dedicated cybersecurity systems or processes distinct from those of the wider organisation. However, because these departments deal with a small number of high value transactions they are at particularly high risk of attack.</p>
+<p>Schlageter suggests treasury systems not only require much stricter controls than most other information systems, such as ensuring the identity of the user and mapping every action and connection to that user and device. “Due to the potentially high financial loss in case of a system breach, they also require dedicated cybersecurity systems for security incident and event monitoring,” he says.</p>
+<p>“We expect treasury cybersecurity technology vendors to keep up with evolving threats by running a security lab with full-time security researchers and offering professional services such as security penetration tests and consultancy as well as participating in and running security conferences,” he adds.</p>
+<p>Stephen Lane, Chief Financial Officer at mechanical engineering firm Xtrac, reckons any business would be well advised to look at cyber security in ‘the round’ while acknowledging that there may be certain nuances required to protect the financial elements of the business. “The role of the chief technology officer/chief information officer has been rapidly evolving to ensure that businesses invest appropriately in modern equipment and security that offers suitable protection,” he adds.</p>
+<p>“There are certainly opportunities for cybersecurity vendors, but I think there is also a very clear opportunity for proactive management of a company’s IT estate such that protection can be developed as efficiently as possible within a pragmatic and financially sensible framework.”</p>
+<p>The challenge for corporates is how to take a more focused approach to treasury if their cybersecurity processes are applied uniformly across the whole organisation says Dino Nicolaides, Managing Director, Head of Treasury Advisory UK&amp;I at Redbridge Debt &amp; Treasury Advisory.</p>
+<p>“I have seen clients address this issue through stricter processes,” he says. “For example, some treasury departments are not allowed to accept payment instructions via email, even if the authorisation appears to come from the very top of the organisation. This would require payments to be verified by phone.”</p>
+<p>In other cases the corporate might impose a policy of not accepting payments made to a supplier that is not already onboarded on the system, or insist on a pro-forma being provided before any invoice is submitted for payment.</p>
+<p>Of course, in the pre-coronavirus era a payment instruction could often be verified in person. With so many treasury staff working from home this is no longer possible, although Nicolaides says corporates have responded by reviewing cybersecurity processes and procedures to tighten controls around remote access. “This remains a work in progress, but progress has been made.”</p>
+<p>Nicolaides believes corporates are making greater efforts to keep treasury staff updated on potential cybersecurity vulnerabilities.</p>
+<p>“Treasury cybersecurity technology vendors react quickly when new forms of attack emerge and we have noticed an increase in attempted attacks since the start of the pandemic,” he says. “Corporates have been more proactive in reminding their treasury staff of the main threats and risks and the techniques used by cybercriminals to ensure they remain alert and don’t ignore suspicious activity.”</p>
+<p>Rodgers offers some reassurance for corporate treasurers by suggesting that banks’ systems now incorporate many of the lessons learned from decades of experience in producing payment systems and portals.</p>
+<p>“For treasury, multi-level approval layers – tailored to the risk involved – will underpin a robust control environment,” he concludes. “It is probably even more important to create and widely publicise the payments rulebook in order to avoid the dangers of ‘Friday afternoon’ fraud and similar social engineering attacks.”</p>
+
+
+
+]]></content>
+		<excerpt><![CDATA[With the volume of cyber attacks increasing since the start of the coronavirus pandemic, corporates need to demand constant vigilance and security policy compliance from work-at-home treasury staff.]]></excerpt>
+		<featuredimage><![CDATA[https://treasurytoday.com:443/-/media/images/technology/cybersecurity/2020-11-12-tt-tech__close-photo-soft-wave-brakes-into-1393305722__1920x1080.jpg]]></featuredimage>
+		<publishdate><![CDATA[2020-11-01]]></publishdate>
+		<category><![CDATA[Cybersecurity]]></category>
+		<issponsored><![CDATA[False]]></issponsored>
+	</node>
+	<node>
+		<title><![CDATA[Cyber-security: don’t be the weakest link]]></title>
+		<content><![CDATA[
+
+
+<p><em>Cyber-criminals continue to develop ever more sophisticated techniques, with some companies experiencing attacks every single day. Yet many treasurers do not regard cyber-security as a critical concern. So what threats should treasurers be particularly aware of in the current environment – and how can they protect their organisations?</em></p>
+<picture class="hero__picture" imgclass=".heroarticle_summary__img"><!--[if IE 9]><video style='display: none;'><![endif]--><source media="(min-width: 1440px)" srcset="https://treasurytoday.com:443/-/media/images/technology/cybersecurity/2019-11-12-tt-01-ia__rakotzbrucke-known-bridge-kromlau-germany-reflection-419873752__1920x1080.jpg?w=1800&amp;usecustomfunctions=1¢ercrop=1&amp;hash=0751A9E10BC875F71AE63B3F7A4286DD"/><!--[if IE 9]></video><![endif]--><!--[if IE 9]><video style='display: none;'><![endif]--><source media="(min-width: 1200px)" srcset="https://treasurytoday.com:443/-/media/images/technology/cybersecurity/2019-11-12-tt-01-ia__rakotzbrucke-known-bridge-kromlau-germany-reflection-419873752__1920x1080.jpg?w=1400&amp;usecustomfunctions=1¢ercrop=1&amp;hash=5768475F06842935F4E12A33A4D0A9A2"/><!--[if IE 9]></video><![endif]--><!--[if IE 9]><video style='display: none;'><![endif]--><source media="(min-width: 1024px)" srcset="https://treasurytoday.com:443/-/media/images/technology/cybersecurity/2019-11-12-tt-01-ia__rakotzbrucke-known-bridge-kromlau-germany-reflection-419873752__1920x1080.jpg?w=1200&amp;usecustomfunctions=1¢ercrop=1&amp;hash=4253C01D77B08A02F6C56E7F4BAAD864"/><!--[if IE 9]></video><![endif]--><!--[if IE 9]><video style='display: none;'><![endif]--><source media="(min-width: 769px)" srcset="https://treasurytoday.com:443/-/media/images/technology/cybersecurity/2019-11-12-tt-01-ia__rakotzbrucke-known-bridge-kromlau-germany-reflection-419873752__1920x1080.jpg?w=1024&amp;usecustomfunctions=1¢ercrop=1&amp;hash=965315E212255924A4C63809166FFE3E"/><!--[if IE 9]></video><![endif]--><!--[if IE 9]><video style='display: none;'><![endif]--><source media="(min-width: 550px)" srcset="https://treasurytoday.com:443/-/media/images/technology/cybersecurity/2019-11-12-tt-01-ia__rakotzbrucke-known-bridge-kromlau-germany-reflection-419873752__1920x1080.jpg?w=638&amp;usecustomfunctions=1¢ercrop=1&amp;hash=9E823024639B64C03646D656018859D9"/><!--[if IE 9]></video><![endif]--><img alt="Weak stone bridge over lake in Germany, creating beautiful reflection" class=".heroarticle_summary__img" src="https://treasurytoday.com:443/-/media/images/technology/cybersecurity/2019-11-12-tt-01-ia__rakotzbrucke-known-bridge-kromlau-germany-reflection-419873752__1920x1080.jpg?w=420&amp;usecustomfunctions=1¢ercrop=1&amp;hash=F52572AA629782F0BBD3CB8A0B916947" srcset="https://treasurytoday.com:443/-/media/images/technology/cybersecurity/2019-11-12-tt-01-ia__rakotzbrucke-known-bridge-kromlau-germany-reflection-419873752__1920x1080.jpg?w=420&amp;usecustomfunctions=1¢ercrop=1&amp;hash=F52572AA629782F0BBD3CB8A0B916947"/></picture> 
+
+<h2 class="h2 copy__heading"></h2>
+<h3 class="sub-heading copy__sub-heading"></h3>
+<p>Cyber-security is an issue that affects companies both large and small – but despite the growing threat faced by companies everywhere, many treasurers do not currently see this area as a major priority within their own roles. Unfortunately, it’s not a question of if, but when, your organisation will be targeted.</p>
+<p>PwC’s 2019 Global Treasury Benchmarking Survey, Digital Treasury – It takes two to tango, found that only 15% of respondents said their organisations were not affected at all by payment fraud attempts. Four out of ten said they were affected on at least a monthly basis, with 9% reporting they experience attacks every day.</p>
+<p>However, the survey noted that while three quarters of CFOs see cyber-security as a critical concern, only 28% of treasurers do the same. The report suggests several reasons why this might be the case, including a lack of clarity over risk ownership and a perception by treasurers that cyber risk is the domain of IT or finance, rather than treasury. “This is a cautionary finding from this year’s survey that should be a wake-up call to the treasury community,” the report warns.</p>
+<p>François Masquelier, Chairman of Association of Corporate Treasurers of Luxembourg (ATEL), likewise questions whether treasurers are as concerned about cyber risk as they should be. “Cyber-security should keep treasurers awake at night, shouldn’t it?” he comments. “However, I don’t think it does.”</p>
+<h4 id="be-prepared">Be prepared</h4>
+<p>It’s clear that many treasurers do not feel fully prepared to combat a possible attack. The FIS 2019 Treasury Modernization Survey, for example, found that less than a third of treasury departments consider themselves to be very effective at managing cyber risk – although this is hopefully changing.</p>
+<p>“In 2020, we’ll see more efforts and investments from treasurers and IT to reassess financial operations, identifying potential areas of exposure and addressing those,” comments Andrew Bateman, SVP, Buy-side Solutions, FIS. “The best-protected treasury departments have educational programmes for employees, processes for mitigating fraud and technology from reliable providers with strong security offerings.”</p>
+<h4 id="what-are-the-threats">What are the threats?</h4>
+<p>A key challenge when it comes to managing the risk of cyber-attacks is that the methods used by fraudsters tend to evolve much faster than the measures adopted by their intended victims. Nevertheless, some threats are more prevalent than others, so it’s important that treasurers stay abreast of the latest developments in this area.</p>
+<p>“Treasurers have to work with IT and third-party technology providers to stay informed on all types of threats,” says Bateman. “While certain types of fraud, such as cheque fraud, have remained steady, other types of fraud are growing in popularity, including targeted phishing, malware, ransomware, data and identity theft, and others.”</p>
+<h4 id="the-rise-of-ransomware">The rise of ransomware</h4>
+<p>Where today’s threatscape is concerned, Joseph Krull, Senior Analyst – Cyber-security at Aite Group, points out that attackers tend to go for the path of least resistance – and currently, he notes that ransomware is an issue that is causing particular issues in the US.</p>
+<p>In 2018, for example, the City of Atlanta was hit by a ransomware attack that wreaked havoc and disrupted city services. The attack, which left some departments having to use pen and paper to carry out their jobs, hindered revenue collections and resulted in the loss of years of dashcam footage. In May 2019, Baltimore’s local government was targeted by hackers, locking employees out of their computers and preventing local residents from paying bills and taxes. Recent weeks have also seen numerous attacks on school districts and colleges, bringing considerable disruption and closures.</p>
+<p>Other high-profile ransomware attacks include the 2017 WannaCry attack which wreaked havoc on the UK’s National Health Service (NHS), as well as targeting Spanish utilities companies and educational institutions in China. And while there were reports that ransomware incidents were declining last year, a report by cyber-security company McAfee found that incidents increased by 118% in the first quarter of 2019.</p>
+<p>The recent attacks in the US have cost millions of dollars to rectify – and Krull warns that further attacks are likely. “Ransomware is endemic today,” he says. “As a treasurer, I would be concerned about that – an attack could not only bring the business to a halt, but could also cause the loss of critical data needed to do things like regulatory filings, tax filings and issuing invoices. Ransomware can really ruin your day.”</p>
+<h4 id="beware-bec-attacks">Beware BEC attacks</h4>
+<p>In addition, business email compromise (BEC) attacks – in which the attacker impersonates the CEO or other senior officer to convince staff to make a payment – continue to be a threat. The FBI’s 2018 Internet Crime Report found that over US$1.2bn was lost as a result of BEC scams last year – up from US$676m in 2017.</p>
+<p>Despite the name, Krull says that this type of attack is not only carried out by email, but can also be issued using other channels such as phone and instant messenger. “Attackers rely on two things for this type of attack,” he explains. “One is a sense of urgency – they will say that the payment has got to be made right away. And the second is that they will impersonate the highest person in the organisation in order to have that horsepower and convince people that they need to do the transaction.”</p>
+<p>Krull says that education is the primary defensive tool when it comes to combatting this type of attack. He also notes that banks are taking steps to reduce the risk of loss by adding a waiting time before transactions flagged as high risk are executed.</p>
+<h4 id="addressing-the-threats">Addressing the threats</h4>
+<p>Understanding the types of threat companies face is only the first step in safeguarding the organisation – businesses also need to have measures in place to address the possible threats. Sharman says the three key risk areas that need to be addressed are identities, user access and security configuration.</p>
+<p>“With the rise in threats around mobility and cloud, it is however also essential to put additional security measures in place to protect the overall solution environment, including people and processes,” he adds. “Taking control of your solution environment means that you need to extend the boundaries beyond the core areas to include infrastructure, database, operating system and connected applications. Only by securing and mitigating risk in the full solution stack and surrounding IT environment can you truly be in control of your organisations data, IP and resources.”</p>
+
+
+<h2 class="h3 copy__heading">The CIA triad</h2>
+<p>In the security industry, the acronym CIA is used to outline three key components of information security, namely confidentiality, integrity and availability. This may be referred to as the CIA triad or the CIA principle. These three principles should be guaranteed in any kind of secure system.</p>
+<p>Carl Sharman, Director, Financial Advisory at Deloitte, explains the attributes of the three areas and the types of threat that can arise in each of them:</p>
+<p><strong>Confidentiality</strong> – protecting an organisation or individual’s information. Threats include:</p>
+<ul>
+<li>
+<p>Data breaches, in which confidential information leaves an organisation in an unauthorised way.</p>
+</li>
+<li>
+<p>Non-compliance with GDPR.</p>
+</li>
+<li>
+<p>System compromise, leading to accessing confidential information.</p>
+</li>
+<li>
+<p>Segregation of duties/access issues in which conflicting or critical access provides access to confidential information.</p>
+</li>
+</ul>
+<p><strong>Integrity</strong> – ensuring something performs its intended function in an unimpaired manner, free from deliberate or inadvertent unauthorised manipulation. This includes both system integrity and data integrity. Threats include:</p>
+<ul>
+<li>
+<p>Non-compliance with GDPR from a data integrity perspective.</p>
+</li>
+<li>
+<p>Disaster (eg malware loaded onto SAP servers could manipulate business data and transactions).</p>
+</li>
+<li>
+<p>A lack of clearly defined business processes and controls resulting in unauthorised or partial transactions.</p>
+</li>
+<li>
+<p>The ability of users with privileged access to bypass processes and controls.</p>
+</li>
+</ul>
+<p><strong>Availability</strong> – making sure systems that support critical business processes are available 24/7. Threats include:</p>
+<ul>
+<li>
+<p>Systems compromise, meaning employees/clients can no longer access the system.</p>
+</li>
+<li>
+<p>Environmental events leading to power outages.</p>
+</li>
+<li>
+<p>Denial of service attacks, achieved by sending a specific set or high number of requests to a server so it stops responding.</p>
+</li>
+<li>
+<p>Incorrectly designed or provisioned access rights, resulting in a system being unavailable for end users.</p>
+</li>
+</ul>
+<p>In practice, companies may not give all three areas the same level of focus. Joseph Krull, Senior Analyst – Cyber-security at Aite Group, notes that while everyone understands the need to protect confidentiality, “what we don’t understand is that we’re also charged with the integrity of the data. So we don’t want people changing data to be able to hide things or manipulate capital markets. And when it comes to availability, if you can’t get to the data, the data is useless. If you can’t get to your systems, you can’t conduct business.”</p>
+
+
+<h2 class="h2 copy__heading"></h2>
+<h3 class="sub-heading copy__sub-heading"></h3>
+<h4 id="what-can-treasurers-do">What can treasurers do?</h4>
+<p>While responsibility for this area can be held by different job roles in different organisations, it’s clear that treasurers have a particular need to protect the organisation from the risk of cyber-attacks. This should include having suitable policies, processes and controls in place.</p>
+<p>For example, Sharman says treasurers should focus on the following points in order to mitigate the risks:</p>
+<ul>
+<li>
+<p>Ensure the necessary controls are embedded in treasury processes.</p>
+</li>
+<li>
+<p>Review and manage privileged accounts and privilege escalation.</p>
+</li>
+<li>
+<p>Monitor processes and transactions to detect anomalies.</p>
+</li>
+<li>
+<p>Review and manage system access and segregation of duties.</p>
+</li>
+<li>
+<p>Segregation of duties lifecycle management.</p>
+</li>
+<li>
+<p>User access management.</p>
+</li>
+<li>
+<p>(Controls) business process controls design and implementation.</p>
+</li>
+<li>
+<p>(Data) continuous control monitoring.</p>
+</li>
+</ul>
+<p>While it’s important to be able to mitigate the risk of cyber-attacks and detect any fraudulent activity, the ability to respond appropriately to any attacks is also essential, as Sharman points out. “While the ability to detect attacks on your information is key, being able to respond effectively is often the real differentiator between an incident being a line item on a management report and potentially being front page news,” he warns.</p>
+<p>And beyond key treasury processes and controls, treasurers may also have a role to play in building awareness of cyber risks both within treasury and across the organisation, as well as ensuring appropriate training is carried out:</p>
+<ul>
+<li>
+<p><strong>Phishing exercises.</strong> Krull says that any organisation should be carrying out phishing exercises, whereby employees are sent simulated phishing emails. “In the first instance you do this company wide and see what percentage of the total employees clicks on the email,” he explains. “I’ve seen some companies where 50-60% of employees have clicked. But the real goal is to catch the repeat offenders – so if an employee clicks on two different phishing exercises in a row, you immediately move them out to specialised training.”</p>
+</li>
+<li>
+<p><strong>Training.</strong> Training should also be deployed to teams that are particularly at risk of falling victim to a cyber-attack. Procurement, for example, interacts with vendors and could therefore fall victim to malicious requests to change vendors’ bank account details. Likewise, Krull points out that no one should be permitted to make ACH transfers or B2B payments without completing mandatory training on the proper processes and thresholds.</p>
+</li>
+</ul>
+<p>Krull also warns that when consumer products companies launch innovation programmes and digital initiatives, it’s important to make sure the security implications of those initiatives have been fully assessed. “If I’m a treasurer or financial controller, I want to make sure that the security team or a trusted third party has had a chance to review those initiatives before they get into the mainstream,” he says.</p>
+<h4 id="how-can-technology-help">How can technology help?</h4>
+<p>Deloitte’s Sharman notes that while technology can act as a catalyst for improving processes, “every technology requires a human intervention at a minimum, to start and finish it. The human intervention is often the weakest link – and the quickest to fall – and many incidences blamed on ‘system failure’ are often instigated this way.” Sharman cites the US$81m loss suffered by Bangladesh Central Bank in 2016, noting that this included “the possible involvement of some of the employees.”</p>
+<p>Despite this caveat, Sharman says there are a few areas where technology can make a big difference – such as “creating a security baseline (a minimum set of security requirement for your most important applications), as if you can’t access it, you can’t exploit it.” He notes that the principle of segregation of duties is “based on shared responsibilities of a key process that disperses the critical functions of that process to more than one person or department.” Sharman notes this ruleset is “the most critical component that impacts how access risks are identified and managed within the security design.”</p>
+<p>Sharman also notes that malicious source code is the source of security issues, adding that “this technological input can be both solution-orientated and preventative.” While he says that code review – especially of custom code – is a time-consuming process which is not feasible without the use of tooling, “code reviews help to identify these errors and prevent misuse”, using specialised software to extract the custom code and automatically analyse it for insecure programming constructs. Sharman says the results of the scans are then collected and further analysed, with manual validation performed to filter out false positives and observations that do not possess any relevant risk.</p>
+<h4 id="treasury-technology-and-security">Treasury technology and security</h4>
+<p>Where treasurers are concerned, the selection of technology partners should be carried out with close attention to security.</p>
+<p>“Treasurers should select treasury technology partners that will ensure the safety of their data and treasury operation,” comments FIS’ Bateman. “Before partnership agreements are made, treasurers should ask technology providers to demonstrate their expertise and commitment to the security of the chosen solution, as well as explaining the role the vendor will play in advising and protecting the client.” He notes that FIS partners with “leading industry and key governmental security and enforcement agencies to capture, analyse and assess threat intelligence to help defend ourselves and our clients from cyber-attacks.”</p>
+<p>Looking forward, the FIS Treasury Modernization Survey predicts that “Adoption of cyber risk technology will grow in conjunction with cloud solutions”, with companies that seek cloud solutions expecting providers to package cyber risk prevention technology within solutions.</p>
+<h4 id="conclusion">Conclusion</h4>
+<p>While the issue of cyber-attacks continues to present a considerable threat for companies around the world, it’s clear that for many treasurers there is more that could be done to address the risks. “Cyber risks response requires discipline and rigor that are unfortunately often missing,” says Masquelier. “Treasurers should remain prepared as the worst to come is never far away.”</p>
+<p>While overall responsibility for this area may be unclear in some organisations, there is much that treasurers can do to protect their own processes, systems and activities from the risks. As Deloitte’s Sharman warns, “Vulnerabilities will always exist, and you do not want your treasury solution to be your weakest link.”</p>
+
+
+]]></content>
+		<excerpt><![CDATA[Cyber-criminals continue to develop ever more sophisticated techniques, with some companies experiencing attacks every single day. Yet many treasurers do not regard cyber-security as a critical concern. So what threats should treasurers be particularly aware of in the current environment – and how can they protect their organisations?]]></excerpt>
+		<featuredimage><![CDATA[https://treasurytoday.com:443/-/media/images/technology/cybersecurity/2019-11-12-tt-01-ia__rakotzbrucke-known-bridge-kromlau-germany-reflection-419873752__1920x1080.jpg]]></featuredimage>
+		<publishdate><![CDATA[2019-11-01]]></publishdate>
+		<category><![CDATA[Cybersecurity]]></category>
+		<issponsored><![CDATA[False]]></issponsored>
+	</node>
+	<node>
+		<title><![CDATA[Building cyber-resilient treasuries]]></title>
+		<content><![CDATA[
+
+
+<picture class="hero__picture" imgclass="heroarticle__img"><!--[if IE 9]><video style='display: none;'><![endif]--><source media="(min-width: 1440px)" srcset="https://treasurytoday.com:443/-/media/images/webinars/3d-render-big-bang-galaxy-abstract-1155071782__1920x1080.jpg?w=1800&amp;usecustomfunctions=1¢ercrop=1&amp;hash=C861846E3D7806CAADD72B77228D025D"/><!--[if IE 9]></video><![endif]--><!--[if IE 9]><video style='display: none;'><![endif]--><source media="(min-width: 1200px)" srcset="https://treasurytoday.com:443/-/media/images/webinars/3d-render-big-bang-galaxy-abstract-1155071782__1920x1080.jpg?w=1400&amp;usecustomfunctions=1¢ercrop=1&amp;hash=32A087EBB1E95A70D2C0F31A567F0FC0"/><!--[if IE 9]></video><![endif]--><!--[if IE 9]><video style='display: none;'><![endif]--><source media="(min-width: 1024px)" srcset="https://treasurytoday.com:443/-/media/images/webinars/3d-render-big-bang-galaxy-abstract-1155071782__1920x1080.jpg?w=1200&amp;usecustomfunctions=1¢ercrop=1&amp;hash=B267A638C18E185528E777299AEB3C77"/><!--[if IE 9]></video><![endif]--><!--[if IE 9]><video style='display: none;'><![endif]--><source media="(min-width: 769px)" srcset="https://treasurytoday.com:443/-/media/images/webinars/3d-render-big-bang-galaxy-abstract-1155071782__1920x1080.jpg?w=1024&amp;usecustomfunctions=1¢ercrop=1&amp;hash=911BDE6E56776F6A108D1BAE94889FC2"/><!--[if IE 9]></video><![endif]--><!--[if IE 9]><video style='display: none;'><![endif]--><source media="(min-width: 550px)" srcset="https://treasurytoday.com:443/-/media/images/webinars/3d-render-big-bang-galaxy-abstract-1155071782__1920x1080.jpg?w=638&amp;usecustomfunctions=1¢ercrop=1&amp;hash=3D4A2DB019F1CD53232AB2ACEBF7457A"/><!--[if IE 9]></video><![endif]--><img alt="Glowing green fibre lines" class="heroarticle__img" src="https://treasurytoday.com:443/-/media/images/webinars/3d-render-big-bang-galaxy-abstract-1155071782__1920x1080.jpg?w=420&amp;usecustomfunctions=1¢ercrop=1&amp;hash=DF5781D4F19A51C28635BB4BB29508EA" srcset="https://treasurytoday.com:443/-/media/images/webinars/3d-render-big-bang-galaxy-abstract-1155071782__1920x1080.jpg?w=420&amp;usecustomfunctions=1¢ercrop=1&amp;hash=DF5781D4F19A51C28635BB4BB29508EA"/></picture> 
+
+<h2 class="h2 copy__heading"></h2>
+<h3 class="sub-heading copy__sub-heading"></h3>
+<p><img alt="BNP Paribas logo" src="https://treasurytoday.com:443/-/media/logo/bnp-paribas-logo-2012-120x26.svg?la=en&amp;hash=A22612B8EEEE1040B62063AF193125C7"/></p>
+<p><em>Hackers are making hay from the rapid digitalisation of organisations with treasurers increasingly a focus for attack. In a recent webinar experts from BNP Paribas explained how firms can realise cyber-resilient treasuries.</em></p>
+<br/>
+<p><a class="button--red-stroke" href="https://view6.workcast.net/?cpak=1455307666028560&amp;pak=9970483878206065&amp;referrer=TTreport" target="_blank">Watch webinar now</a></p>
+
+
+
+
+<img alt="Portrait of Jan De Blauwe, Chief Security Officer, BNP Paribas Fortis" src="https://treasurytoday.com:443/-/media/images/technology/cybersecurity/2019-05-06-tt-02-web__jan-de-blauwe__150x200.jpg?la=en&amp;hash=8DD3BB7B97A163958722E0BD16BE1C98" style="float:left;margin:0 2em 2em 0;"/>
+<h3>Jan De Blauwe</h3>
+<h5>Chief Security Officer</h5>
+<h5>BNP Paribas Fortis</h5>
+
+
+<img alt="Portrait of Jan Dirk van Beusekom, Head of Strategic Marketing, BNP Paribas Cash Management &amp; Trade Solutions" src="https://treasurytoday.com:443/-/media/images/technology/cybersecurity/2019-05-06-tt-02-web__jan-dirk-van-beusekom__150x200.jpg?la=en&amp;hash=018C7A0C1D0147CAAD911BB77AEB1A27" style="float:left;margin:0 2em 2em 0;"/>
+<h3>Jan Dirk van Beusekom</h3>
+<h5>Head of Strategic Marketing</h5>
+<h5>BNP Paribas Cash Management &amp; Trade Solutions</h5>
+
+
+
+<h2 class="h2 copy__heading"></h2>
+<h3 class="sub-heading copy__sub-heading"></h3>
+<p>Cyber-security has raced up agendas in boardrooms globally over the last few years as organisations pursue digital transformation but struggle to cope with security issues generated by new technology and processes.</p>
+<p>A recent World Economic Forum survey of 12,000 executives in 140 countries found that cyber-attacks were the top concern for businesses in Europe, Asia and North America. An Accenture survey of 1,700 CEOs and C-suite executives, meanwhile, reckons cybercrime could cost companies US$5.2trn over the next five years unless significant improvements to internet security are made.</p>
+<p>The cost of being compromised may not be just financial. There is reputational damage to consider; attacks may target intellectual property or customer data; and firms can be fined by regulators for security failures.</p>
+<p>Corporate treasurers as guardians of their companies’ finances, intellectual property and customer financial data are highly exposed to attack by hackers. While learning to cope with the rapidly evolving cyber threat landscape may seem daunting to treasurers, Jan De Blauwe, Chief Security Officer at BNP Paribas Fortis, and Jan Dirk van Beusekom, Head of Strategic Marketing at BNP Paribas Cash Management &amp; Trade Solutions, assure that, based on BNP’s own efforts in developing effective security for both itself and clients, cyber-resilient treasuries can be realised via strategies that are neither costly nor difficult to implement.</p>
+<p>Understanding and appreciating the clever techniques hackers use is a key starting point. There are plenty of examples now of firms falling foul of identity theft, false instructions and spoof emails that fool treasurers into executing financial transfers. “To help minimise such a risk firms should adhere rigidly to dual payment approval processes, beneficiary account controls and always be circumspect with regards to authenticity in communications that aim to trigger transfers. Vigilance is key,” says van Beusekom.</p>
+<p>Direct attacks on firms can come in many flavours but an arguably even more cunning strategy employed by hackers involves infiltrating vendors for major firms being lined up for attack first. The 2013 data breach of US retail giant Target is a classic example of this type of attack. Using credentials stolen from a third-party HVAC vendor, hackers gained access to Target’s computer gateway and customer service database. Malware then captured full names, phone numbers, email addresses, payment card numbers, credit card verification codes, and other sensitive data.</p>
+<p>Along with affecting 41 million customer payment card accounts, the breach affected contact information for more than 60 million Target customers. As well as suffering reputational damage, the breach cost the company US$18.5m in settlements.</p>
+<p>Van Beusekom says a powerful way for organisations to mitigate such intrusions is to segment their computer networks so that each one is visible only to users who have the appropriate access rights and is not visible to unauthorised users. Unlike the ease with which they comprised Target’s easy-to-penetrate “flat networks”, hackers who take on segmented enterprises are confronted with a series of “locked doors” that present increasingly more secure barriers, with the most sensitive data benefiting from the most vigilant defence tools.</p>
+<p>De Blauwe says such strategies require firms to develop “risk-based, zero-trust” approaches to cyber-security, with a range of customised solutions that depend on the level of protection needed for data sets rather than the traditional “castle and moat” solutions that rely solely on perimeter defences like firewalls and are unsupportive of today’s mobile and cloud first world.</p>
+<p>For both De Blauwe and van Beusekom, the overriding imperative for treasurers is to embrace “co-ordinated defence”. Cybercrime has become structured and organised, so the defence needs to be similarly structured, they argue. As such, IT, finance and the technology partners that support treasury must work together closely to identify threats and weaknesses and resolve them collaboratively.</p>
+<p>Van Beusekom is also keen to stress that treasurers need to look beyond payments: “Bank account details, financial and commercial counterparty settlement instructions, employee details and financial data about the company are all valuable assets to hackers. These need to be protected with the same degree of care as payments.”</p>
+<p>And lastly, they point out that good training is crucial in order to ensure treasury staff are equipped to fend off evolving cyber threats.</p>
+<p>Van Beusekom says banks too have an important role to play in helping treasurers to safeguard their operations and assets, with BNP Paribas itself investing heavily in its channels to ensure they remain robust and cyber-security awareness training for corporate clients.</p>
+
+
+<p>If you missed the webinar and would like to hear the full recording:</p>
+<p style="margin-top:1.5em;"><a class="button--red-stroke" href="https://view6.workcast.net/?cpak=1455307666028560&amp;pak=9970483878206065&amp;referrer=TTreport" target="_blank">Watch webinar now</a></p>
+
+
+]]></content>
+		<excerpt><![CDATA[Hackers are making hay from the rapid digitalisation of organisations with treasurers increasingly a focus for attack. In a recent webinar experts from BNP Paribas explained how firms can realise cyber-resilient treasuries.]]></excerpt>
+		<featuredimage><![CDATA[https://treasurytoday.com:443/-/media/images/webinars/3d-render-big-bang-galaxy-abstract-1155071782__1920x1080.jpg]]></featuredimage>
+		<publishdate><![CDATA[2019-05-01]]></publishdate>
+		<category><![CDATA[Cybersecurity]]></category>
+		<issponsored><![CDATA[True]]></issponsored>
+	</node>
+	<node>
+		<title><![CDATA[Question Answered: Payment fraud prevention]]></title>
+		<content><![CDATA[
+
+
+
+
+<h2 class="h2 copy__heading"></h2>
+<h3 class="sub-heading copy__sub-heading"></h3>
+<p><em>“The latest AFP Fraud Payment Survey found that 80% of companies had at least one instance of payment fraud occur in 2017. What can treasury do to stop this?”</em></p>
+<h5 id="bellin">Katja Franz, Treasury Consultant and Anton Wahl, Treasury Consultant/Payments Specialist, BELLIN:</h5>
+<figure class="portrait left" style="float: left; margin: 0.5em 2em 0em 0;">
+<img alt="Portrait of Katja Franz" height="150" src="/i/2018/07/2018-07and08-tt-12-qa__katja-franz__100x150.jpg" title="Portrait of Katja Franz" width="100"/>
+<figcaption>
+<h6>Katja Franz</h6>
+</figcaption>
+</figure>
+<figure class="portrait left" style="float: left; margin: 0.5em 2em 0em 0;">
+<img alt="Portrait of Anton Wahl" height="150" src="/i/2018/07/2018-07and08-tt-12-qa__anton-wahl__100x150.jpg" title="Portrait of Anton Wahl" width="100"/>
+<figcaption>
+<h6>Anton Wahl</h6>
+</figcaption>
+</figure>
+<p>Cybercrime is a huge and universal issue that affects companies around the globe. Treasury can and must play a role in tackling it. Corporate treasuries are best placed in a company to act as “gatekeeper”, and treasury management system providers and consultants have a duty to provide the solutions – both in terms of technology and in terms of processes – to empower them.</p>
+<p>With cybercrime being a multi-layered issue, treasury also needs to approach this subject from several angles. Technology, processes and users are the main vulnerabilities and there are a number of ways in which treasury can make a difference. As for technological solutions, a treasury management system offers multiple opportunities for preventing fraud. This starts with access controls to the system that ensure that only those employees can access and/or process data – including payments – that should. Ways of implementing access control in a TMS are for example SSO, IP restrictions or two-factor authentication. Equally important are secure and viable password conventions and password policies. All of these measures should be joint efforts by the treasury and IT departments.</p>
+<p>These access controls should go hand in hand with sophisticated rules and mechanisms for permissions and roles. By assigning permissions to perform certain operations to specific roles – and in turn assigning specific roles to every user – treasuries can exercise much better control and considerably boost security. You can ensure that users can only perform tasks that they should be able to perform. Ideally, the system settings allow you to administer this centrally. Treasury should clearly advocate segregation of duties, for example, a clear distinction between responsibilities for master data maintenance (and approval when a dual approval process is in place) as well as authorised signatories. In addition, multiple approval levels for payment authorisation can be a useful measure. For example, the person who has entered a payment should not also be allowed to approve it. Also, of relevance in this context is two-factor authentication for the signing of payments, again tackling the issues of access control and password security.</p>
+<p>Treasury should also use process design to promote fraud prevention. Automation can be a powerful security measure that prevents manipulation. Streamlined and automated bulk file processing, eliminating single payments and using templates and SSIs for treasury payments are some of the options. In addition, the technological set-up should be embedded in a process that spells out clear rules and workflows. Everyone needs to be aware of these processes and training is crucial to make sure they’re enforced. Other topics such as supplier account verification and whitelisting, blacklisting and sanction screening should also be on the treasury security agenda.</p>
+<p>Overall, treasury can lend support in tackling all three main vulnerabilities: technology, processes/governance and people. Treasury system providers must make their customers’ security their business and help them with sophisticated tools and process consulting.</p>
+<h5 id="bottomline-technologies">James Richardson, Head of Market Development – Risk &amp; Fraud, Bottomline Technologies:</h5>
+<figure class="portrait right" style="float: right; margin: 0em 0em 0em 2em;">
+<img alt="Portrait of James Richardson" height="150" src="/i/2018/07/2018-07and08-tt-12-qa__james-richardson__100x150.jpg" title="Portrait of James Richardson" width="100"/>
+<figcaption>
+<h6>James Richardson</h6>
+</figcaption>
+</figure>
+<p>Being proactive in identifying fraud by using the right technology to monitor transactions in real-time is the best way to secure payments.</p>
+<p>In line with the findings of the latest AFP Payments Fraud Survey, our recent reports have also found that it can be incredibly difficult for treasurers to recover funds stolen by fraudsters, whether this is internal, for example, when an employee updates a supplier’s account and diverts payments to their own account; or externally, such as a business email compromise scam where the fraudster imitates an email from the CEO to deceive employees into making payments into fraudulent accounts.</p>
+<p>Treasurers can only make and receive secure payments if they have full confidence in a system that identifies and notifies suspicious transactions in flight, as well as monitors the behaviours linked to these transactions.</p>
+<p>With the rise in immediate payments, it’s becoming even more critical for treasurers to block transactions before they hit the payment networks. The pressure is being squeezed to solve the issue upstream.</p>
+<p>Our own recent survey, Treasury Fraud and Controls 2018, commissioned in partnership with Strategic Treasurer, highlights that financial decision-makers feel they are now better equipped to identify cyber fraud within their organisation. If we look at previous years, treasurers and organisations made significant improvements to protect, prevent and respond to fraud, with the report noting that 26% of corporates are planning to spend more or significantly more on treasury security compared to last year. This increase in fraud prevention has largely been driven by advanced technology and the use of automation which has allowed them to continually improve their capabilities over time.</p>
+<p>But while organisations now have better control and are better equipped to respond to payment fraud, the persistence and number of breaches are on the rise. Consequently, the number of corporations impacted and unable to recover from fraud losses has increased significantly in the past year and continues to grow. Having the right technology solutions in place for preventing payment fraud is paramount for organisations to mitigate the risk.</p>
+<p>While the technological component of security is critically important, the human component is equally vital. Providing employees with the right training and awareness is an area all organisations need to address. Some corporations may have the most robust technology infrastructures, but they will still be vulnerable if they don’t get the human component right.</p>
+<p>It’s a strange scenario we face; organisations currently feel more secure because they’ve made an investment, yet they still admit seeing fraud rise in their organisation. This is a classic ‘Perception versus Reality’ wake-up call which shows that investments are not being made in the right area.</p>
+<h5 id="jp-morgan">Sungmahn Seo, Managing Director, Head of EMEA Payments &amp; FX, J.P. Morgan:</h5>
+<figure class="portrait left" style="float: left; margin: 0.5em 2em 0em 0;">
+<img alt="Portrait of Sungmahn Seo" height="150" src="/i/2018/07/2018-07and08-tt-12-qa__sungmahn-seo__100x150.jpg" title="Portrait of Sungmahn Seo" width="100"/>
+<figcaption>
+<h6>Sungmahn Seo</h6>
+</figcaption>
+</figure>
+<p>Fraud prevention should be at the top of any corporate treasurer’s agenda. With growing volumes of online payments, increasing digitisation within the industry and evolution of new payment types, firms are more susceptible than ever to fraud. Concurrently, fraudsters are becoming ever more sophisticated; they are turning to AI to identify vulnerabilities to maximise their success rates and surreptitiously increasing fraud attempts using smaller amounts to avoid detection. Frankly, instances of payment fraud are multiplying at an alarming rate.</p>
+<p>Payment fraud can have devastating consequences for businesses, both in terms of their finances and reputation. In October 2017, US$60m was stolen from an international bank through fraudulent transactions, resulting in lasting financial and reputational damage. The impact is cross-industry; no firm is safe.</p>
+<p>Treasury staff play an important role in protecting the business. As corporate treasuries become targets of fraud attempts, there is an urgent need for the uplift of systems, training, detection and verification. The introduction of real-time payment types creates a need for real-time detection methods and proactive monitoring at the point of payment initiation.</p>
+<p>A strong multi-layered approach to fraud prevention gives the greatest chance of success, using a combination of best practice and external services to mitigate risk. The three key strands we suggest treasury departments consider are:</p>
+<h5>Make fraud-checking a priority</h5>
+<p>The traditional lifecycle of payment involved limit checking and sanction screening. Fraud-checking is now an integral layer of this process. We recommend that treasury departments work with banking partners to ensure effective fraud-checking measures are in place. For example, J.P. Morgan continues to explore various tools to assist customers in fraud deterrence and adding further security to payment flows. Additionally, treasury can consider implementing controls including web-filtering and registrations, daily reconciliation, segregation of duties, payment limits, user entitlements and key authentication.</p>
+<p>Other suggested steps to protect your firm include engaging an experienced company for an independent assessment of vulnerabilities. Making use of industry forums and establishing a clear engagement model with governing authorities can also aid understanding of the latest threats.</p>
+<h5>Invest in education and training</h5>
+<p>Treasury departments need to see fraud as an area of collaboration and work with trusted advisors to adopt best practices. J.P. Morgan regularly partners with clients to deliver fraud webinars as well as awareness and prevention sessions, which provide a useful control environment.</p>
+<p>It is vital that internal staff and external partners (eg vendors) are trained regarding payment fraud and related safeguards. Examples of threats include social engineering, malware and email spoofing. Simulations and drill scenarios help staff recognise common practices used by fraudsters and underline the importance of following key validation procedures.</p>
+<h5>Update treasury practices and bank account management processes</h5>
+<p>In addition to the hygiene factors identified above, treasury could consider greater centralisation and standardisation of processes, compliance, payment platforms and monitoring. Updating outdated practices, such as moving to e-invoicing, presents an opportunity to combat fraudulent instructions by introducing authentication within the workflow.</p>
+<p>Defending against financial fraud requires both financial institutions and their clients to understand the risks. Vigilance is paramount, as the question of a payment fraud attempt on any organisation is simply a matter of time.</p>
+ 
+
+
+<h2 class="h3 copy__heading"> Next question:</h2>
+<p>How do I manage treasury when it looks like rates might rise?</p>
+<p>Please send your comments and responses to <a href="mailto:qa@treasurytoday.com">qa@treasurytoday.com</a></p>
+
+]]></content>
+		<excerpt><![CDATA[“The latest AFP Fraud Payment Survey found that 80% of companies had at least one instance of payment fraud occur in 2017. What can treasury do to stop this?”]]></excerpt>
+		<featuredimage><![CDATA[]]></featuredimage>
+		<publishdate><![CDATA[2018-07-01]]></publishdate>
+		<category><![CDATA[Cybersecurity]]></category>
+		<issponsored><![CDATA[False]]></issponsored>
+	</node>
+</data>

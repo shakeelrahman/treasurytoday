@@ -1,0 +1,1687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<category><![CDATA[Handbooks]]></category>
+		<title><![CDATA[The Treasurer's Guide to Digitisation 2016]]></title>
+		<publish_date><![CDATA[ Published: Sep 2016 ]]></publish_date>
+		<hero_image><![CDATA[]]></hero_image>
+		<complete_body><![CDATA[<div class="gs-grid__col gs-grid__col-1-10 gs-grid__col--expand" style="">
+<div class="v-spacing--bottom highlight-block">
+<div class="copy__body">
+<h3>Sponsors</h3>
+<a href="/handbooks/the-treasurers-guide-to-digitisation-2016/listings#bellin"><img alt="BELLIN" height="50" src="https://treasurytoday.com:443/-/media/logo/bellin-logo-2012-50x50.png?la=en&amp;hash=A38CD00F75F906DAB3183970C1B426D7" style="margin-right:2em;" width="50"/></a>
+<a href="/handbooks/the-treasurers-guide-to-digitisation-2016/listings#bolero"><img alt="Bolero logo" height="23" src="https://treasurytoday.com:443/-/media/logo/bolero-logo-2015-80x23.png?la=en&amp;hash=B98CB7D938F3EF6081B10C292877E134" style="margin-right:2em;" width="80"/></a>
+<a href="/handbooks/the-treasurers-guide-to-digitisation-2016/listings#hsbc"><img alt="HSBC" height="16" src="https://treasurytoday.com:443/-/media/logo/hsbc-logo-2013-90x16.png?la=en&amp;hash=E1C9F8245A5A409B80C70844FA194BDA" style="margin-right:2em;" width="90"/></a>
+<a href="/handbooks/the-treasurers-guide-to-digitisation-2016/listings#jp-morgan"><img alt="J.P. Morgan logo" height="20" src="https://treasurytoday.com:443/-/media/logo/jpmorgan-logo-2012-100x20.svg?la=en&amp;hash=CB5BBE27636B3D6A570FC638277C88A8" style="margin-right:2em;" width="100"/></a>
+<a href="/handbooks/the-treasurers-guide-to-digitisation-2016/listings#reval"><img alt="Reval logo" height="19" src="https://treasurytoday.com:443/-/media/logo/reval-no-tagline-logo-2013-80x19.png?la=en&amp;hash=4FAF4B8F9B6B98AC04E496FCC53889B4" width="80"/></a></div>
+</div>
+<div class="hero hero--article spaceing">
+<div class="hero__heroarticle__img-wrap">
+</div>
+</div><div class="v-spacing--bottom">
+<h2 class="h2 copy__heading"></h2>
+<h3 class="sub-heading copy__sub-heading"></h3>
+<div class="copy__body"><h4>Contents</h4>
+<div style="float:left;text-align:center;width:200px;margin:1em 2em 2em 0;">
+<img alt="The Treasurer’s Guide to Digitisation 2016 cover" height="283" src="https://treasurytoday.com:443/-/media/images/handbooks/the-treasurers-guide-to-digitisation-2016/contents__treasurytoday-digitisation-handbook-cover__400x566.jpg?la=en&amp;hash=0DADEE4D7F1679163A484DDA878BCAFC" style="height:283px;width:200px;" width="200"/><br/>
+<a class="button--red-stroke" href="mailto:subscriberservices@treasurytoday.com?subject=Request%20PDF&amp;body=Please send me a PDF of The Treasurer’s Guide to Digitisation 2016 Best Practice Handbook.">Request PDF</a>
+</div>
+<div id="publication-contents-editorial" style="float:left;width:75%;padding-bottom:1em;">
+<dl>
+<dt>Editorial</dt>
+<dd><a href="#chips-with-everything">Chips with everything</a></dd>
+<dt>Section 1</dt>
+<dd><a href="https://treasurytoday.com/handbooks/the-treasurers-guide-to-digitisation-2016/from-0-to-1-treasury-in-the-digital-age">From 0 to 1: treasury in the digital age</a></dd>
+<dt>HSBC Sponsor Interview</dt>
+<dd><a href="https://treasurytoday.com/handbooks/the-treasurers-guide-to-digitisation-2016/whats-next-the-evolution-of-digitisation">What’s next: the evolution of digitisation</a></dd>
+<dt>Section 2</dt>
+<dd><a href="https://treasurytoday.com/handbooks/the-treasurers-guide-to-digitisation-2016/transaction-banking-change-is-here-to-stay">Transaction banking: change is here to stay</a></dd>
+<dt>HSBC Case Study</dt>
+<dd><a href="https://treasurytoday.com/handbooks/the-treasurers-guide-to-digitisation-2016/liquidity-management-reimagined">Liquidity management reimagined</a></dd>
+<dt>Section 3</dt>
+<dd><a href="https://treasurytoday.com/handbooks/the-treasurers-guide-to-digitisation-2016/trade-moving-into-the-digital-age">Trade: moving into the digital age</a></dd>
+<dt>J.P. Morgan Sponsor Interview</dt>
+<dd><a href="https://treasurytoday.com/handbooks/the-treasurers-guide-to-digitisation-2016/next-generation-in-treasury-and-trade">Next generation in treasury and trade</a></dd>
+<dt>Section 4</dt>
+<dd><a href="https://treasurytoday.com/handbooks/the-treasurers-guide-to-digitisation-2016/setting-treasury-standards-iso-20022">Setting treasury standards: ISO 20022</a></dd>
+<dt>Section 5</dt>
+<dd><a href="https://treasurytoday.com/handbooks/the-treasurers-guide-to-digitisation-2016/making-sense-of-all-the-data">Making sense of all the data</a></dd>
+<dt>Section 6</dt>
+<dd><a href="https://treasurytoday.com/handbooks/the-treasurers-guide-to-digitisation-2016/the-defenders-cyber-security-and-disaster-recovery">The defenders: cyber-security and disaster recovery</a></dd>
+<dt>BELLIN Sponsor Interview</dt>
+<dd><a href="https://treasurytoday.com/handbooks/the-treasurers-guide-to-digitisation-2016/sponsor-interview-martin-bellin-bellin">Treasury as a service</a></dd>
+<dt>Section 7</dt>
+<dd><a href="https://treasurytoday.com/handbooks/the-treasurers-guide-to-digitisation-2016/the-evolving-world-of-the-tms">The evolving world of the TMS</a></dd>
+<dt>Pfizer Case Study</dt>
+<dd><a href="https://treasurytoday.com/handbooks/the-treasurers-guide-to-digitisation-2016/pfizer-enhances-treasury-efficiency-through-treasury-transformation">Pfizer enhances treasury efficiency through treasury transformation</a></dd>
+<dt>Section 8</dt>
+<dd><a href="https://treasurytoday.com/handbooks/the-treasurers-guide-to-digitisation-2016/technology-on-the-edge">Technology: on the edge</a></dd>
+<dt>Listings</dt>
+<dd><a href="https://treasurytoday.com/handbooks/the-treasurers-guide-to-digitisation-2016/listings">Listings</a></dd>
+</dl>
+</div>
+<br/>
+<div class="text" style="clear:both;border-top:1px solid#e0e0e0;padding-top:2em;">
+<h4 id="chips-with-everything">Chips with everything</h4>
+<p>Back in 1965, Intel-founder Gordon Moore wrote about his vision for the likely progress of the humble silicon chip. He believed that it would double in power every two years and cost less each time. He further predicted that chips would be put to work in a multitude of devices – with applications in homes, cars and even “personal portable communications equipment” – and that this growth would be self-propelling. He was right. For some time now technologists have referred to this exponential phenomenon as ‘Moore’s Law’.</p>
+<p>The dimensions of silicon chips have shrunk to almost virus-like size and their use expanded to almost every conceivable walk of life. But a recent article in the much-respected Nature magazine suggested that the viability of Moore’s Law is nearing its end; scientists have pushed the limits of what is feasible and that the real creativity must start now.</p>
+<p>According to a report by McKinsey and Co, up to 40% of the global productivity growth during the last two decades has been put down to the expansion of technologies made possible by chip performance and price. Tiny chips have been squeezed onto minute circuits and we have all benefited from this progress in one way or another. But the heat that is unavoidably generated by cramming so many hyperactive chips onto a tiny circuit means manufacturers have hit a practical and economic wall. And despite extensive research efforts, Nature states that “there is no obvious successor to today’s silicon technology”. McKinsey’s report concludes that reducing the size of transistors even further will – because of the tools needed to fabricate them – make chip design up to 50% more expensive. But this is not a problem.</p>
+<p>Why? Large and powerful computers for individual use are no longer necessary. In today’s on-the-go world we use multiple mobile devices that we carry, wear or that are embedded into just about every device we own. As Nature points out, raw computing power is simply not needed for general use because “most of the processing and data storage is done in the cloud…rather than on the device itself”.</p>
+<p>This is as true for the corporate treasurer as it is for other technology users, even if the pace of change may not seem quite so hectic. But consider how far processing speed has advanced in the past few years, how hyper-speed global connectivity is enabling companies to check positions at a moment’s notice, and how data analysis and presentation tools have enabled rapid response times that just a few years ago would have been impossible. Consider too how cloud storage and processing has taken the strain from internal teams and how it has made vast computing power available to so many more. And think about the security and peace of mind that distributed ledgers can bring: blockchain is definitely not a gimmick anymore and even ‘old school’ treasurers can be part of the story now as it feeds into areas such as trade finance and payments.</p>
+<p>Moore’s Law may have reached its peak but now it is time to see just how far all that speed and power can really go.</p>
+<p>In this Treasury Today Best Practice Handbook, ‘The Treasurer’s Guide to Digitisation’, we look at some of the inventive products of computing science through a treasury lens. We consider how the technologies utilised to deliver so much in the way of time, space and cost efficiencies, in such a short time, have become commonplace to the extent that many justifiably take this progress for granted.</p>
+<p>Indeed, the democratising effect of technology is clear to many. But for the cynic, even the apparent tyranny of ‘being in the office when you are out’ has enabled a different way of working that can blend in with modern lifestyles if it is managed sympathetically.</p>
+<p>In viewing the digital world of treasury under the microscope in this way, it becomes apparent that resisting progress, at least for a large and complex business, is a risk in itself. For the majority though, the need is simply to be aware of what is available and to ask how such offerings might help their organisations to thrive in a complex and volatile world.</p>
+<p>By working through the checklists, interviews and case studies included within this Handbook it will hopefully assist treasurers in understanding what technology can and can’t do, to see and manage the risks, and to place the tools available today in the context of what might be available in the future as the new creative surge rises. We hope, in some small way, to help readers appreciate and prepare for a world that would perhaps surprise even Moore himself.</p>
+</div>
+</div>
+</div>
+<div class="v-spacing--bottom highlight-block">
+<div class="copy__body">
+<h3>Editorial independence</h3>
+<p>Full responsibility for the editorial content of the Handbook rests with Treasury Today.</p>
+</div>
+</div>
+
+</div>]]></complete_body>
+	</node>
+	<node>
+		<category><![CDATA[Handbooks]]></category>
+		<title><![CDATA[Short-Term Investments and Money Market Funds 2016]]></title>
+		<publish_date><![CDATA[ Published: Sep 2016 ]]></publish_date>
+		<hero_image><![CDATA[]]></hero_image>
+		<complete_body><![CDATA[<div class="gs-grid__col gs-grid__col-1-10 gs-grid__col--expand" style="">
+<div class="hero hero--article spaceing">
+<div class="hero__heroarticle__img-wrap">
+</div>
+</div>
+<div class="v-spacing--bottom highlight-block">
+<h2 class="h3 copy__heading">Sponsors</h2>
+<div class="copy__body">
+<a href="/handbooks/short-term-investments-and-money-market-funds-2016/listings#blackrock"><img alt="BlackRock" height="15" src="https://treasurytoday.com:443/-/media/logo/blackrock-logo-2013-100x15.png?la=en&amp;hash=E8071233FF26AEDEE633892A25BA055F" style="margin-right:2em;" width="100"/></a>
+<a href="/handbooks/short-term-investments-and-money-market-funds-2016/listings#bny-mellon"><img alt="BNY Mellon" height="34" src="https://treasurytoday.com:443/-/media/logo/bny-mellon-logo-2016-100x34.png?la=en&amp;hash=C06E3A502E62CFD84382B2292BA00411" style="margin-right:2em;" width="100"/></a>
+<a href="/handbooks/short-term-investments-and-money-market-funds-2016/listings#invesco"><img alt="Invesco" height="50" src="https://treasurytoday.com:443/-/media/logo/invesco-logo-2016-60x50.png?la=en&amp;hash=C6EC07D3D81E5C2DAAB471A0A4BE806C" style="margin-right:2em;" width="60"/></a>
+<a href="/handbooks/short-term-investments-and-money-market-funds-2016/listings#lgim"><img alt="Legal &amp; General Investment Management (LGIM)" src="https://treasurytoday.com:443/-/media/logo/legal-and-general-investment-management-logo-2013-80x53.svg?la=en&amp;hash=9274CE31023C0F222E829AB30A9B27AD" style="margin-right:2em;" width="90"/></a>
+<a href="/handbooks/short-term-investments-and-money-market-funds-2016/listings#morgan-stanley"><img alt="Morgan Stanley Investment Management" height="37" src="https://treasurytoday.com:443/-/media/logo/morgan-stanley-investment-management-logo-2016-125x37.png?la=en&amp;hash=34D2AB0B8AF2DF8285F3BEDC84AE956C" style="margin-right:2em;" width="125"/></a>
+<a href="/handbooks/short-term-investments-and-money-market-funds-2016/listings#ubs"><img alt="UBS" height="27" src="https://treasurytoday.com:443/-/media/logo/ubs-logo-2011-70x27.svg?la=en&amp;hash=1A0F20408FBAFCA2B06D1A2C1B9C7D11" width="70"/></a>
+</div>
+</div>
+<div class="v-spacing--bottom">
+<h2 class="h2 copy__heading"></h2>
+<h3 class="sub-heading copy__sub-heading"></h3>
+<div class="copy__body"><h4>Contents</h4>
+<div style="float:left;text-align:center;width:200px;margin:1em 2em 2em 0;">
+<img alt="Short-Term Investments and Money Market Funds 2016 Best Practice Handbook cover" height="283" src="https://treasurytoday.com:443/-/media/images/handbooks/short-term-investments-and-money-market-funds-2016/contents__treasurytoday-mmf-handbook__cover__400x566.jpg?la=en&amp;hash=18791FEE84B972E8F1E1EFDE59C985AC" style="height:283px;width:200px;" width="200"><br/>
+<a class="button--red-stroke" href="mailto:subscriberservices@treasurytoday.com?subject=Request%20PDF&amp;body=Please send me a PDF of the Short-Term Investments and Money Market Funds 2016 Best Practice Handbook.">Request PDF</a>
+</img></div>
+<div id="publication-contents-editorial" style="float:left;width:75%;padding-bottom:1em;">
+<dl>
+<dt>Editorial</dt>
+<dd><a href="#short-term-investments-and-money-market-funds">Short-term investments and money market funds</a></dd>
+<dt>Section 1</dt>
+<dd><a href="https://treasurytoday.com/handbooks/short-term-investments-and-money-market-funds-2016/market-commentary">Market commentary</a></dd>
+<dt>BlackRock Sponsor Interview</dt>
+<dd><a href="https://treasurytoday.com/handbooks/short-term-investments-and-money-market-funds-2016/liquidity-investing-in-a-new-era">Liquidity investing in a new era</a></dd>
+<dt>Section 2</dt>
+<dd><a href="https://treasurytoday.com/handbooks/short-term-investments-and-money-market-funds-2016/introduction-to-short-term-investment-instruments">Introduction to short-term investment instruments</a></dd>
+<dt>Section 3</dt>
+<dd><a href="https://treasurytoday.com/handbooks/short-term-investments-and-money-market-funds-2016/selecting-a-money-market-fund">Selecting a money market fund</a></dd>
+<dt>Section 4</dt>
+<dd><a href="https://treasurytoday.com/handbooks/short-term-investments-and-money-market-funds-2016/mmfs-under-the-bonnet">MMFs: under the bonnet</a></dd>
+<dt>Section 5</dt>
+<dd><a href="https://treasurytoday.com/handbooks/short-term-investments-and-money-market-funds-2016/the-outlook-for-short-term-investments">The outlook for short-term investments</a></dd>
+<dt>Invesco Sponsor Interview</dt>
+<dd><a href="https://treasurytoday.com/handbooks/short-term-investments-and-money-market-funds-2016/assessing-the-alternatives">Assessing the alternatives</a></dd>
+<dt>Listings</dt>
+<dd><a href="https://treasurytoday.com/handbooks/short-term-investments-and-money-market-funds-2016/listings">Listings</a></dd>
+</dl>
+</div>
+<br/>
+<div class="text" style="clear:both;border-top:1px solid#e0e0e0;padding-top:2em;">
+<h4 id="short-term-investments-and-money-market-funds">Short-term investments and money market funds</h4>
+<p>Amid unprecedented regulatory upheaval and the ongoing drift of yields into negative territory, the short-term investment climate has changed considerably over the past several years.</p>
+<p>This Best Practice Handbook is designed to bring corporate investors fully up-to-date with all of these developments and more. A number of areas will be covered across the handbook’s five sections, including all the latest market trends, introductions to the main short-term investment instruments, considerations for selecting a money market fund (MMF), and an explanation of how MMFs are managed. It should be essential reading for every corporate treasurer.</p>
+<h3 id="a-new-era-for-us-investors">A new era for US investors</h3>
+<p>In the US, the long awaited regulatory shakeup has finally arrived. For companies that rely on MMFs for cash investments the new regulatory environment is likely to necessitate a fresh approach. Some treasuries may need to update treasury systems to take into account the new variable net asset value (VNAV) MMFs; some may also need approval from the board to update investment policies in order to reflect the new rules.</p>
+<p>Over the long term asset managers are convinced that the value proposition of prime MMFs will endure. Still, treasurers will need time to adapt and, as such, a shift from prime to government MMFs – which will continue to maintain a constant share price of $1 – may initially be on the cards.</p>
+<h3 id="eu-reform-nearing-conclusion">EU reform nearing conclusion</h3>
+<p>In Europe, regulatory proposals still being negotiated by European Union (EU) policymakers could have an equally transformative impact once formally approved. Like in the US, it seems that the days of prime constant net asset value (CNAV) MMFs are numbered. Unlike in the US, however, we may yet see an entirely new category of fund established: low volatility (LVNAV) MMFs.</p>
+<p>While we will outline in this handbook some proactive steps treasurers might consider taking ahead of the coming regulation, the real work of preparation will only begin once there is clarity over the final regulation and the timescale of its implementation. Of course, Treasury Today will seek to provide additional updates to readers as and when the new rules are formalised.</p>
+</div></div>
+</div>
+<div class="v-spacing--bottom highlight-block">
+<h2 class="h3 copy__heading">Editorial independence</h2>
+<div class="copy__body"><p>Full responsibility for the editorial content of the Handbook rests with Treasury Today.</p>
+</div>
+</div>
+
+</div>]]></complete_body>
+	</node>
+	<node>
+		<category><![CDATA[Handbooks]]></category>
+		<title><![CDATA[The Treasurer’s Guide to Digitisation 2015]]></title>
+		<publish_date><![CDATA[ Published: Sep 2015 ]]></publish_date>
+		<hero_image><![CDATA[]]></hero_image>
+		<complete_body><![CDATA[<div class="gs-grid__col gs-grid__col-1-10 gs-grid__col--expand" style="">
+<div class="hero hero--article spaceing">
+<div class="hero__heroarticle__img-wrap">
+</div>
+</div>
+<div class="v-spacing--bottom highlight-block">
+<h2 class="h3 copy__heading">Sponsors</h2>
+<div class="copy__body"><a href="/handbooks/the-treasurers-guide-to-digitisation-2015/listings#bloomberg"><img alt="Bloomberg logo" src="https://treasurytoday.com:443/-/media/logo/bloomberg-logo-2013-110x22.png?la=en&amp;hash=04FECE39F05D93BBFAF56AD42EA90479" style="margin-right:2em;" width="110"/></a>
+<a href="/handbooks/the-treasurers-guide-to-digitisation-2015/listings#bnp-paribas"><img alt="BNP Paribas logo" src="https://treasurytoday.com:443/-/media/logo/bnp-paribas-logo-2012-120x26.svg?la=en&amp;hash=A22612B8EEEE1040B62063AF193125C7" style="margin-right:2em;" width="130"/></a>
+<a href="/handbooks/the-treasurers-guide-to-digitisation-2015/listings#bolero"><img alt="Bolero logo" src="https://treasurytoday.com:443/-/media/logo/bolero-logo-2015-80x23.png?la=en&amp;hash=B98CB7D938F3EF6081B10C292877E134" style="margin-right:2em;" width="80"/></a>
+<a href="/handbooks/the-treasurers-guide-to-digitisation-2015/listings#citi"><img alt="Citi logo" src="https://treasurytoday.com:443/-/media/logo/citi-logo-blue-2012-50x29.svg?la=en&amp;hash=4BA4967739E8473BDD8A9468631DE8E0" style="margin-right:2em;" width="50"/></a>
+<a href="/handbooks/the-treasurers-guide-to-digitisation-2015/listings#dbs"><img alt="DBS logo" class="logo org" src="https://treasurytoday.com:443/-/media/logo/dbs-logo-2014-70x21.svg?la=en&amp;hash=375C58B8F29B660690E744162286908B" style="margin-right:2em;" title="DBS" width="70"/></a>
+<a href="/handbooks/the-treasurers-guide-to-digitisation-2015/listings#thomson-reuters"><img alt="Thomson Reuters logo" src="https://treasurytoday.com:443/-/media/logo/thomson-reuters-logo-2015-100x51.png?la=en&amp;hash=7B0B4748D04E26CF3242D13B26718C00" width="100"/></a></div>
+</div>
+<div class="v-spacing--bottom">
+<h2 class="h2 copy__heading"></h2>
+<h3 class="sub-heading copy__sub-heading"></h3>
+<div class="copy__body"><h4>Contents</h4>
+<div style="float:left;text-align:center;width:200px;margin:1em 2em 2em 0;">
+<img alt="The Treasurer’s Guide to Digitisation 2015 Best Practice Handbook cover" height="283" src="https://treasurytoday.com:443/-/media/images/handbooks/the-treasurers-guide-to-digitisation-2015/contents__treasurytoday-digitisation-handbook-cover__400x566.jpg?la=en&amp;hash=EDD455067ED7657A4FE48B46CBC1648D" style="height:283px;width:200px;" width="200"/><br/>
+<a class="button--red-stroke" href="mailto:subscriberservices@treasurytoday.com?subject=Request%20PDF&amp;body=Please send me a PDF of the The Treasurer’s Guide to Digitisation 2015 Best Practice Handbook.">Request PDF</a>
+</div>
+<div id="publication-contents-editorial" style="float:left;width:75%;padding-bottom:1em;">
+<dl>
+<dt>Editorial</dt>
+<dd><a href="#digital-treasury-a new-chapter">Digital treasury: a new chapter</a></dd>
+<dt>Section 1</dt>
+<dd><a href="https://treasurytoday.com/handbooks/the-treasurers-guide-to-digitisation-2015/treasury-in-the-digital-age">Treasury in the digital age</a></dd>
+<dt>Sponsor Interview</dt>
+<dd><a href="https://treasurytoday.com/handbooks/the-treasurers-guide-to-digitisation-2015/sponsor-interview-john-laurens-dbs">John Laurens, DBS</a></dd>
+<dt>Section 2</dt>
+<dd><a href="https://treasurytoday.com/handbooks/the-treasurers-guide-to-digitisation-2015/transaction-banking-day-of-the-portal">Transaction banking: day of the portal</a></dd>
+<dt>Sponsor Interview</dt>
+<dd><a href="https://treasurytoday.com/handbooks/the-treasurers-guide-to-digitisation-2015/sponsor-interview-laura-milani-bnp-paribas">Laura Milani, BNP Paribas</a></dd>
+<dt>Section 3</dt>
+<dd><a href="https://treasurytoday.com/handbooks/the-treasurers-guide-to-digitisation-2015/upwardly-mobile-digital-payments-and-commerce">Upwardly mobile: digital payments and commerce</a></dd>
+<dt>Sponsor Interview</dt>
+<dd><a href="https://treasurytoday.com/handbooks/the-treasurers-guide-to-digitisation-2015/sponsor-interview-terry-beadle-bloomberg">Terry Beadle, Bloomberg</a></dd>
+<dt>Section 4</dt>
+<dd><a href="https://treasurytoday.com/handbooks/the-treasurers-guide-to-digitisation-2015/digitisation-of-trade-documents">Digitisation of trade documents</a></dd>
+<dt>Industry Insight: Citi</dt>
+<dd><a href="https://treasurytoday.com/handbooks/the-treasurers-guide-to-digitisation-2015/connecting-the-worlds-digital-marketplaces">Connecting the world’s digital marketplaces</a></dd>
+<dt>Section 5</dt>
+<dd><a href="https://treasurytoday.com/handbooks/the-treasurers-guide-to-digitisation-2015/iso-20022-the-wider-application">ISO 20022: the wider application</a></dd>
+<dt>Sponsor Interview</dt>
+<dd><a href="https://treasurytoday.com/handbooks/the-treasurers-guide-to-digitisation-2015/sponsor-interview-marie-laurence-faure-and-karine-amas-bnp-paribas">Marie-Laurence Faure and Karine Amas, BNP Paribas</a></dd>
+<dt>Section 6</dt>
+<dd><a href="https://treasurytoday.com/handbooks/the-treasurers-guide-to-digitisation-2015/big-data-and-enhanced-analytics">Big Data and enhanced analytics</a></dd>
+<dt>Industry Insight: Thomson Reuters</dt>
+<dd><a href="https://treasurytoday.com/handbooks/the-treasurers-guide-to-digitisation-2015/we-want-information">We want information</a></dd>
+<dt>Section 7</dt>
+<dd><a href="https://treasurytoday.com/handbooks/the-treasurers-guide-to-digitisation-2015/cryptocurrencies-investing-in-the-future-of-finance">Cryptocurrencies: investing in the future of finance</a></dd>
+<dt>Section 8</dt>
+<dd><a href="https://treasurytoday.com/handbooks/the-treasurers-guide-to-digitisation-2015/the-fintech-revolution">The FinTech revolution</a></dd>
+<dt>Section 9</dt>
+<dd><a href="https://treasurytoday.com/handbooks/the-treasurers-guide-to-digitisation-2015/cybersecurity-be-prepared">Cybersecurity: be prepared</a></dd>
+<dt>Section 10</dt>
+<dd><a href="https://treasurytoday.com/handbooks/the-treasurers-guide-to-digitisation-2015/tms-an-evolving-landscape">TMS: an evolving landscape</a></dd>
+<dt>Section 11</dt>
+<dd><a href="https://treasurytoday.com/handbooks/the-treasurers-guide-to-digitisation-2015/listings">Listings</a></dd>
+</dl>
+</div>
+<br/>
+<div class="text" style="clear:both;border-top:1px solid#e0e0e0;padding-top:2em;">
+<h4 id="digital-treasury-a new-chapter">Digital treasury: a new chapter</h4>
+<p>“Never before in history has innovation offered promise of so much to so many in so short a time.” Whatever you might think of Microsoft’s Co-founder, or the frustrations you might encounter with your Windows operating system on a daily basis, Bill Gates’ statement about technology could not be closer to the truth.</p>
+<p>For individuals and businesses alike, the advent of the digital world has brought with it huge opportunities. In this new Handbook for 2015, ‘The treasurer’s guide to digitisation’, the latest thinking in this space is unveiled and the most useful solutions are examined so that treasurers can successfully navigate towards the digital technologies that they really need and which will make a positive difference to their business.</p>
+<p>Throughout this Handbook, we will refer to the introduction of new digital technologies into the treasury department as the process of ‘digitisation’. Some people may use the word ‘digitalisation’ to describe this process, and often the two are in fact used interchangeably across the industry.</p>
+<p>Whichever name you use, the bottom line is that within this Handbook, the digital world of treasury, from new transaction banking tools and portals to the dematerialisation of trade documentation and the growing popularity of cryptocurrencies, comes under the microscope. We also look at some of the wider issues impacting innovation in this space, not least the rise of FinTech.</p>
+<p>Of course, whilst digitisation presents significant opportunities to streamline, improve, automate and ultimately gain cost and competitive advantages, there are risks that accompany new technologies and innovation too. The useful checklists, interviews and case studies included within this Handbook will hopefully assist treasurers in understanding these risks, and balancing them against the potential – and by no means insignificant rewards – that digitisation offers.</p>
+</div></div>
+</div>
+<div class="v-spacing--bottom highlight-block">
+<h2 class="h3 copy__heading">Editorial independence</h2>
+<div class="copy__body">Full responsibility for the editorial content of the Handbook rests with Treasury Today.</div>
+</div>
+
+</div>]]></complete_body>
+	</node>
+	<node>
+		<category><![CDATA[Handbooks]]></category>
+		<title><![CDATA[European Cash Management 2015]]></title>
+		<publish_date><![CDATA[ Published: Sep 2015 ]]></publish_date>
+		<hero_image><![CDATA[]]></hero_image>
+		<complete_body><![CDATA[<div class="gs-grid__col gs-grid__col-1-10 gs-grid__col--expand" style="">
+<div class="v-spacing--bottom highlight-block">
+<h2 class="h3 copy__heading">Sponsors</h2>
+<div class="copy__body"><a href="/handbooks/european-cash-management-2015/listings#baml"><img alt="Bank of America Merrill Lynch logo" src="https://treasurytoday.com:443/-/media/logo/bank-of-america-merrill-lynch-blue-2014-130x33.png?la=en&amp;hash=4C664A5148D472BF12815FE3E564A6CC" style="margin-right:2em;" width="130"/></a>
+<a href="/handbooks/european-cash-management-2015/listings#bnp-paribas"><img alt="BNP Paribas logo" src="https://treasurytoday.com:443/-/media/logo/bnp-paribas-logo-2012-120x26.svg?la=en&amp;hash=A22612B8EEEE1040B62063AF193125C7" style="margin-right:2em;" width="120"/></a>
+<a href="/handbooks/european-cash-management-2015/listings#commerzbank"><img alt="Commerzbank logo" src="https://treasurytoday.com:443/-/media/logo/commerzbank-logo-2012-120x14.svg?la=en&amp;hash=7E04FF48A751B0579E9C70C247DD3821" width="150"/></a></div>
+</div>
+<div class="hero hero--article spaceing">
+<div class="hero__heroarticle__img-wrap">
+</div>
+</div><div class="v-spacing--bottom">
+<h2 class="h2 copy__heading"></h2>
+<h3 class="sub-heading copy__sub-heading"></h3>
+<div class="copy__body"><h4>Contents</h4>
+<div style="float:left;text-align:center;width:200px;margin:1em 2em 2em 0;">
+<img alt="European Cash Management 2015 Best Practice Handbook cover" height="283" src="https://treasurytoday.com:443/-/media/images/handbooks/european-cash-management-2015/contents__ecm-handbook-2015-cover__400x566.jpg?la=en&amp;hash=7BAABEBC84DFD95108E5FD48674AF97C" style="height:283px;width:200px;" width="200"/><br/>
+<a class="button--red-stroke" href="mailto:subscriberservices@treasurytoday.com?subject=Request%20PDF&amp;body=Please send me a PDF of the European Cash Management 2015 Best Practice Handbook.">Request PDF</a>
+</div>
+<div id="publication-contents-editorial" style="float:left;width:75%;padding-bottom:1em;">
+<dl>
+<dt>Editorial</dt>
+<dd><a href="https://treasurytoday.com/handbooks/european-cash-management-2015">Staying one step ahead</a></dd>
+<dt>Section 1</dt>
+<dd><a href="https://treasurytoday.com/handbooks/european-cash-management-2015/surveying-the-landscape">Surveying the landscape</a></dd>
+<dt>Section 2</dt>
+<dd><a href="https://treasurytoday.com/handbooks/european-cash-management-2015/sepa-the-next-phase">SEPA: the next phase</a></dd>
+<dt>Case Study</dt>
+<dd><a href="https://treasurytoday.com/handbooks/european-cash-management-2015/case-study-marek-chruciel-play">Marek Chruściel, Play</a></dd>
+<dt>Section 3</dt>
+<dd><a href="https://treasurytoday.com/handbooks/european-cash-management-2015/short-term-investing-a-new-era">Short-term investing: a new era</a></dd>
+<dt>Section 4</dt>
+<dd><a href="https://treasurytoday.com/handbooks/european-cash-management-2015/cash-management-innovation">Cash management innovation</a></dd>
+<dt>Sponsor Interview</dt>
+<dd><a href="https://treasurytoday.com/handbooks/european-cash-management-2015/sponsor-interview-guillaume-flies-bnp-paribas">Guillaume Flies, BNP Paribas</a></dd>
+<dt>Section 5</dt>
+<dd><a href="https://treasurytoday.com/handbooks/european-cash-management-2015/ecm-trends-useful-checklists">ECM trends: useful checklists</a></dd>
+<dt>Section 6</dt>
+<dd><a href="https://treasurytoday.com/handbooks/european-cash-management-2015/listings">Listings</a></dd>
+</dl>
+</div>
+<br/>
+<div class="text" style="clear:both;border-top:1px solid#e0e0e0;padding-top:2em;">
+<h4 id="staying-one-step-ahead" style="clear:both;">Staying one step ahead</h4>
+<p>Known for writing the industry ‘Bible’ on European Cash Management (ECM), this year, Treasury Today has updated its signature Handbook to focus less on the static fundamentals of ECM and more on the shifting dynamics of the landscape. It is designed to bring treasurers up-to-speed with the latest developments impacting treasury operations in and across Europe, so that they can be prepared for what lies ahead.</p>
+<p>Although Europe is often viewed as one region, there are distinct nuances between countries and areas of the continent which we explore in Section 1 of this new Handbook. Did you know for instance that Turkey is fast becoming an e-invoicing pioneer? Or that supply chain finance adoption is rapidly growing in Central and Eastern Europe? Alongside these more specific trends, we also look at the political and economic situation across Europe, as well as the evolving regulatory landscape.</p>
+<p>Of course, we cannot talk about Europe without mentioning SEPA – and this is the subject of Section 2 of this Handbook. Here, we examine the centralisation and rationalisation drivers that going beyond basic SEPA compliance can offer corporates, covering the use of ISO 20022 XML and looking at the possibilities presented by on-behalf-of structures, among other key issues.</p>
+<p>Another ever-present element of the ECM landscape today is the tough short-term investment environment, with rates still at rock bottom and regulation such as Basel III and money market fund (MMF) reform only compounding matters. As such, Section 3 compares more traditional investment options with possible alternatives such as separately managed accounts and tri-party repos.</p>
+<p>Section 4 then focuses on cash management innovation, covering everything from mobile payments and analytics to virtual accounts. We also look at the latest developments in working capital management and liquidity position monitoring. And finally, in Section 5 we provide a handful of useful checklists that bring together advice from experienced industry practitioners around some of the key trends raised in this Handbook.</p>
+</div></div>
+</div>
+
+</div>]]></complete_body>
+	</node>
+	<node>
+		<category><![CDATA[Handbooks]]></category>
+		<title><![CDATA[Cash Management in the Nordic and Baltic Regions 2015]]></title>
+		<publish_date><![CDATA[ Published: Aug 2015 ]]></publish_date>
+		<hero_image><![CDATA[]]></hero_image>
+		<complete_body><![CDATA[<div class="gs-grid__col gs-grid__col-1-10 gs-grid__col--expand" style="">
+<div class="hero hero--article spaceing">
+<div class="hero__heroarticle__img-wrap">
+</div>
+</div><div class="v-spacing--bottom">
+<h2 class="h2 copy__heading"></h2>
+<h3 class="sub-heading copy__sub-heading"></h3>
+<div class="copy__body"><!--<h5><a rel="noopener noreferrer" rel="noopener noreferrer" rel="noopener noreferrer" rel="noopener noreferrer" rel="noopener noreferrer" rel="noopener noreferrer" rel="noopener noreferrer" rel="noopener noreferrer" rel="noopener noreferrer" style="color:#cc2029;text-decoration:none;" class="embed-page" target="_blank" href="http://renew.treasurytoday.com/download-the-cash-management-in-the-nordic-and-baltic-regions-handbook-2015">Free PDF</a></h5>
+
+-->
+<p>This Handbook is an updated and expanded version of our 2011 publication of the same name. It is designed to provide corporate treasurers with detailed insight into cash management issues that companies might face when operating in the Nordic and Baltic regions, as well as ideas for overcoming these challenges.</p>
+<br/>
+<!-- <a rel="noopener noreferrer" rel="noopener noreferrer" rel="noopener noreferrer" rel="noopener noreferrer" rel="noopener noreferrer" rel="noopener noreferrer" rel="noopener noreferrer" rel="noopener noreferrer" rel="noopener noreferrer" class="btn embed-page" target="_blank" href="http://renew.treasurytoday.com/download-the-cash-management-in-the-nordic-and-baltic-regions-handbook-2015">Free PDF</a> -->
+<section class="logos boxed">
+<h3>Sponsors</h3>
+<a href="http://www.nordea.com/cashmanagement" rel="noopener noreferrer" target="_blank"><img alt="Nordea logo" class="logo" height="23" src="/i/logo/nordea-logo-2014-105x23.png" title="Nordea logo" width="105"/></a>
+<a href="http://www.seeburger.com/fsi" rel="noopener noreferrer" target="_blank"><img alt="SEEBURGER logo" class="logo" height="35" src="/i/logo/seeburger-logo-2015-100x35.png" title="SEEBURGER logo" width="100"/></a>
+<a href="http://www.swedbank.com" rel="noopener noreferrer" target="_blank"><img alt="Swedbank logo" class="logo" height="30" src="/i/logo/swedbank-logo-2014-140x30.png" style="margin-bottom:0;" title="Swedbank logo" width="140"/></a>
+</section>
+<div id="publication-contents-editorial">
+<dl>
+<dt>Editorial<br/>
+<a href="#introduction">Introduction</a></dt>
+</dl>
+<dl>
+<dt>Section 1<br/>
+<a href="https://treasurytoday.com/handbooks/cash-management-in-the-nordic-and-baltic-regions-2015/exploring-the-nordic-and-baltic-regions">Exploring the Nordic and Baltic regions</a></dt>
+</dl>
+<dl>
+<dt>Case Study<br/>
+<a href="https://treasurytoday.com/handbooks/cash-management-in-the-nordic-and-baltic-regions-2015/case-study-flemming-warhoi-rasmussen-ramboll">Flemming Warhøi-Rasmussen, Ramboll</a></dt>
+</dl>
+<dl>
+<dt>Section 2<br/>
+<a href="/handbooks/pan-regional-cash-management-considerations" style="margin: 0px; padding: 0px; border: 0px;">Pan-regional cash management considerations</a></dt>
+</dl>
+<dl>
+<dt>Section 3<br/>
+<a href="https://treasurytoday.com/handbooks/cash-management-in-the-nordic-and-baltic-regions-2015/regional-business-partners">Regional business partners</a></dt>
+</dl>
+<dl>
+<dt>Sponsor Interview<br/>
+<a href="https://treasurytoday.com/handbooks/cash-management-in-the-nordic-and-baltic-regions-2015/sponsor-interview-julia-persson-swedbank">Julia Persson, Swedbank</a></dt>
+</dl>
+<dl>
+<dt>Section 4<br/>
+<a href="https://treasurytoday.com/handbooks/cash-management-in-the-nordic-and-baltic-regions-2015/country-profiles">Country Profiles</a></dt>
+</dl>
+<dl>
+<dt>Section 5<br/>
+<a href="https://treasurytoday.com/handbooks/cash-management-in-the-nordic-and-baltic-regions-2015">Corporate treasury benchmarking in the Nordics and Baltics</a></dt>
+</dl>
+<dl>
+<dt>Section 6<br/>
+<a href="https://treasurytoday.com/handbooks/cash-management-in-the-nordic-and-baltic-regions-2015/regional-checklist">Regional checklist</a></dt>
+</dl>
+<dl>
+<dt>Sponsors<br/>
+<a href="https://treasurytoday.com/handbooks/cash-management-in-the-nordic-and-baltic-regions-2015/listings">Listings</a></dt>
+</dl>
+</div>
+<h2 id="introduction" style="clear:both;">Introduction</h2>
+<p>This Handbook is an updated and expanded version of our 2011 publication of the same name. It is designed to provide corporate treasurers with detailed insight into cash management issues that companies might face when operating in the Nordic and Baltic regions, as well as ideas for overcoming these challenges.</p>
+<p>We begin by discussing which countries fall under the ‘Nordic’ and ‘Baltic’ labels and then look at the business landscape in the Nordics and Baltics, discovering how the regions came to be seen as one market. We also look at the level of innovation that seemingly runs through the veins of the regions’ economies, whilst touching on trends such as the adoption of e-invoicing and the importance of co-operation between the Nordics and Baltics.</p>
+<p>Cash management in the Nordic-Baltic region is complicated by the fact that there are still different currencies in use. In Section 2, therefore, we examine the impact that this multi-currency environment has on pan-regional cash management structures. And given that euro adoption among the nations seems to have come to a halt for now, we also examine whether cash management in the Nordics and Baltics will ever be harmonised with the rest of Europe. Section 2 also covers the intricacies of cash pooling, not least the Nordics’ own version of cash pooling, known as ‘single legal account pooling’. Naturally, cash management products do vary between providers in the region and we take a close look at distinguishing between the cash management banks in Section 3. This Section is new for the 2015 edition of this Handbook and also looks at technology vendors operating in the Nordic-Baltic region, whilst providing tips on preparing a successful RFP.</p>
+<p>Variation of general business practices affecting treasury among the specific countries in the Nordic-Baltic region is an additional challenge that treasurers face. In Section 4, therefore, we explore each of the countries in the region on an individual basis, providing a macroeconomic picture, details of the banking sector as well as an overview of the payments and clearing landscape, investment instruments and tax considerations. Another new addition for 2015, Section 5 of this Handbook looks at corporate treasury benchmarking in the Nordics and Baltics. Drawing on data from Treasury Today’s own Benchmarking Studies and recent research conducted by Nordea, this Section outlines best practice in benchmarking, whilst highlighting the strategic priorities for forward-thinking treasurers.</p>
+<p>Finally, in Section 6, we provide a brief checklist for those companies considering the expansion of their cash management structures into the Nordic and Baltic countries. This provides treasurers with a starting point for their further research into doing business in the region.</p>
+<style type="text/css">
+    #Handbook section.logos
+    {
+    border: 1px solid #e0e0e0;
+    box-shadow: none;
+    float: right;
+    margin-left: 2em;
+    margin-top: 0;
+    position: relative;
+    top: 0;
+    width: 150px;
+    }
+    #Handbook section.logos h3
+    {
+    margin-bottom:2em;
+    color:#173E6D;
+    }
+    #Handbook #publication-contents-editorial
+    {
+    float: left;
+    width:50%;
+    }
+    #Handbook.cmnb-2015 .btn.embed-page
+    {
+    background: #ca140a none repeat scroll 0 center;
+    border: 0 none;
+    border-radius: 0;
+    box-shadow: none;
+    color: #fff;
+    display: block !important;
+    font-family: Arial&amp;#44;"Helvetica Neue"&amp;#44;Helvetica&amp;#44;sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+    left: 0;
+    line-height: 1.4em;
+    margin-top: 1.4em;
+    position: absolute;
+    text-shadow: none;
+    top: 252px;
+    width: 121px;
+    }
+    #master_2_left_1_addToBasket_linkAdd
+    {
+    display: block;
+    height: 34px;
+    /* margin-top: 4em; */
+    width: 145px;
+    }
+    #Handbook.cmnb-2015 #previousEditionsList
+    {
+    /* top: 340px; */
+    }
+</style></div>
+</div>
+
+</div>]]></complete_body>
+	</node>
+	<node>
+		<category><![CDATA[Handbooks]]></category>
+		<title><![CDATA[European Cash Management 2014]]></title>
+		<publish_date><![CDATA[ Published: Oct 2014 ]]></publish_date>
+		<hero_image><![CDATA[]]></hero_image>
+		<complete_body><![CDATA[<div class="gs-grid__col gs-grid__col-1-10 gs-grid__col--expand" style="">
+<div class="hero hero--article spaceing">
+<div class="hero__heroarticle__img-wrap">
+</div>
+</div><div class="v-spacing--bottom">
+<h2 class="h2 copy__heading"></h2>
+<h3 class="sub-heading copy__sub-heading"></h3>
+<div class="copy__body"><p>This European Cash Management Handbook is designed to provide an update for corporate treasurers on the various ways they can improve the efficiency and effectiveness of their cash management. Most of this guide takes a back-to-basics approach, looking closely at the elements that form the foundation of cash management so that treasurers can optimise their operations by assessing what they are doing – and what they are not doing – in relation to best practice.</p>
+<br/>
+<section class="logos boxed">
+<h3>Sponsors</h3>
+<a href="http://www.bnpparibas-ip.com" rel="noopener noreferrer" target="_blank"><img alt="BNP Paribas logo" class="logo" height="23" src="/i/logo/bnp-paribas-logo-2014-110x23.png" title="BNP Paribas logo" width="110"/></a>
+<a href="http://www.db.com" rel="noopener noreferrer" target="_blank"><img alt="Deutsche Bank logo" class="logo" height="18" src="/i/logo/deutsche-bank-logo-2011-120x18.png" title="Deutsche Bank logo" width="120"/></a>
+<a href="http://www.cashmanagement.societegenerale.com" rel="noopener noreferrer" target="_blank"><img alt="Societe Generale logo" class="logo" height="20" src="/i/logo/societe-generale-logo-2008-103x20.png" title="Societe Generale logo" width="103"/></a>
+<a href="http://www.swedbank.com" rel="noopener noreferrer" target="_blank"><img alt="Swedbank logo" class="logo" height="30" src="/i/logo/swedbank-logo-2014-140x30.png" title="Swedbank logo" width="140"/></a>
+<a href="https://www.unicreditgroup.eu/en.html" rel="noopener noreferrer" target="_blank"><img alt="UniCredit logo" class="logo" height="32" src="/i/logo/unicredit-logo-2013-110x32.png" style="margin-bottom:0;" title="UniCredit logo" width="110"/></a>
+</section>
+<div id="publication-contents-editorial">
+<dl>
+<dt>Section 1: The ECM landscape</dt>
+<dt>Section 2: Payments and clearing: the latest</dt>
+<dt>Section 3: Core cash management</dt>
+<dt>Section 4: Organising treasury</dt>
+<dt>Section 5: Liquidity structures</dt>
+<dt>Section 6: Funding the business</dt>
+<dt>Section 7: Short-term investments</dt>
+<dt>Section 8: Bank relationships</dt>
+<dt>Section 9: Technology partners</dt>
+<dt>Section 10: Tax and legal advisory<br/>
+<br/>
+</dt>
+</dl>
+</div>
+<p><a class="button--red-stroke" href="mailto:awards@treasurytoday.com?subject=European%20Cash%20Management%202014&amp;body=Please%20send%20me%20a%20PDF%20of%20the%20European%20Cash%20Management%202014%20Best%20Practice%20Handbook.">Request PDF</a></p>
+<p> </p>
+<h3 id="preface">Preface</h3>
+<p>This European Cash Management Handbook is designed to provide an update for corporate treasurers on the various ways they can improve the efficiency and effectiveness of their cash management. Most of this guide takes a back-to-basics approach, looking closely at the elements that form the foundation of cash management so that treasurers can optimise their operations by assessing what they are doing – and what they are not doing – in relation to best practice.</p>
+<p>In Europe, the worst of the debt crisis now thankfully appears to be behind us. However, the recovery is not exactly in full swing yet either. As such, 2014 has been another challenging year for the region’s corporate treasurers, many of whom are already under considerable pressure as they try to maintain yield on short-term investments in an ultra-low rate environment.</p>
+<p>In June, the European Central Bank (ECB) announced a raft of measures designed to provide stimulus to the Eurozone economy and encourage banks to lend more to businesses, the most radical of which was a cut in the deposit rate from zero to -0.1%. Negative rates are unknown territory for a major central bank. But whatever the outcome for the Eurozone economy, the implications for the banks and businesses operating in it could be enormous.</p>
+<p>Elsewhere bank failures and credit weaknesses are continuing to cast a shadow over restricted investment lists. And on top of that there are the challenges posed by the ongoing overhaul of financial regulation.</p>
+<p>For example, changes in the regulation of money market funds (MMFs) in Europe rest on a decision due to be made in the term of the new European Parliament in Autumn 2014. What is still unclear is what inspiration regulators in Europe may take from regulators in the US who, in July 2014, unveiled their own reforms for the MMF industry, now widely considered to be the most dramatic shake-up to MMF products since the 1970s.</p>
+<p>The Single Euro Payments Area (SEPA) is also worth noting in this introduction to European Cash Management 2014. Following the extension of the original migration date by six months, on 1<sup>st</sup> August 2014 a political project that began way back at the turn of the millennium was finally put to bed. Now that corporates have got over the strain of complying, the time has come to think about how the changes brought by SEPA can be leveraged, including harmonising payments and collections, rationalising bank accounts and centralising, as far as possible, treasury operations across the region.</p>
+<style type="text/css">
+    #Handbook section.logos
+    {
+    border: 1px solid #e0e0e0;
+    box-shadow: none;
+    float: right;
+    margin-left: 2em;
+    margin-top: 0;
+    position: relative;
+    top: 0;
+    width: 150px;
+    }
+    #Handbook section.logos h3
+    {
+    margin-bottom:2em;
+    color:#173E6D;
+    }
+    #Handbook #publication-contents-editorial
+    {
+    float: left;
+    width:50%;
+    }
+</style></div>
+</div>
+
+</div>]]></complete_body>
+	</node>
+	<node>
+		<category><![CDATA[Handbooks]]></category>
+		<title><![CDATA[Short-Term Investments and Money Market Funds 2014]]></title>
+		<publish_date><![CDATA[ Published: Sep 2014 ]]></publish_date>
+		<hero_image><![CDATA[]]></hero_image>
+		<complete_body><![CDATA[<div class="gs-grid__col gs-grid__col-1-10 gs-grid__col--expand" style="">
+<div class="hero hero--article spaceing">
+<div class="hero__heroarticle__img-wrap">
+</div>
+</div><div class="v-spacing--bottom">
+<h2 class="h2 copy__heading"></h2>
+<h3 class="sub-heading copy__sub-heading"></h3>
+<div class="copy__body"><p>This Best Practice Handbook is designed to bring investors fully up-to-date with short-term investments and money market funds – covering both the market for these products as well as the market environment in which we are operating. It is essential reading for any corporate treasurer.</p>
+<br/>
+<section class="logos boxed">
+<h3>Listings</h3>
+<a href="http://www.baml.com" rel="noopener noreferrer" target="_blank"><img alt="Bank of America Merrill Lynch logo" class="logo" height="33" src="/i/logo/bank-of-america-merrill-lynch-blue-2014-130x33.png" title="Bank of America Merrill Lynch logo" width="130"/></a>
+<a href="http://www.blackrock.com/cash" rel="noopener noreferrer" target="_blank"><img alt="BlackRock logo" class="logo" height="15" src="/i/logo/blackrock-logo-2013-100x15.png" title="BlackRock logo" width="100"/></a>
+<a href="http://www.bnpparibas-ip.com" rel="noopener noreferrer" target="_blank"><img alt="BNP Paribas logo" class="logo" height="23" src="/i/logo/bnp-paribas-logo-2014-110x23.png" title="BNP Paribas logo" width="110"/></a>
+<a href="http://www.fidelityilf.com" rel="noopener noreferrer" target="_blank"><img alt="Fidelity Worldwide Investment logo" class="logo" height="34" src="/i/logo/fidelity-logo-2014-110x34.png" title="Fidelity Worldwide Investment logo" width="110"/></a>
+<a href="http://assetmanagement.gs.com" rel="noopener noreferrer" target="_blank"><img alt="Goldman Sachs Asset Management logo" class="logo" height="49" src="/i/logo/goldman-sachs-am-logo-2013-130x49.png" title="Goldman Sachs Asset Management logo" width="130"/></a>
+<a href="http://www.jpmorgan.com" rel="noopener noreferrer" target="_blank"><img alt="J.P. Morgan Asset Management logo" class="logo" height="31" src="/i/logo/jpmorgan-asset-management-logo-2014-95x31.png" title="J.P. Morgan Asset Management logo" width="95"/></a>
+<a href="http://www.lgim.com" rel="noopener noreferrer" target="_blank"><img alt="Legal &amp; General logo" class="logo" height="53" src="/i/logo/legal-and-general-investment-management-logo-2013-80x53.png" title="Legal &amp; General logo" width="80"/></a>
+<a href="http://www.morganstanley.com/liquidity" rel="noopener noreferrer" target="_blank"><img alt="Morgan Stanley logo" class="logo" height="18" src="/i/logo/morganstanley-logo-2014-125x18.png" style="margin-bottom:0;" title="Morgan Stanley logo" width="125"/></a>
+</section>
+<div id="publication-contents-editorial">
+<dl>
+<dt>Section 1: Market commentary</dt>
+<dt>Section 2: Short-term investment instruments</dt>
+<dt>Section 3: Choosing and using money market funds</dt>
+<dt>Section 4: What’s the outlook for MMFs? Will they survive?</dt>
+</dl>
+<p>
+</p>
+<dt><br/>
+</dt>
+<a class="button--red-stroke" href="mailto: subscriberservices@treasurytoday.com?subject=Request%20PDF&amp;body=Please send me a PDF of the Short-Term Investments and Money Market Funds 2014 Best Practice Handbook">Request PDF</a></div>
+<p id="publication-contents-editorial"> </p>
+<h2 id="introduction">Introduction</h2>
+<p>This Best Practice Handbook is designed to bring investors fully up-to-date with short-term investments and money market funds – covering both the market for these products as well as the market environment in which we are operating. It is essential reading for any corporate treasurer.</p>
+<h3 id="shake-up-in-the-us">Shake-up in the US</h3>
+<p>Treasurers are already under huge pressure as they try to maintain liquidity and search for yield on their short-term investments amid market conditions that continue to be challenging. On top of this, the industry has a tidal wave of regulation to contend with.</p>
+<p>The regulation of money funds in the US has undergone significant change since the last edition of this Handbook was published in 2012. In July 2014 the Securities and Exchange Commission unveiled reforms which are widely seen as the most dramatic shake-up to money fund products since the 1970s.</p>
+<p>Some of the key features of the new reforms include the requirement of a floating (or variable) net asset value (VNAV) for institutional prime money market funds, and the introduction of liquidity fees and redemption gates</p>
+<p>Although the measures are designed to protect investors, it will take time for funds and investors alike to adapt. Fortunately, the SEC has put in place a two-year implementation period to ease the transition.</p>
+<h3 id="europe-to-follow-suit">Europe to follow suit?</h3>
+<p>The big question for money fund investors in Europe is what course the European Commission will take with its own regulation. A European Parliamentary vote on money fund reform was cancelled in March 2014 owing to disagreements between some members of the European Parliament and the elections in May caused further delays in decision-making.</p>
+<p>At the time of going to press (August 2014), a decision is expected during the term of the new European Parliament in Autumn 2014. What remains to be seen is how much inspiration regulators in Europe may take from reform in the US. Despite these uncertainties, it is clear that investors will continue to face significant pressure as they pursue short-term yield over the coming months to years.</p>
+<style type="text/css">
+    #Handbook section.logos
+    {
+    border: 1px solid #e0e0e0;
+    box-shadow: none;
+    float: right;
+    margin-left: 2em;
+    margin-top: 0;
+    position: relative;
+    top: 0;
+    width: 150px;
+    }
+    #Handbook section.logos h3
+    {
+    margin-bottom:2em;
+    color:#173E6D;
+    }
+    #Handbook #publication-contents-editorial
+    {
+    float: left;
+    width:50%;
+    }
+</style></div>
+</div>
+
+</div>]]></complete_body>
+	</node>
+	<node>
+		<category><![CDATA[Handbooks]]></category>
+		<title><![CDATA[European Cash Management]]></title>
+		<publish_date><![CDATA[ Published: Sep 2013 ]]></publish_date>
+		<hero_image><![CDATA[]]></hero_image>
+		<complete_body><![CDATA[<div class="gs-grid__col gs-grid__col-1-10 gs-grid__col--expand" style="">
+<div class="hero hero--article spaceing">
+<div class="hero__heroarticle__img-wrap">
+</div>
+</div><div class="v-spacing--bottom">
+<h2 class="h2 copy__heading"></h2>
+<h3 class="sub-heading copy__sub-heading"></h3>
+<div class="copy__body"><p>2013 has proven to be yet another tough year, despite muted optimism and hopeful predictions in January.  Forecasts from the European Commission (EC) in early May showed annual Eurozone GDP shrinking by 0.4% in 2013, following a contraction of 0.6% in 2012.  Interest rates remain at rock bottom, with Mario Draghi, Head of the European Central Bank (ECB), refusing to rule out negative rates.  Government debt levels remain worryingly high in many countries, and sovereign and bank downgrades continue apace.</p>
+<br/>
+<section class="logos boxed">
+<h3>Listings</h3>
+<a href="http://www.baml.com" rel="noopener noreferrer" target="_blank"><img alt="Bank of America Merrill Lynch logo" class="logo" height="34" src="/i/logo/bank-of-america-merrill-lynch-logo-130x34.png" title="Bank of America Merrill Lynch logo" width="130"/></a>
+<a href="http://www.bnpparibas.com" rel="noopener noreferrer" target="_blank"><img alt="BNP Paribas logo" class="logo" height="26" src="/i/logo/bnp-paribas-logo-2012-120x26.png" title="BNP Paribas logo" width="120"/></a>
+<a href="http://www.transactionservices.citi.com" rel="noopener noreferrer" target="_blank"><img alt="Citi logo" class="logo" height="29" src="/i/logo/citi-logo-blue-2012-50x29.png" title="Citi logo" width="50"/></a>
+<a href="http://www.commerzbank.com/corporatebanking" rel="noopener noreferrer" target="_blank"><img alt="Commerzbank logo" class="logo" height="17" src="/i/logo/commerzbank-logo-2013-130x17.png" title="Commerzbank logo" width="130"/></a>
+<a href="http://www.ingcb.com" rel="noopener noreferrer" target="_blank"><img alt="ING logo" class="logo" height="22" src="/i/logo/ing-logo-2012-90x22.png" title="ING logo" width="90"/></a>
+<a href="http://www.lgim.com" rel="noopener noreferrer" target="_blank"><img alt="Legal &amp; General logo" class="logo" height="53" src="/i/logo/legal-and-general-investment-management-logo-2013-80x53.png" title="Legal &amp; General logo" width="80"/></a>
+<a href="http://gtb.societegenerale.com" rel="noopener noreferrer" target="_blank"><img alt="Societe Generale logo" class="logo" height="26" src="/i/logo/societe-generale-logo-2013-140x26.png" title="Societe Generale logo" width="140"/></a>
+<a href="http://www.unicreditgroup.eu/en.html" rel="noopener noreferrer" target="_blank"><img alt="UniCredit logo" class="logo" height="32" src="/i/logo/unicredit-logo-2013-110x32.png" style="margin-bottom:0;" title="UniCredit logo" width="110"/></a>
+</section>
+<div id="publication-contents-editorial">
+<dl>
+<dt>Section 1: A challenging environment</dt>
+<dt>Section 2: Back to basics</dt>
+<dt>Section 3: European clearing and payments</dt>
+<dt>Section 4: Banking</dt>
+<dt>Section 5: Organising treasury</dt>
+<dt>Section 6: Liquidity management</dt>
+<dt>Section 7: Short-term investments</dt>
+<dt>Section 8: Funding the business</dt>
+<dt>Section 9: Cash management technology</dt>
+<dt>Section 10: Tax and legal</dt>
+</dl>
+<p>
+</p>
+<dt><br/>
+<a class="button--red-stroke" href="mailto: subscriberservices@treasurytoday.com?subject=Request%20PDF&amp;body=Please send me a PDF of the European Cash Management Best Practice Handbook">Request PDF</a></dt>
+</div>
+<p> </p>
+<h2 id="introduction">Introduction</h2>
+<p>2013 has proven to be yet another tough year, despite muted optimism and hopeful predictions in January. Forecasts from the European Commission (EC) in early May showed annual Eurozone GDP shrinking by 0.4% in 2013, following a contraction of 0.6% in 2012. Interest rates remain at rock bottom, with Mario Draghi, Head of the European Central Bank (ECB), refusing to rule out negative rates. Government debt levels remain worryingly high in many countries, and sovereign and bank downgrades continue apace.</p>
+<p>As a result, European corporate treasurers have their eyes firmly focused on improving the efficiency and effectiveness of their cash management technique. Part of this process is to go back to basics – this Handbook revisits the building blocks of cash management so that treasurers can effectively review the tools in their arsenal to see if there is anything missing.</p>
+<p>In addition, for those treasurers that have done much already to improve their techniques, this Handbook looks at new developments and identifies up and coming treasury trends.</p>
+<p>At this point in the year, no introduction on cash management in Europe would be complete without mentioning the Single Euro Payments Area (SEPA). With the deadline of 1st February 2014 quickly approaching, many corporates have just started their SEPA projects. At the initial planning stages, they are beginning to grasp the complexity of such a change programme and just how far it reaches into their organisation and supply chain. This may seem like an overwhelming task, but the good news is that there are now a considerable number of treasurers coming to the end of phase one of their SEPA projects who can provide experience, advice and support to their peers.</p>
+<p>It is important to remember that the end game is not solely SEPA-compliance, but reaping the benefits that SEPA can offer corporates, including harmonising payments, rationalising bank accounts and centralising treasury and cash management operations, whether that is through payment factories or shared service centres (SSCs). This a huge step towards truly transforming treasury across the region.</p>
+<style type="text/css">
+    #Handbook section.logos
+    {
+    border: 1px solid #e0e0e0;
+    box-shadow: none;
+    float: right;
+    margin-left: 2em;
+    margin-top: 0;
+    position: relative;
+    top: 0;
+    width: 150px;
+    }
+    #Handbook section.logos h3
+    {
+    margin-bottom:2em;
+    color:#173E6D;
+    }
+    #Handbook #publication-contents-editorial
+    {
+    float: left;
+    width:50%;
+    }
+</style></div>
+</div>
+
+</div>]]></complete_body>
+	</node>
+	<node>
+		<category><![CDATA[Handbooks]]></category>
+		<title><![CDATA[Corporate Treasury in the Middle East 2013]]></title>
+		<publish_date><![CDATA[ Published: Mar 2013 ]]></publish_date>
+		<hero_image><![CDATA[]]></hero_image>
+		<complete_body><![CDATA[<div class="gs-grid__col gs-grid__col-1-10 gs-grid__col--expand" style="">
+<div class="hero hero--article spaceing">
+<div class="hero__heroarticle__img-wrap">
+</div>
+</div><div class="v-spacing--bottom">
+<h2 class="h2 copy__heading"></h2>
+<h3 class="sub-heading copy__sub-heading"></h3>
+<div class="copy__body"><p>The Middle East is a complex and increasingly innovative region.  Although some countries exhibit similarities and a level of co-ordination, particularly those that make up the Gulf Co-operation Council (GCC), it would be a mistake to treat the region as one country.  Each one has specific characteristics and challenges associated with different economic and regulatory environments.</p>
+<br/>
+<section class="logos boxed">
+<h3>Listings</h3>
+<a href="http://adcb.com/" rel="noopener noreferrer" target="_blank"><img alt="ADCB logo" class="logo" height="26" src="/i/logo/adcb-logo-2013-90x26.png" title="ADCB logo" width="90"/></a>
+<a href="http://www.nbad.com/en/Pages/nbad-global.aspx" rel="noopener noreferrer" target="_blank"><img alt="NBAD logo" class="logo" height="36" src="/i/logo/nbad-logo-2013-90x36.png" title="NBAD logo" width="90"/></a>
+<a href="http://openlink.com/" rel="noopener noreferrer" target="_blank"><img alt="OpenLink logo" class="logo" height="23" src="/i/logo/openlink-logo-2013-90x23.png" style="margin-bottom:0;" title="OpenLink logo" width="90"/></a>
+</section>
+<div id="publication-contents-editorial">
+<dl>
+<dt>Section 1: The region</dt>
+<dt>Section 2: Cash management</dt>
+<dt>Section 3: Trade and supply chain</dt>
+<dt>Section 4: Technology</dt>
+<dt>Section 5: Banking providers</dt>
+<dt>Section 6: Country overviews</dt>
+<dt>Section 7: The Islamic financial system</dt>
+<dt>Section 8: Useful contacts</dt>
+</dl>
+</div>
+<br/>
+<a class="button--red-stroke" href="mailto: subscriberservices@treasurytoday.com?subject=Request%20PDF&amp;body=Please send me a PDF of the Corporate Treasury in the Middle East 2013 Best Practice Handbook">Request PDF</a><br/>
+<br/>
+<h3 id="introduction">Introduction</h3>
+<p>The Middle East is a complex and increasingly innovative region.  Although some countries exhibit similarities and a level of co-ordination, particularly those that make up the Gulf Co-operation Council (GCC), it would be a mistake to treat the region as one country.  Each one has specific characteristics and challenges associated with different economic and regulatory environments.</p>
+<p>In this Handbook, we focus on the six countries in the GCC trade bloc: Kuwait, Bahrain, Qatar, United Arab Emirates (UAE), Oman and Saudi Arabia, as well as Jordan, Morocco, Yemen and Egypt whose membership of the GCC is planned, but not yet confirmed.</p>
+<p>The region as a whole weathered the 2007/8 financial crisis well.  However, its economic and political stability was threatened by popular uprisings, starting in Tunisia in December 2010 and spreading to Egypt, Libya and Yemen.  Demonstrations also took place in Algeria, Bahrain, Jordan, Kuwait, Morocco and Sudan.  By the end of what was collectively known as the ‘Arab Spring’, four rulers were ousted from power, while other leaders were forced to concede political and social reforms in order to quell the protests.</p>
+<p>These upheavals have brought with them challenges for companies operating in the region.  Supply chain disruptions due to the turmoil have ‘forced the hand’ of many corporates in the region, encouraging them to look at solutions such as supply chain financing.  Treasurers, in particular those working in the markets where uprisings took place, are still having to deal with nervousness, tightened credit and an increased cost of borrowing.</p>
+<p>According to Treasury Today’s Middle East Benchmarking Study 2012, the top three regional treasury priorities are:</p>
+<ul>
+<li>
+<p>Securing long-term funding.</p>
+</li>
+<li>
+<p>Cash pooling.</p>
+</li>
+<li>
+<p>Maintaining strong bank relationships.</p>
+</li>
+</ul>
+<p>The Middle East treasury world still requires innovation, and governments and banks are stepping up to the plate to deliver what is needed.  Direct debits and IBANs are being introduced in many markets and central banks are building up their capacity as to the volumes they can process.  Mobile payment (m-payment) services have become increasingly viable in the Egyptian market, for example, due to a soaring mobile penetration rate, which exceeded 90% at the beginning of 2012.</p>
+<p>Domestic corporates are looking to expand their business beyond regional borders, and some of the regional banks are following them, expanding their footprint and product offering at the same time.  Many multinational companies, on the other hand, are setting up regional treasury centres in order to take advantage of the Middle East’s strategic geographical position between the Asian subcontinent and Africa.</p>
+<p>The rise of the Asia-MENA trade corridor is the big story.  China has now overtaken the US as the biggest global trading partner with the Middle East, with India in third place.  The UAE, in particular, accounts for over £20 billion of the re-export market – the third largest after Singapore and Hong Kong.</p>
+<p>These new developments, and the promise of much more in the pipeline – make the Middle East an interesting region to do business in.</p>
+<style type="text/css">
+    #Handbook section.logos
+    {
+    border: 1px solid #e0e0e0;
+    box-shadow: none;
+    float: right;
+    margin-left: 2em;
+    margin-top: 0;
+    position: relative;
+    top: 0;
+    width: 150px;
+    }
+    #Handbook section.logos h3
+    {
+    margin-bottom:2em;
+    color:#173E6D;
+    }
+    #Handbook #publication-contents-editorial
+    {
+    float: left;
+    width:50%;
+    }
+</style></div>
+</div>
+
+</div>]]></complete_body>
+	</node>
+	<node>
+		<category><![CDATA[Handbooks]]></category>
+		<title><![CDATA[Corporate and Institutional Money Market Funds in Europe 2012]]></title>
+		<publish_date><![CDATA[ Published: Sep 2012 ]]></publish_date>
+		<hero_image><![CDATA[]]></hero_image>
+		<complete_body><![CDATA[<div class="gs-grid__col gs-grid__col-1-10 gs-grid__col--expand" style="">
+<div class="hero hero--article spaceing">
+<div class="hero__heroarticle__img-wrap">
+</div>
+</div><div class="v-spacing--bottom">
+<h2 class="h2 copy__heading"></h2>
+<h3 class="sub-heading copy__sub-heading"></h3>
+<div class="copy__body"><p>This Best Practice Handbook is designed to bring investors fully up-to-date with money market funds – both in terms of the market for the product and the market environment in which the product is operating. It is essential reading for anyone investing in these funds, which are facing many challenges.</p>
+<p>This Handbook also provides a useful brief on the practicalities of using money funds and highlights the efficiencies that they should continue to offer in the daily management of corporate liquidity.</p>
+<br/>
+<a class="button--red-stroke" href="mailto: subscriberservices@treasurytoday.com?subject=Request%20PDF&amp;body=Please send me a PDF of the Corporate and Institutional Money Market Funds in Europe 2012 Best Practice Handbook">Request PDF</a>
+<p style="margin-top:1em;"> </p>
+<h3 id="introduction">Introduction</h3>
+<p>This Best Practice Handbook is designed to bring investors fully up-to-date with money market funds – both in terms of the market for the product and the market environment in which the product is operating. It is essential reading for anyone investing in these funds, which are facing many challenges.</p>
+<p>This Handbook also provides a useful brief on the practicalities of using money funds and highlights the efficiencies that they should continue to offer in the daily management of corporate liquidity.</p>
+<h4 id="cracks-have-appeared">Cracks have appeared</h4>
+<p>It is five years since the cracks started to appear in the banking and financial markets and, despite some earlier signs of improvement, market conditions have deteriorated further since the last edition of this Handbook was published in 2010.</p>
+<p>Treasurers are facing enormous challenges. The maintenance of liquidity and investment of treasury surpluses in a secure yet profitable manner has become a major occupation for many.</p>
+<p>Bank failures and credit weakness have restricted investment lists. Regulatory pressures and deleveraging have reduced banks’ appetite for short-term cash and record levels of market liquidity have reduced the rates paid to (and through) par.</p>
+<h4 id="challenging-times">Challenging times</h4>
+<p>For money market funds, the challenge is the same except that they have the advantages of a permanent presence in the short-term cash markets, specialist credit and market resources, as well as economies of scale. Recognising these advantages, and encouraged by tighter operating parameters introduced in 2010 by regulators and others to reinforce the integrity of the money funds, many treasurers have increased their positions with the funds.</p>
+<p>Uncertainties remain, however, and the outlook for constant NAV money market funds is mixed. Much will depend upon the direction taken by the regulators both in the US and globally and upon fund providers and, crucially, investors’ responses to changes in regulation and to persistent market weakness.</p>
+<p>Whatever the outcome, pooled short-term cash management will likely continue to feature in the money markets.</p>
+<div class="thanks">
+<h4>Content advisor</h4>
+<p>We should like to record our thanks to Alan McRae of Cross-Markets Limited for his assistance in compiling the Handbook and in providing commentary throughout.</p>
+<h4>Editorial independence</h4>
+<p>Full responsibility for the editorial content of the Handbook rests with Treasury Today.</p>
+</div></div>
+</div>
+
+</div>]]></complete_body>
+	</node>
+	<node>
+		<category><![CDATA[Handbooks]]></category>
+		<title><![CDATA[European Cash Management 2012]]></title>
+		<publish_date><![CDATA[ Published: Aug 2012 ]]></publish_date>
+		<hero_image><![CDATA[]]></hero_image>
+		<complete_body><![CDATA[<div class="gs-grid__col gs-grid__col-1-10 gs-grid__col--expand" style="">
+<div class="hero hero--article spaceing">
+<div class="hero__heroarticle__img-wrap">
+</div>
+</div><div class="v-spacing--bottom">
+<h2 class="h2 copy__heading"></h2>
+<h3 class="sub-heading copy__sub-heading"></h3>
+<div class="copy__body"><p>“The risks surrounding the economic outlook for the euro area continue to be on the downside,” says the August 2012 bulletin from The European Central Bank (ECB). “They relate, in particular, to the tensions in several euro area financial markets and their potential spill-over to the euro area real economy. Downside risks also relate to possible renewed increases in energy prices over the medium term.” As if this weren’t enough to contend with, the ECB has also cut its 2013 growth forecast for the single currency area from 1% to 0.6%.</p>
+<br/>
+<div class="sub-title-cnt" style="position:absolute; top:0; right:0;">
+<h2>Lead sponsor</h2>
+<img alt="Citi" height="26" src="/i/logo/citi-logo-blue-2013-40x26.png" width="40"/>
+</div>
+<section class="logos boxed">
+<h3>Listings</h3>
+<a href="http://www.bnpparibas.co.uk" rel="noopener noreferrer" target="_blank"><img alt="BNP Paribas logo" class="logo" height="29" src="/i/logo/bnp-paribas-logo-2015-140x29.png" title="BNP Paribas logo" width="140"/></a>
+<a href="http://www.baml.com" rel="noopener noreferrer" target="_blank"><img alt="Bank of America Merrill Lynch logo" class="logo" height="33" src="/i/logo/bank-of-america-merrill-lynch-blue-2014-130x33.png" title="Bank of America Merrill Lynch logo" width="130"/></a>
+<a href="http://www.transactionservices.citi.com" rel="noopener noreferrer" target="_blank"><img alt="200 Years Citi logo" class="logo" height="16" src="/i/logo/citi-200-years-logo-2012-100x16.png" title="200 Years Citi logo" width="100"/></a>
+<a href="http://www.db.com/gtb" rel="noopener noreferrer" target="_blank"><img alt="Deutsche Bank logo" class="logo" src="/i/logo/deutsche-bank-logo-2012-130x20.png" title="Deutsche Bank logo"/></a>
+<a href="http://www.ingpcm.com" rel="noopener noreferrer" target="_blank"><img alt="ING logo" class="logo" height="22" src="/i/logo/ing-logo-2012-90x22.png" title="ING logo" width="90"/></a>
+<a href="http://www.lgim.com" rel="noopener noreferrer" target="_blank"><img alt="Legal &amp; General Investment Management logo" class="logo" height="53" src="/i/logo/legal-and-general-investment-management-logo-2013-80x53.png" title="Legal &amp; General Investment Management logo" width="80"/></a>
+<a href="http://www.lloydsbankcorporatemarkets.com" rel="noopener noreferrer" target="_blank"><img alt="Lloyds Bank logo" class="logo" height="28" src="/i/logo/lloyds-bank-logo-2013-120x28.png" title="Lloyds Bank logo" width="120"/></a>
+<a href="http://www.nordea.com/en" rel="noopener noreferrer" target="_blank"><img alt="Nordea logo" class="logo" height="23" src="/i/logo/nordea-logo-2014-105x23.png" title="Nordea logo" width="105"/></a>
+<a href="http://rbs.com/mib" rel="noopener noreferrer" target="_blank"><img alt="RBS logo" class="logo" height="19" src="/i/logo/rbs-logo-2012-70x19.png" title="RBS logo" width="70"/></a>
+<a href="http://sebgroup.com/merchantbanking" rel="noopener noreferrer" target="_blank"><img alt="SEB logo" class="logo" height="25" src="/i/logo/seb-logo-2009-55x25.png" title="SEB logo" width="55"/></a>
+<a href="http://www.swedbank.com" rel="noopener noreferrer" target="_blank"><img alt="Swedbank logo" class="logo" height="30" src="/i/logo/swedbank-logo-2014-140x30.png" title="Swedbank logo" width="140"/></a>
+<a href="http://www.unicreditgroup.eu" rel="noopener noreferrer" target="_blank"><img alt="UniCredit logo" class="logo" height="32" src="/i/logo/unicredit-logo-2013-110x32.png" style="margin-bottom:0;" title="UniCredit logo" width="110"/></a>
+</section>
+<div id="publication-contents-editorial">
+<dl>
+<dt>Section 1: Drivers of change and development</dt>
+<dt>Section 2: Back to basics</dt>
+<dt>Section 3: European clearing and payments</dt>
+<dt>Section 4: Banking</dt>
+<dt>Section 5: Organising treasury</dt>
+<dt>Section 6: Liquidity structures</dt>
+<dt>Section 7: Liquidity management: short-term investing</dt>
+<dt>Section 8: Funding the business</dt>
+<dt>Section 9: The technology to assist cash management</dt>
+<dt>Section 10: Tax and legal</dt>
+</dl>
+</div>
+<p> </p>
+<a class="button--red-stroke" href="mailto: subscriberservices@treasurytoday.com?subject=Request%20PDF&amp;body=Please send me a PDF of the European Cash Management 2012 Best Practice Handbook">Request PDF</a>
+<h3> </h3>
+<h3>Preface</h3>
+<p>“The risks surrounding the economic outlook for the euro area continue to be on the downside,” says the August 2012 bulletin from The European Central Bank (ECB). “They relate, in particular, to the tensions in several euro area financial markets and their potential spill-over to the euro area real economy. Downside risks also relate to possible renewed increases in energy prices over the medium term.” As if this weren’t enough to contend with, the ECB has also cut its 2013 growth forecast for the single currency area from 1% to 0.6%.</p>
+<p>Compounding matters for the treasurer are the bank and sovereign downgrades that have dogged the Eurozone recently. Cash is no longer deemed ‘safe’ in certain jurisdictions. And the pool of banks that companies can work with, while complying with all their internal policies and thresholds, is dwindling. Treasurers must therefore leverage internal efficiencies, together with opportunities such as SEPA, to make sure their company is able to react as quickly as possible to whatever happens next.</p>
+<p>In this comprehensive Handbook, we outline all the latest developments in European cash management and provide practical advice for setting up cash management structures in the region. We also speak to treasurers operating in a variety of European locations, looking at how they are positioning themselves for growth in this challenging environment.</p>
+<p>In Section One, we look at the drivers of change and development in cash management today, such as visibility, connectivity, regulation and technology. Working capital management is covered in depth in Section Two, together with a checklist for releasing trapped working capital, useful for those looking to improve internal efficiencies or self-fund.</p>
+<p>Section Three provides a comprehensive overview of the latest developments in the payments and clearing landscape, including a complete SEPA update now that the migration deadline is in place. The number of banking relationships that corporates are actively maintaining against this backdrop is examined in Section Four. Here we also look at reviewing bank relationships on a regular basis, including the use of scorecards.</p>
+<p>The basics of treasury organisation, looking at the pros and cons of centralisation, shared service centres, payment factories and outsourcing are examined in Section Five. Then the various options for setting up a liquidity structure are presented in Section Six, which discusses the ways pooling and netting can help companies to improve cash visibility – a major treasury priority since the financial crisis. Having achieved visibility of the company’s cash, Section Seven looks at the options for investing any surplus. For treasurers looking to access additional funding, Section Eight outlines the options – from overdrafts to bank loans and bonds.</p>
+<p>Section Nine then covers the new and growing technologies available to today’s treasurer – whether that be a TMS, ERP, FX portal or MMF portal. We also look at the process for securing IT investment, as well as issuing an RFP. Finally, tax and regulatory considerations are summarised in Section Ten.</p>
+<p>We hope that you will find this Handbook interesting and informative. As always, we welcome any comments or suggestions to <a href="mailto:editorial@treasurytoday.com">editorial@treasurytoday.com</a></p>
+<style type="text/css">
+    #Handbook section.logos
+    {
+    border: 1px solid #e0e0e0;
+    box-shadow: none;
+    float: right;
+    margin-left: 2em;
+    margin-top: 0;
+    position: relative;
+    top: 0;
+    width: 150px;
+    }
+    #Handbook section.logos h3
+    {
+    margin-bottom:2em;
+    color:#173E6D;
+    }
+    #Handbook #publication-contents-editorial
+    {
+    float: left;
+    width:50%;
+    }
+</style></div>
+</div>
+
+</div>]]></complete_body>
+	</node>
+	<node>
+		<category><![CDATA[Handbooks]]></category>
+		<title><![CDATA[Managing Risk in Treasury Best Practice Handbook]]></title>
+		<publish_date><![CDATA[ Published: Mar 2012 ]]></publish_date>
+		<hero_image><![CDATA[]]></hero_image>
+		<complete_body><![CDATA[<div class="gs-grid__col gs-grid__col-1-10 gs-grid__col--expand" style="">
+<div class="hero hero--article spaceing">
+<div class="hero__heroarticle__img-wrap">
+</div>
+</div><div class="v-spacing--bottom">
+<h2 class="h2 copy__heading"></h2>
+<h3 class="sub-heading copy__sub-heading"></h3>
+<div class="copy__body"><p>There are a variety of different risks that businesses have exposures to. This means that there are also numerous methods and tools for managing risk. Management of risk enables different outcomes. It can be described as a form of insurance. It will pay out in some form or another if a certain set of events occur.</p>
+<br/>
+<section class="logos boxed">
+<h3>Listings</h3>
+<a href="http://www.db.com/gtb" rel="noopener noreferrer" target="_blank"><img alt="Deutsche Bank logo" class="logo" height="20" src="/i/logo/deutsche-bank-logo-2012-130x20.png" title="Deutsche Bank logo" width="130"/></a>
+<a href="http://www.lloydsbankcorporatemarkets.com" rel="noopener noreferrer" target="_blank"><img alt="Lloyds Bank logo" class="logo" height="28" src="/i/logo/lloyds-bank-logo-2013-120x28.png" title="Lloyds Bank logo" width="120"/></a>
+<a href="http://www.openlink.com/ttl" rel="noopener noreferrer" target="_blank"><img alt="OpenLink logo" class="logo" height="23" src="/i/logo/openlink-logo-2013-90x23.png" title="OpenLink logo" width="90"/></a>
+<a href="http://rbs.com/mib" rel="noopener noreferrer" target="_blank"><img alt="RBS logo" class="logo" height="19" src="/i/logo/rbs-logo-2012-70x19.png" style="margin-bottom:0;" title="RBS logo" width="70"/></a>
+</section>
+<div id="publication-contents-editorial">
+<dl>
+<dt>Section 1: Building a risk framework</dt>
+<dt>Section 2: Risk in the markets</dt>
+<dt>Section 3: Liquidity, liquidity, liquidity</dt>
+<dt>Section 4: Counterparty credit risk</dt>
+<dt>Section 5: Operational risk</dt>
+<dt>Section 6: The reality of regulation</dt>
+<dt>Section 7: Business risk</dt>
+<dt>Section 8: Risk management technology</dt>
+<dt>Glossary</dt>
+</dl>
+</div>
+<div class="boxed right" id="handbook-nav"> </div>
+<div class="boxed right" id="handbook-nav">
+<a class="button--red-stroke" href="mailto: subscriberservices@treasurytoday.com?subject=Request%20PDF&amp;body=Please send me a PDF of the Managing Risk in Treasury Best Practice Handbook Best Practice Handbook">Request PDF</a></div>
+<div class="boxed right" id="handbook-nav">
+<h2 id="risk-is-good"> </h2>
+<h2 id="risk-is-good">Risk is good</h2>
+<p>There are a variety of different risks that businesses have exposures to. This means that there are also numerous methods and tools for managing risk. Management of risk enables different outcomes. It can be described as a form of insurance. It will pay out in some form or another if a certain set of events occur.</p>
+<p>The likelihood of these events will vary. Some will be inevitable. Others will be remote and unlikely. Some risks could simply be ignored. Others will pose such a threat that they must be managed. So who decides what happens next?</p>
+<p>Ultimately the Board and executives of the company must define which risks are to be managed; which are to be ignored and which are accepted as part of being in the business. Many will then communicate these risk management policies to shareholders and stock analysts.</p>
+<h3 id="opportunity-for-treasury">Opportunity for treasury</h3>
+<p>The treasurer will be used to addressing financial risk. But treasury also has the skills to go further and should get involved in enterprise risk management. In particular treasury can bring financial analysis and modelling skills to help the organisation identify and manage risk where it is appropriate to do so.</p>
+<p>Risk management should be a central part of the strategic management of any organisation. It is the process whereby organisations methodically address the risks attached to their activities. Treasury should play a part in that process.</p>
+<p>The Institute of Risk Management defines a successful risk management initiative as being:</p>
+<ul>
+<li>
+<p>Proportionate to the level of risk in the organisation.</p>
+</li>
+<li>
+<p>Aligned with other corporate activities.</p>
+</li>
+<li>
+<p>Comprehensive in its scope.</p>
+</li>
+<li>
+<p>Embedded into routine activities.</p>
+</li>
+<li>
+<p>Dynamic by being responsive to changing circumstances.</p>
+</li>
+</ul>
+<p>But that is not all: ‘Risk management is the assessment of significant risks and the implementation of suitable risk responses. The objective is to achieve maximum sustainable value from all the activities of the organisation. Risk management enhances the understanding of the potential upside and downside of the factors that can affect an organisation. It increases the probability of success and reduces both the probability of failure and the level of uncertainty associated with achieving the objectives of the organisation.’</p>
+<p>‘Risk management should be a continuous process that supports the development and implementation of the strategy of an organisation. It should methodically address all the risks associated with all of the activities of the organisation. In all types of undertaking, there is the potential for events that constitute opportunities for benefit (upside), threats to success (downside) or an increased degree of uncertainty.’</p>
+<p>We could not have put it better ourselves.</p>
+<p>Read on for more information on the risks that treasurers should be looking at and the techniques that can and are being used to address these risks.</p>
+<style type="text/css">
+    #Handbook section.logos
+    {
+    border: 1px solid #e0e0e0;
+    box-shadow: none;
+    float: right;
+    margin-left: 2em;
+    margin-top: 0;
+    position: relative;
+    top: 0;
+    width: 150px;
+    }
+    #Handbook section.logos h3
+    {
+    margin-bottom:2em;
+    color:#173E6D;
+    }
+    #Handbook #publication-contents-editorial
+    {
+    float: left;
+    width:50%;
+    }
+</style>
+</div></div>
+</div>
+
+</div>]]></complete_body>
+	</node>
+	<node>
+		<category><![CDATA[Handbooks]]></category>
+		<title><![CDATA[Eurozone Crisis: A Treasurer's Survival Guide]]></title>
+		<publish_date><![CDATA[ Published: Dec 2011 ]]></publish_date>
+		<hero_image><![CDATA[]]></hero_image>
+		<complete_body><![CDATA[<div class="gs-grid__col gs-grid__col-1-10 gs-grid__col--expand" style="">
+<div class="hero hero--article spaceing">
+<div class="hero__heroarticle__img-wrap">
+</div>
+</div><div class="v-spacing--bottom">
+<h2 class="h2 copy__heading"></h2>
+<h3 class="sub-heading copy__sub-heading"></h3>
+<div class="copy__body"><p>In 2008, the outlook was certainly bleak. In 2011, things seem to be going from bad to worse. Governments were at least able to step in and rescue their country’s banks in the wake of the Lehman collapse. Today, it is both Eurozone banks and governments that need support and there is a distinct lack of co-ordinated effort in doing so.</p>
+<p>So where does this leave the treasurer? In this unsponsored special supplement, we tackle the core challenges that the Eurozone crisis presents: will Eurozone leaders make an unprecedented leap towards fiscal union or will the single currency begin to fragment? Moreover, what safety measures should treasurers pursue to avoid the brunt of any fallout?</p>
+<br/>
+<div id="article-content">
+<ul>
+<li>
+<p>
+<a href="#crisis-part-ii">Introduction</a>
+</p>
+<ul class="hide">
+<li>
+<p>
+<a href="#acknowledgements">Acknowledgements</a>
+</p>
+</li>
+</ul>
+</li>
+<li>
+<p>
+<a href="#what-will-the-future-hold-for-the-eurozone">The future of the Eurozone</a>
+</p>
+<ul class="hide">
+<li>
+<p>
+<a href="#introduction">Introduction</a>
+</p>
+</li>
+<li>
+<p>
+<a href="#the-three-challenges-of-the-eurozone-crisis">The three challenges of the Eurozone crisis</a>
+</p>
+</li>
+<li>
+<p>
+<a href="#the-markets-lack-of-faith">The market’s lack of faith</a>
+</p>
+</li>
+<li>
+<p>
+<a href="#towards-integration">Towards integration?</a>
+</p>
+</li>
+<li>
+<p>
+<a href="#fiscal-federalism">Fiscal federalism</a>
+</p>
+</li>
+<li>
+<p>
+<a href="#the-european-financial-stability-facility">The European Financial Stability Facility</a>
+</p>
+</li>
+<li>
+<p>
+<a href="#legal-difficulties-of-exiting-the-euro">Legal difficulties of exiting the euro</a>
+</p>
+</li>
+<li>
+<p>
+<a href="#towards-disintegration">Towards disintegration?</a>
+</p>
+</li>
+<li>
+<p>
+<a href="#greece-exits-the-eurozone-with-other-periphery-countries-to-follow">Greece exits the Eurozone – with other periphery countries to follow?</a>
+</p>
+</li>
+<li>
+<p>
+<a href="#a-collapse-of-the-single-currency">A collapse of the single currency?</a>
+</p>
+</li>
+</ul>
+</li>
+<li>
+<p>
+<a href="#how-to-prepare-for-eurogeddon">Tips for surviving Eurogeddon</a>
+</p>
+<ul class="hide">
+<li>
+<p>
+<a href="#dont-panic">Don’t panic!</a>
+</p>
+</li>
+<li>
+<p>
+<a href="#making-the-most-of-a-bad-situation">Making the most of a bad situation</a>
+</p>
+</li>
+</ul>
+</li>
+<li>
+<p>
+<a href="#case-study-marianna-polykrati">A treasurer from Greece speaks out</a>
+</p>
+</li>
+<li>
+<p>
+<a href="#counterparty-risk-and-bank-relationships">Counterparty risk and bank relationships</a>
+</p>
+<ul class="hide">
+<li>
+<p>
+<a href="#where-your-peers-are-putting-their-cash">Where your peers are putting their cash?</a>
+</p>
+</li>
+<li>
+<p>
+<a href="#getting-market-risk-savvy">Getting market risk savvy</a>
+</p>
+</li>
+<li>
+<p>
+<a href="#managing-supply-chain-exposures">Managing supply chain exposures</a>
+</p>
+</li>
+<li>
+<p>
+<a href="#technology-worth-the-investment">Technology: worth the investment</a>
+</p>
+</li>
+</ul>
+</li>
+<li>
+<p>
+<a href="#survival-of-the-fittest">Conclusion</a>
+</p>
+<ul class="hide">
+<li>
+<p>
+<a href="#treasury-todays-round-up-of-survival-essentials">Treasury Today’s round-up of survival essentials</a>
+</p>
+</li>
+</ul>
+</li>
+<li>
+<p>
+<a href="#crisis-timeline">Crisis Timeline</a>
+</p>
+</li>
+</ul>
+<p><em>This article was originally published on 1<sup>st</sup> Dec 2011</em></p>
+<h3 id="crisis-part-ii">Crisis part II</h3>
+<p>In 2008, the outlook was certainly bleak. In 2011, things seem to be going from bad to worse. Governments were at least able to step in and rescue their country’s banks in the wake of the Lehman collapse. Today, it is both Eurozone banks and governments that need support and there is a distinct lack of co-ordinated effort in doing so.</p>
+<p>So where does this leave the treasurer? In this unsponsored special supplement, we tackle the core challenges that the Eurozone crisis presents: will Eurozone leaders make an unprecedented leap towards fiscal union or will the single currency begin to fragment? Moreover, what safety measures should treasurers pursue to avoid the brunt of any fallout?</p>
+<blockquote>
+<p>Governments were at least able to step in and rescue their country’s banks in the wake of the Lehman collapse. Today, it is both Eurozone banks and governments that need support and there is a distinct lack of co-ordinated effort in doing so.</p>
+</blockquote>
+<p>This supplement is composed of two parts. The first offers an in-depth analysis of the problems driving the Eurozone crisis, outlining the possible paths Europe could take. This is followed by survival strategies for treasurers, including an overview of where your peers are putting their cash. We also get a candid perspective on the crisis from one treasurer operating in Greece.</p>
+<p>Despite the doom and gloom, an element of optimism still exists among our interviewees. This ‘silver lining’ stems largely from the fact that treasurers have been forced to become increasingly switched on to doing more with less, eliminating wasteful practices that may have once been overlooked in the bygone ‘years of plenty’.</p>
+<blockquote>
+<p>Despite the doom and gloom, an element of optimism still exists among our interviewees. This ‘silver lining’ stems largely from the fact that treasurers have been forced to become increasingly switched on to doing more with less…</p>
+</blockquote>
+<p>A sharpened eye has now developed over company cash flow; counterparty relationships have strengthened as a result of more frequent contact; and forward-thinking treasuries are making full use of new technology in order to optimise their operations. When there is a crisis, there is also opportunity.</p>
+<!-- <h3><a href="/sitecore/service/notfound.aspx?item=web%3a%7b812C9C16-FC4C-4403-868D-05E106F38E1C%7d%40en">Read the full supplement FREE! NO registration!</a></h3> -->
+<div class="thanks">
+<h3 id="acknowledgements">Acknowledgements</h3>
+<p>In creating this supplement, Treasury Today has conducted numerous interviews with high profile corporate treasurers and economists, whom we would like to thank for their openness and community-minded approach. We recognise that corporate communication policies are particularly strict at the moment, with many unable to address what has become the ‘elephant in the room’.</p>
+<p>Our thanks to the following people:</p>
+<p><span class="person">Martin Daunton</span>, Cambridge University; <span class="person">Paul De Grauwe</span>, Louvain University; <span class="person">Joanna Hawkes</span>, Misys; <span class="person">Peter Lay</span>, The British Council; <span class="person">Marianna Polykrati</span>, Vivartia; <span class="person">Mark Wyllie</span>, CME; and all those who requested to remain anonymous.</p>
+</div>
+<!--nextpage-->
+<h2 id="what-will-the-future-hold-for-the-eurozone">What will the future hold for the Eurozone?</h2>
+<p>The Eurozone is facing a crisis of unprecedented proportions. Greece, Ireland and Portugal have succumbed to bailouts, and European leaders are still scrambling to limit the contagion. Only one thing is certain: the euro must change drastically if it is to survive. But which direction will it take?</p>
+<h3 id="introduction">Introduction</h3>
+<p>The Eurozone crisis did not begin in May 2010 with the first bailout of Greece. Rather the problems troubling Europe’s single currency are structural in origin: they date back to the decisions taken, and provisions outlined, in the Maastricht Treaty of 1992, which set the roadmap for the creation of the euro.</p>
+<p>Even then, the Eurozone did not constitute an ‘optimal currency area.’ A characteristic of such an area is that developments or shocks that occur outside the region in question cannot affect the participating economies in completely different ways. Take, for example, a global oil crisis or a global financial crisis: in an optimal currency zone, internal mechanisms – such as a high level of labour mobility, wage and price flexibility, and a common fiscal system – will work to compensate for differences that might arise when an external shock occurs. In other words, any genuine currency union requires ‘substitution mechanisms’ to compensate for the absence of flexible exchange rates and independent interest rate policy in member countries.</p>
+<p>However, the euro area lacks these mechanisms. Bureaucracy, cultural barriers and linguistic differences mean that the Eurozone fails to meet the above criteria by a wide margin. Poor labour mobility is found across the single currency area; the widespread practice of collective bargaining agreements in Europe work against wage and price flexibility; and, in terms of fiscal policy compensation mechanisms, the Eurozone falls far below the standard set by the United States, another currency zone. It is for these reasons that Milton Friedman wrote in 1997: “Europe exemplifies a situation unfavourable to a common currency. It is composed of separate nations, speaking different languages, with different customs, and having citizens feeling far greater loyalty and attachment to their own country than to a common market or to the idea of Europe.”</p>
+<h3 id="the-three-challenges-of-the-eurozone-crisis">The three challenges of the Eurozone crisis</h3>
+<p>Fast forward to the winter of 2011, and we have seen the bailouts of three Eurozone countries: Greece, Ireland and Portugal. Bond markets have now turned their sights to Italy and Spain as the next contenders, with ten-year bond yields for both countries tipping over the 7% level – a well-known bailout indicator – in mid-November. The crisis, as it currently stands, can be seen as three distinct problems. First, European politicians must act to put Greece, laden with a total debt burden of almost 170% GDP, back on a sustainable path of repayment and, eventually, economic growth. The second problem centres on the European banking system: simply put, investors seriously doubt that financial institutions remain solvent with the vast amounts of Greek and other periphery debt on their books. Eurozone leaders, then, must recapitalise the banking system to such a level that restores market confidence.</p>
+<p>It is the third obstacle that remains most uncertain however: an economic ‘firewall’ must be built so as to protect larger Eurozone economies from contagion stemming from the periphery. The outcome of this challenge will depend on two key players: the European Financial Stability Facility (EFSF) – the bailout fund created by the EU – and Italy. As events unfold it has become clear that, if the Eurozone crisis spreads to continental Europe, it will do so by means of crossing the Italian Rubicon. With the resignation of Silvio Berlusconi throwing the Italian political landscape into further uncertainty, all eyes remain on Rome.</p>
+<h3 id="the-markets-lack-of-faith">The market’s lack of faith</h3>
+<p>The driving force behind this crisis has been the market’s doubt surrounding the resolve and, indeed, the political capability of Eurozone leaders to contain the economic contagion. It is this dynamic that continues to drive the euro crisis into uncharted waters, for the markets are driven by political headlines.</p>
+<p>The direction taken by the Eurozone will depend largely on the political will of European leaders – particularly Germany and France – to create lasting economic institutions that not only restore market confidence, but also give the Eurozone the ability to cope with future crises. “I think we are really at a point of dislocation now,” says Paul De Grauwe, Professor of International Economics at Louvain University in Belgium. “If we manage to save the system, then this will lead to further integration. If we fail, then we may very well end up in a process that leads to disintegration.”</p>
+<p>With turmoil in European markets still in full swing, the only thing to be taken as certain is that the single currency will have to change substantially if it is to continue to survive. Here, we look at the possible paths, or rather the broad scenarios, facing the Eurozone.</p>
+<!--nextpage-->
+<h3 id="towards-integration">1. Towards integration?</h3>
+<p>The EU chooses to move towards fiscal union in response to the crisis. There are several degrees and angles, however, by which Eurozone member states can approach fiscal union.</p>
+<h4 id="fiscal-federalism">Fiscal federalism</h4>
+<p>Fully fledged fiscal federalism entails the creation of a supranational EU fiscal authority with the power to set its own spending programme for member states and issue Eurobonds, ie debt securities guaranteed by all 17 Eurozone economies. These Eurobonds would, in effect, allow countries in the euro area to pool their risk and avail of lower interest rates. Economists argue that fiscal federalism is a key step towards the formation of an authentic ‘optimal currency union’ akin to the United States, which would allow the Eurozone to respond effectively to a variety of crises by means of co-ordinated monetary and fiscal policy measures.</p>
+<p>However, the chances of fiscal federalism in the short to medium term are rather slim. Two significant barriers remain. Firstly, there are the political obstacles: governments and electorates are likely to be unwilling to give up further sovereignty to a supranational authority deemed unaccountable to popular vote. For many member states, fiscal policy is the remaining cornerstone of national economic sovereignty.</p>
+<p>Secondly, there are the legal hurdles to face. The implementation of fiscal federalism in the EU would require a substantial revision of existing treaties, requiring referenda in Ireland, the UK and possibly other countries as well – an unappealing prospect after the drama of passing the Lisbon Treaty. So, while the 1957 Treaty of Rome, a document famous for outlining the roadmap of future EU integration, states that EU member states “are determined to lay the foundations of an ever closer union among the peoples of Europe,” in 2011 the prospect of fiscal federalism is still a long way off.</p>
+<h4 id="the-european-financial-stability-facility">The European Financial Stability Facility</h4>
+<p>The eventual outcome of the Eurozone crisis is likely to hinge on the European Financial Stability Facility (EFSF), the temporary bailout fund created by the EU as a response to the Greek bailout in May 2010. The EFSF, backed by Eurozone member guarantees of up to €440 billion, was initially created to financially assist smaller economies on the periphery, such as Greece and Ireland, until June 2013. However, what was originally designed to limit economic contagion to the outskirts of Europe has now evolved, by means of the emergency EU summit in July 2011, into a facility with extra firepower to deal with threats posed to larger Eurozone economies. The EFSF can now “act on the basis of a precautionary programme,” ie on the basis of its own initiative, to buy bonds on the primary and secondary market (bond markets, of course, determine what it costs for a government to borrow) as well as offering credit lines to Eurozone countries who are not at risk of immediate insolvency.</p>
+<p>Following the bailouts of Greece, Ireland and Portugal, however, the rescue fund’s reserves have now diminished to roughly €250 billion. In response to market pressure, European leaders in late October agreed to two further changes to boost the EFSF’s capability (but without extending the guarantees underpinning the facility). First, the EFSF can now provide optional credit enhancements to new Eurozone debt on the primary market. This method in effect reduces the funding costs for member states by offering risk insurance to private investors should they wish to purchase it.</p>
+<p>Secondly, and more importantly, however, is the use of Special Purpose Vehicles (SPVs) to boost the EFSF’s capacity. Private and public financial institutions, such as the IMF, can augment the amount of lending by providing resources through SPVs. In sum, these two additions could mean that the fund’s firepower is leveraged to cover €1 trillion. With a 50% cut in the face value of Greek bonds, in addition to a bank recapitalisation plan to the value of €106 billion, it is hoped that the Eurozone crisis will begin to stabilise.</p>
+<p>The current EFSF strategy constitutes only a small step towards fiscal union. Tellingly, European leaders rejected calls to increase their EFSF guarantee commitments, suggesting little appetite for what are in effect fiscal transfers to troubled periphery economies. The financial press has united in criticising the new deal as a meagre response to the gravity of the crisis at hand; and markets, for their part, have not bought into the proposed cure. The EFSF bond auction in early November, for example, struggled to raise €3 billion required for Ireland’s bailout, paying investors close to 3.6% in yield – far higher than any previous EFSF auction. “Now we are really talking about the survival of the system,” says De Grauwe. “People will have to set aside their doormats and be willing to save the system by massive financial assistance. If they don’t want to do that, the whole system will collapse. It is an existential problem now.” A successful solution to the Eurozone crisis will have to involve some degree of fiscal integration. But it remains doubtful that the EFSF will make the mark.</p>
+<div class="boxed" id="legal-difficulties-of-exiting-the-euro">
+<h3 id="legal-difficulties-of-exiting-the-euro">Legal difficulties of exiting the euro</h3>
+<p>The procedure for leaving the Eurozone is flaky at best. According to Article 50 of the Lisbon Treaty, the most recent document on European integration, “Any member state may decide to withdraw from the union [ie the EU] in accordance with its own constitutional requirements,” but there is no actual provision for a country to exit the Eurozone itself. “There was no exit strategy designed into the Eurozone like there was with the Gold Standard, nor the flexibility offered by the alteration of the exchange rate which the Bretton Woods regime had,” says Martin Daunton, an economic historian at Cambridge University. “This comes down to the political motivation [behind the project], rather than economic motivation.”</p>
+<p>In other words, for a country to leave the Eurozone it must forsake membership of the EU as a whole. This is not a procedure that can be completed overnight. Any country who wishes to exit must first make a formal request, for under existing legislation there is no provision for expelling a member state from the Eurozone. What follows is a long, negotiated process. The exit procedure may only be completed once the European Council, comprising the 27 heads of state in the EU, agree to the country’s request with a qualified majority. If the country’s bid fails, however, there is a provision which states that exit can take effect two years after the initial application to withdraw from the EU was made, even though the bid was rejected.</p>
+</div>
+<!--nextpage-->
+<h3 id="towards-disintegration">2. Towards disintegration?</h3>
+<p>This scenario sees the EU unable to respond effectively to the crisis. Market pressure and structural inconsistencies mount to such a level that the Eurozone begins to fray. A fragmentation of Europe’s single currency, however, could take a variety of forms – from the exit of Greece and other periphery economies to the very break-up of the Eurozone itself. But it is important to note that such a fate is highly unlikely, if only for the fact that the costs associated with the collapse of the euro far outweigh the price of keeping it together.</p>
+<h4 id="greece-exits-the-eurozone-with-other-periphery-countries-to-follow">Greece exits the Eurozone – with other periphery countries to follow?</h4>
+<p>Since the country’s first bailout in May 2010, there has been sustained speculation of Greece’s withdrawal from the Eurozone. By leaving the single currency, the argument goes, Greece can devalue the real burden of its debt – both public and private – by introducing a new, weaker currency, similar to the old drachma. The country could then set itself on a sustainable path towards paying down its debt and economic growth. But leaving aside the legal and institutional complications surrounding Greece’s exit of the Eurozone (see box <a href="#legal-difficulties-of-exiting-the-euro">Legal difficulties of exiting the euro</a>), how is such a scenario likely to pan out?</p>
+<figure class="center">
+<figcaption>
+<h5 id="greek-real-gdp-annual-percentage-change">Greek real GDP (annual % change)</h5>
+</figcaption>
+<a class="enlargeable" href="/i/handbook/2011/eurozone-crisis/diagram-01-greek-real-gdp-annual-percentage-change.png"><img alt="Greek real GDP (annual % change)" height="162" src="/i/handbook/2011/eurozone-crisis/diagram-01-greek-real-gdp-annual-percentage-change-t.png" width="300"/></a>
+<p class="source">Source: Thomson Reuters Datastream</p>
+</figure>
+<p>In reality, Greece’s exit would be far more convoluted and painful than the argument outlined above. Furthermore, the country’s exit would likely precipitate the expulsion of other periphery economies, such as Ireland and Portugal; once Greece establishes the precedent, markets would certainly begin pricing in exits of other Eurozone members.</p>
+<p>As soon as the markets take the prospect of Greece’s Eurozone exit as a given, there would be an immediate run on the nation’s banking system – both in terms of its domestic banks and the branches of non-Greek financial institutions located in the country. This would be due to the (realistic) expectation that Greece’s new currency would be devalued by as much as 50% – a move that would reduce substantially the real value of both Greek income and savings.</p>
+<p>The rational strategy to avoid this would be to withdraw euros from the Greek banking system prior to the credit event (provided, of course, that emergency capital controls are not put in place by the Greek government). This could be achieved by two methods; transferring savings or investments to a foreign European account in a non-Greek banking institution; or simply withdrawing cash in euro and hiding it under a proverbial mattress. The effect is the same: wealth remains in euro and escapes devaluation.</p>
+<p>The end result, however, would be a collapse of the Greek banking system long before the country actually exits the Eurozone – a long and protracted process in itself. Furthermore, Greece’s capital inflows would dry up as soon as the euro exit was announced. What would emerge from such an outcome? It is likely that a two-tiered European currency area would arise: an integrated cohort of strong economies remaining within the Eurozone, on the one hand, followed by several periphery economies returning to their legacy currencies – albeit pegged at an attractive rate to the euro – on the other. An outcome such as this, however, would have severe consequences for EU policy co-ordination, both on an economic and political level, dealing European solidarity a damaging blow.</p>
+<h4 id="a-collapse-of-the-single-currency">A collapse of the single currency?</h4>
+<p>The complete disintegration of the euro would see member states reverting back to national currencies. However, given the amount of political capital and energy invested into Europe’s single currency, it is a highly improbable outcome. A collapse of the single currency would likely spell the end of further economic integration at a European level – at least in the short to medium term – for monetary union constitutes the cornerstone of the European project.</p>
+<p>But were such a situation to arise, it would not result from Greece’s exit. Rather it would originate with the decision of Germany, or perhaps another economic heavyweight, such as France, to withdraw from the currency union, dealing what remains of the euro’s fiscal credibility a severe blow.</p>
+<p>After the collapse of the Bretton Woods agreement in 1971, the German Bundesbank became the pillar of monetary rectitude and conservative orthodoxy in Europe. Other EU member states slowly gravitated towards pegging their currencies to the deutschmark, which in turn became a safe haven in troubled times. Were the single currency to collapse, it is arguable that such a development would occur again to form the basis of a post-euro economic order. Such a development, however, may prove unpalatable to the Germans. The disintegration of the euro would likely result in unprecedented inflows of capital into the country, pricing its exports – the country’s main source of growth – out of competition.</p>
+<p><em>In the next part of this supplement, we look at how treasurers can prepare for the future of the Eurozone – whatever it may hold.</em></p>
+<!--nextpage-->
+<h2 id="dont-panic">Don’t panic!</h2>
+<p class="management-summary">Credit rating downgrades, default scares, and political instability have come to constitute the ‘norm’ of daily business for many treasury functions. Nevertheless, the deepening of the Eurozone troubles has stoked further volatility in bond and foreign exchange markets, generated an even sharper focus on country and counterparty exposures and ultimately undermined what little confidence there was in the European banking system.</p>
+<p>So what has this meant for corporate treasury departments and their priorities? More importantly, where should treasurers be looking for opportunities to improve their operations and turn a bad situation on its head? First of all, we look at what treasurers should do to plan for the worst case scenario.</p>
+<div class="boxed" id="how-to-prepare-for-eurogeddon">
+<h3>How to prepare for Eurogeddon</h3>
+<p>Treasurers need to begin taking preventive measures now, if they haven’t already. This means undertaking contingency planning with both the treasury team and the C-suite. Given that the exit of a country from the Eurozone would mean another sustained period of economic turmoil, corporates would be well advised to conduct scenario planning at a macro level and at country-by-country level, looking at what happens if (or when) a particular country leaves the euro.</p>
+<p>Naturally the depth and breadth of any contingency plans will depend on the company’s operations and exposure to the Eurozone, but some useful pointers and areas to consider include:</p>
+<ul>
+<li>
+<p><strong>Move as much cash out of periphery banks as possible</strong> – including the branches of international financial institutions located in Greece and other ‘at risk’ nations. Also limit the time for which cash is held in ‘unsafe’ accounts where possible. In fact, a thorough assessment of the health of all banking counterparties would be advisable.</p>
+</li>
+<li>
+<p>However, <strong>liabilities could be left or increased with these ‘at risk’ counterparties</strong> if credit lines are available, although the interest cost might be too high to make this a realistic possibility.</p>
+</li>
+<li>
+<p><strong>Revisit all aspects of risk, not least FX.</strong> How would the company be impacted by sudden changes in exchange rates? What hedges are currently in place and are all future non-euro exposures hedged?</p>
+</li>
+<li>
+<p><strong>FX counterparties will also need to be reassessed</strong> in terms of the risk they present to the company. What euro FX contracts are in place and with which banks? Can new contracts be taken out with non-Eurozone banks?</p>
+</li>
+<li>
+<p><strong>International trade contracts must be scrutinised</strong> for currency and counterparty concerns. Do you have outstanding deals with a company in one of the weaker member states? Are those contracts denominated in euro? In the event of a country exiting the Eurozone, contracts would have to be altered to take into account any new currencies or devaluations. Consider whether new sales and supplier contracts should contain currency clauses stipulating the obligations in the event of a country leaving the euro. Also, if the counterparty were unable to honour the contract, how severe would your losses be?</p>
+</li>
+<li>
+<p><strong>Identify the areas of the business where notes and coins are handled</strong> and consider the impact of a change in currency.</p>
+</li>
+<li>
+<p>In addition, <strong>how will payments systems cope with currency changes?</strong> What about your TMS? Will other in-house systems and processes, such as invoicing, be affected? And payroll? How long will it take to get any necessary adjustments in place? Do not be afraid to ask banking partners and vendors about the ramifications of a country leaving the Eurozone.</p>
+</li>
+<li>
+<p><strong>Re-examine supply chains in tandem with the procurement team.</strong> Should inventories of certain critical parts be increased to minimise disruptions to the physical supply chain? Consider financial flows and identify suppliers that are most likely to experience problems – widespread insolvencies will no doubt follow if a country exits the Eurozone. Make sure alternative, reliable suppliers are available in another country.</p>
+</li>
+<li>
+<p>Given that the Eurozone turmoil is likely to remain a concern for the foreseeable future, companies may want to <strong>reconsider the markets they export to as well.</strong> Is demand likely to drop off even further from Eurozone countries? Would it be better to find new countries to export to in the emerging markets?</p>
+</li>
+<li>
+<p><strong>Consider how local operations will be affected.</strong> What will happen if an entity suddenly loses its access to credit? Also, how would a euro break-up affect staff on the ground in peripheral nations? Political and social unrest may put company buildings, property and employees at risk – make sure the appropriate precautions are taken.</p>
+</li>
+</ul>
+<p>Elsewhere, a close eye should be kept on events in the Eurozone, but newspaper headlines are not enough. Treasurers should look towards the websites of the governing political parties.</p>
+<p>There is a mine of useful information on existing and upcoming policy initiatives that can be found online. Furthermore, policy documents can often give clues to possible contingency initiatives down the line, should certain market events occur.</p>
+<p>This is very much a case of planning for the worst, but it is always best to be prepared.</p>
+</div>
+<!--nextpage-->
+<h3 id="making-the-most-of-a-bad-situation">Making the most of a bad situation</h3>
+<p>Aside from contingency planning, treasurers must continue to improve their internal processes as the Eurozone crisis continues to erode profits, growth and yields. This means looking to minimise unnecessary capital expenditure and maximise operational efficiencies. Going back to 2008, if there was one lesson learned by treasury professionals in the wake of the Lehman collapse, it was to go ‘back to basics.’</p>
+<p>Although many of the same tactics also apply this time around, there are some fundamental differences too. Typically, in times of economic turmoil, investors flock to safety; capital is usually shifted out of volatile equity markets into fixed income in order to take advantage of the traditional security offered by governments and money markets. Today, however, the usual safe havens, such as government bonds, constitute the epicentre of risk. The extensive holdings of Eurozone periphery debt in the European banking system are making risk decisions harder for corporates, not just at the investment level but also in terms of their cash management.</p>
+<p>European financial institutions are not alone either. As of late September, the top six American banks held $50 billion in Eurozone periphery debt on their books. In mid-November it was reported that the four largest UK banks cut their lending exposure to the periphery by 25% in the past three months. Financial institutions are increasingly depositing their excess funds with central banks, in turn cutting their lending on the interbank market. But, what is a treasurer to do in this situation?</p>
+<aside>
+<h5>Did you know?</h5>
+<p>According to research by Orbis, in 2010 US corporates managed to hoard $1,639 billion in cash or cash equivalents on their balance sheets. In the same year, European corporates amassed €2,937 billion. To put that in perspective, as at 30<sup>th</sup>June 2011, Greece’s debt stood at €354 billion.</p>
+</aside>
+<p>Aside from the obvious steps of reassessing their cash positions, flows and processes, companies also need to re-examine their investment priorities for any surplus cash. After all, they are likely to be operating in a low yield environment for the foreseeable future at least. “In terms of looking at yield as an objective, when you read pronouncements from the European Central Bank, the reality is that nothing is going to happen to yield anytime soon,” says Mark Wyllie, Vice President of Corporate Finance at Central European Media Enterprises (CME). “It will be at least two more years before yield will start to begin stirring.”</p>
+<p>Investment policies may therefore need to be revised, both in terms of objectives and permissible instruments/limits.</p>
+<ul>
+<li>
+<p>Which instruments is the company comfortable investing in now?</p>
+</li>
+<li>
+<p>Do counterparty limits need to be revised?</p>
+</li>
+<li>
+<p>Should yield even be a priority in an environment where risk perception is so high?</p>
+</li>
+</ul>
+<p>Peter Lay, Head of Treasury and Banking at the British Council, speaks for many treasurers when he says the security of his cash is his “primary investment objective.” Joanna Hawkes, Group Treasurer of Misys, a provider of financial software to the banking sector, agrees: “When Misys has had very significant amounts of cash to invest, as it did for several months last year, post the $1.3 billion sale of its US subsidiary and ahead of its auctioned share buy-back, it was all about security and far less about return. For smaller day-to-day investments we do look more closely at money market funds and competitive returns, but security is still paramount.”</p>
+<figure class="center">
+<figcaption>
+<h5 id="banks-most-exposed-to-peripheral1-eurozone-debt-first-half-of-2011-dollor-billion">Banks most exposed to peripheral1 Eurozone debt First half of 2011 ($ billion)</h5>
+</figcaption>
+<a class="enlargeable" href="/i/handbook/2011/eurozone-crisis/diagram-02-banks-most-exposed-to-peripheral-eurozone-debt-first-half-of-2011-dollar-billion.png"><img alt="Banks most exposed to peripheral1 Eurozone debt First half of 2011 ($ billion)" height="202" src="/i/handbook/2011/eurozone-crisis/diagram-02-banks-most-exposed-to-peripheral-eurozone-debt-first-half-of-2011-dollar-billion-t.png" width="300"/></a>
+<p class="source">Source: Thomson Reuters Datastream</p>
+</figure>
+<p>However, Hawkes adds that, “The key issue for me as Group Treasurer is still liquidity and ensuring that the company is always adequately funded and operating well within covenant levels.” It’s not just a question of being able to get your cash back therefore, it’s about getting your cash back when you need it.</p>
+<p>Understandably, treasurers are hesitant about investing surplus cash for too long, in case the unexpected happens. Indeed, a number of European treasury functions now have 100% of their money available overnight or, at most, a period of one month.</p>
+<p>But as Lay says, “It all comes down to whether your organisation is able to operate with sufficient monies in the right place – and at the right time.” What does this mean in practical terms for those looking to rethink their cash strategy? In brief:</p>
+<ul>
+<li>
+<p>Sitting on cash piles or ensuring all your cash is available to you overnight might seem like a low risk option but strategic cash management can be far more beneficial for the company.</p>
+</li>
+<li>
+<p>Segment your cash appropriately into short-, medium- and long-term categories. For example, is the cash working capital or can it be held in reserve or for longer-term purposes?</p>
+</li>
+<li>
+<p>Information relating to investment objectives and instruments should be detailed for each cash category within the company’s investment policy and guidelines. It is important to be clear about how each of the categories must be treated/invested. As stated above, investment policies may need revisiting to ensure they are true to the current climate.</p>
+</li>
+</ul>
+<p>Overall, the treasurer’s aim should be to identify and invest in the instrument types which offer the best and most appropriate investment opportunity for the cash, according to its intended purpose/category. It is important to discuss appropriate investment solutions with your bank(s) and or/investment advisers therefore – do not just rely on legacy strategies or instruments.</p>
+<!-- <div class="footnotes">
+		<ol>
+			<li id="fn:1">
+				<p>Greece&#44; Ireland&#44; Italy&#44; Portugal&#44; Spain. <a href="#fnref:1" rev="footnote">&#8617;</a></p>
+			</li>
+		</ol>
+	</div> -->
+<!--nextpage-->
+<div class="case-study" id="case-study-marianna-polykrati">
+<h2>Corporate Interview</h2>
+<h3>A treasurer from Greece <br/>
+speaks out</h3>
+<div class="people vcard">
+<figure class="portrait left"><img alt="Portrait of Marianna Polykrati" class="photo" height="150" src="/i/handbook/2011/eurozone-crisis/2011-marianna-polykrati-100x150.jpg" width="100"/></figure>
+<h4 class="fn">Marianna Polykrati<br/>
+Group Treasurer, Vivartia</h4>
+<img alt="Vivartia logo" class="logo org" height="31" src="http://treasurytoday.com/i/logo/vivartia-logo-2011-90x31.png" title="Vivartia" width="90"/></div>
+<div class="people vcard"> </div>
+<div class="people vcard">
+<p>Marianna Polykrati, Group Treasurer at Greek food and drink conglomerate Vivartia, one of the largest companies in Greece, shares her views on deteriorating business conditions and how Vivartia is stepping up to the challenge.</p>
+</div>
+<h5>With Greece in economic turmoil, how have you been monitoring risk recently? Have you been looking at CDS spreads, rating agencies or at other methods?</h5>
+<p>We were using CDS spreads at the beginning of the Eurozone crisis to monitor risk, but I think that the reliability of such a measurement has decreased right now. The market is experiencing huge volatility and is totally vulnerable to rumours.</p>
+<p>I find that the rating agencies take a historical approach of companies; they do not take a forward-looking view – and we are a company that is forward-looking and forward-moving. Unfortunately, this aspect isn’t taken into account in their ratings.</p>
+<h5>Has your relationship with your banks changed since the Eurozone crisis began? Have you consolidated, diversified, or stayed largely the same?</h5>
+<p>Before 2008 we had relationships with 15 banks, as we are one of the largest groups of companies in Greece. With around €1 billion debt and a presence both inside and outside Greece, we had strong relationships with the six top Greek banks and with banks outside of Greece.</p>
+<p>After the Eurozone crisis began and, indeed, after September 2008, banks outside Greece started to ‘keep an eye’ a little bit more closely on Greek companies. Pretty much, they focused strictly on the numbers and the financial performance compared to other companies outside Greece. It wasn’t easy handling the banks outside Greece.</p>
+<p>Currently, we have a relationship with eight banks, and all of them are Greek. Our centralised treasury speaks with the banks’ relationship managers in general twice a week. But these days, with the turmoil in the markets, we speak with all of them every day.</p>
+<h5>What are you doing with your short-term cash now?</h5>
+<p>Our cash strategy hasn’t changed recently. Despite having a very efficient budget and cash flow plans, in such a volatile market you usually have a lot of unexpected events. So we are trying to keep a higher level of short-term cash in order to be able to tackle extraordinary events.</p>
+<h5>Is yield still an objective or is it all about security and liquidity?</h5>
+<p>Within Vivartia, we have companies that are cash cows and companies that are highly leveraged. For the cash cow companies, we do still look at yields; with the companies that are a little bit tight in liquidity, we focus mainly on that.</p>
+<p>There is one problem in Greece, however: physical cash pooling is not permitted. We are a group that has 120 companies; but due to the current legal framework, we cannot pool cash between the entities and distribute the cash to the companies that need it. The tax imposed upon dividend distribution from the subsidiaries is high and therefore outweighs the benefits.</p>
+<h5>As a Greek company, in what ways has Eurozone turmoil affected your supply chain?</h5>
+<p>The Eurozone crisis has affected our supply chain in different ways, both abroad and domestically. It has changed the way suppliers abroad deal with us by squeezing our liquidity, since companies outside Greece request cash advances and do not accept Greek bank guarantees anymore. This change in the suppliers’ approach to Greek companies has been noticeable since October last year, when, as a group, we were starting to experience the reluctance of our suppliers to receive Greek bank guarantees.</p>
+<p>Our supply chain is disrupted inside Greece as well. In general, the crisis has impacted a lot of our domestic suppliers, who have also experienced severe pressure from their suppliers in cases where the raw materials are purchased abroad. Furthermore, due to liquidity and regulatory issues Greek banks have squeezed their credit limits to our suppliers, so it’s a double effect on them, impacting us at the same time. We are one of the largest companies in Greece and one of the basic connecting links of the supply and demand chain of the Greek market, so we had available credit up to this year, but now it has become limited for us.</p>
+<h5>It has been said that the financial crisis expanded the duties and the importance of the treasurer; would you say the Eurozone crisis has heightened the importance of the treasurer’s role further?</h5>
+<p>It has, that is true. Currently the treasury has become the link between all the company’s departments. If we had a marketing decision in the past, it was something that remained in marketing. Right now, all the decisions pass through the treasury; in terms of cost and liquidity and payment terms, especially how far you can ‘push’ all the payments.</p>
+<h5>Is there any advice you would like to give to other treasurers on how to make the most out of the current situation?</h5>
+<p>One of the dangers facing companies is that we do not know what to hedge against, because of the instability in the market. We do not know whether the euro is going to continue to exist; so you try to make a contingency plan against a very unstable market.</p>
+<p>The focus right now for Vivartia is around 70% liquidity – that is the immediate danger – and 30% hedging. We are in a very volatile market, and we don’t know if the banking system will continue to exist in its current form.</p>
+<p>My advice to treasurers is to be patient. Do not panic and try not to be affected by all the rumours going around. You have to filter everything that you hear and read right now.</p>
+</div>
+<!--nextpage-->
+<h4 id="counterparty-risk-and-bank-relationships">Counterparty risk and bank relationships</h4>
+<p>Counterparty risk, and the difficulty assessing it, is at the heart of this crisis. The time spent communicating and networking with financial institutions can be of the utmost importance if events take a turn for the worse. “Relationship banking has always been important,” says Hawkes “and I am certainly of the school that in the current climate strengthening those relationships is all the more important. It helps on every level; if the banks understand your business, they can react much more quickly when you need them to. This is significant if you are as active in M&amp;A as Misys is and in a market characterised by the increasing rationalisation of capital.”</p>
+<p>“If you know each other well you can keep the number of relationships lower,” Hawkes adds. “You can then maximise the amount of ancillary you have to spread around which further supports banks’ capital return and therefore their scope to lend.”</p>
+<p>In other words, keeping your banks updated and aware of your strategic direction, allows your business to gain credibility and therefore easier access to credit facilities at short notice. Questions for treasurers to ask themselves include:</p>
+<ul>
+<li>
+<p>How frequently do you meet with your banks?</p>
+</li>
+<li>
+<p>Are your banks attending your analyst meetings?</p>
+</li>
+<li>
+<p>Do they receive regular exposure to your CFO or CEO?</p>
+</li>
+</ul>
+<p>However, for some treasurers, relationship decisions are influenced by counterparty risk policies (see box below) that limit the amount of business that the company can do with any bank, in particular when it comes to deposits.</p>
+<p>“We have tweaked our policy so we are spreading the amount of cash to no more than 20% of six deposits with any one bank,” says one corporate treasurer, whose business operation deals in 110 currencies. “We have increased the number of banks we operate with. Before the crisis we were incredibly conservative with the banks we had. But with our policy of trying to spread our risk, we had to start looking elsewhere.”</p>
+<div class="boxed">
+<h3 id="where-your-peers-are-putting-their-cash">Where your peers are putting their cash?</h3>
+<h4>Local opportunities</h4>
+<p>For corporate treasurers operating in small countries – be they member states of the European Union or located just outside its periphery – local state banks are becoming increasingly attractive as safe havens for cash. Local financial institutions deemed by national governments as ‘too big to fail’ and systemic to the local banking system are relatively safe bets, it seems.</p>
+<p>Wyllie, whose business primarily operates in six eastern European countries, such as the Czech Republic and Slovakia, says the following: “We have started to leave a lot of our cash down at the local level – such as local banks in the Czech Republic, for example, or the sub-branches of other, larger banks such as ING – rather than the usual pre-2008/9 strategy of regrouping the cash in the big international banks.”</p>
+<p>Could we perhaps be seeing the start of a decline in cross-border pooling requests as companies pursue this approach? While it is early days yet, it is evident that the crisis is forcing treasurers to be more resourceful with their cash and to rethink legacy processes and strategies.</p>
+<h4>Money market funds</h4>
+<p>“In terms of day to day operational cash, if we were going to go for £10m to £20m – small amounts of cash like that – we have started looking actively at money market funds,” notes Hawkes. While the yields on MMFs may seem low at the moment, this is because AAA rated MMFs focus primarily on capital preservation and liquidity.</p>
+<h4>Covered bonds and non-periphery debt</h4>
+<p>Some corporates are genuinely questioning whether their banks are still solvent. Indeed, one of our sources, who asked to remain anonymous, said his business is conducting daily reviews of its credit limits, which have been gradually reduced as the Eurozone crisis has progressed. With bank deposits seen as increasingly risky, the other options remaining are government bonds – at least, those from Germany, Austria, Finland and the Netherlands – and covered bonds. The former option offers little in the way of return – a two-year German bond, for example, currently offers 0.65% – but there is nevertheless some security.</p>
+<p>Covered bonds, he says, are a more attractive alternative. These are debt securities, generally issued by a bank, that are secured against collateral. Therefore, if a bank eventually defaults, and its national government is unable to support it, the investor is entitled to that collateral as compensation for his investment. This simple logic, which takes into account potential bank default, is now driving certain corporates to purchase covered bonds instead of putting their money on deposit with banks – while taking advantage of the extra yield. Indeed, one treasurer interviewed said he was placing 50% of his money in covered bonds, with the remaining half in non-periphery sovereign debt.</p>
+<h4>Thinking outside the box</h4>
+<p>In early September 2011, the FT reported that Siemens withdrew more than €500m from Societe Generale, transferring the sum to the ECB for safekeeping. The unusual move, which came amid growing worries about the European banking system, was possible only because the German industrial group acquired a banking licence in 2010, one of a handful of companies to do so. This move was in large part a reaction to the difficulties faced during the global financial crisis.</p>
+<p>To date, Siemens is reported to have placed between €4 and €6 billion with the ECB, largely in one-week deposits, thus using the central bank for liquidity and as a safe haven for cash deposits. Furthermore, the industrial group can avail of higher interest rates offered by the ECB. It is an extreme example, but nevertheless highlights the innovative methods that companies are devising in order to tackle the crisis head on.</p>
+</div>
+<!--nextpage-->
+<h3 id="getting-market-risk-savvy">Getting market risk savvy</h3>
+<p>Elsewhere, which danger signals should treasurers be on the lookout for to help their business survive? “The indicators that are most useful are the actual quantitative measures that don’t necessarily hit the newspapers,” says Wyllie. The movement of credit default swap (CDS) spreads, for example, has often predicted the eventual outcome of a country’s fortunes, be it Ireland, Portugal or Greece.</p>
+<p>But CDS spreads only offer a snapshot of the economic situation, reflecting market sentiment at any given moment. It is impossible to predict where they will be a month, or even a week, from now. “It is a bit like asking where the US dollar is going to be in a year’s time,” quips one corporate treasurer. “One bank will give you 1.70 or 1.80, and another bank will value it at 1.35.” Furthermore, with the poor track record of econometric forecasting pre-2008 providing little comfort, treasurers also need to look elsewhere to support their risk strategies.</p>
+<p>The qualitative decisions of the three leading ratings agencies – Standard &amp; Poor’s, Moody’s and Fitch – have continued to play a formative, if disruptive, role in the path of European debt crisis events. “The ratings agencies might suffer from a credibility issue, but markets still pay attention to their decisions. They have no choice but to,” says Lay at the British Council.</p>
+<p>“While we wouldn’t place as much reliance on them [S&amp;P, Moody’s and Fitch] today as we would have done in the past, we still factor them into our decision-making. We would be less dependent, however, and give a much more subjective overview to risk management,” says one corporate treasurer.</p>
+<p>Furthermore, frequent downgrades by these ratings agencies are likely to have an additional impact for treasurers. With fewer banks now holding a AAA credit rating on their debt, corporates must bear in mind the following:</p>
+<ul>
+<li>
+<p>In a few months’ time, will it still be possible to avoid doing business with banks that are not AAA rated?</p>
+</li>
+<li>
+<p>What level of credit rating will become the new, accepted norm in this case?</p>
+</li>
+<li>
+<p>Also, will this simply devalue the notion of credit ratings even further?</p>
+</li>
+<li>
+<p>Where does the balance lie between counterparty loyalty and the need to secure your company’s exposure?</p>
+</li>
+<li>
+<p>Should the company be relying more on its own analysis of its banking partners?</p>
+</li>
+</ul>
+<p>Certainly, the market has not yet shifted to such a mind-set, but a gradual adjustment in this direction is likely.</p>
+<figure class="center">
+<figcaption>
+<h5 id="eurozone-bond-yields">Eurozone bond yields</h5>
+<p>Ten-year government bond yield %</p>
+</figcaption>
+<a class="enlargeable" href="/i/handbook/2011/eurozone-crisis/diagram-03-eurozone-bond-yields-ten-year-government-bond-yield-percentage.png"><img alt="Eurozone bond yields: Ten-year government bond yield %" height="118" src="/i/handbook/2011/eurozone-crisis/diagram-03-eurozone-bond-yields-ten-year-government-bond-yield-percentage-t.png" width="300"/></a>
+<p class="source">Source: Thomson Reuters Datastream</p>
+</figure>
+<h3 id="managing-supply-chain-exposures">Managing supply chain exposures</h3>
+<p>Since 2008 buyers have become increasingly aware that the cost of sustaining a supply chain is often less than that of seeing it collapse. This means actively looking for ways to support your suppliers through the tough climate. Supply chain finance, or at least a particular form of it – supplier finance – has therefore risen in prominence and popularity.</p>
+<p>However, with the bailouts of Ireland, Portugal and Greece, the Eurozone crisis poses other threats to a company’s supply chain. Greece, in particular, caused considerable consternation among our interviewees. There is strong market speculation that Greece may be forced to leave the Eurozone, which in turn calls into question the reliability of existing deals with Greek suppliers, as highlighted above. It is no surprise therefore that letters of credit are growing in popularity again, even for trade within Europe.</p>
+<p>In reviewing supplier relationships and trade contracts, it is also important to examine not only the direct threats to the company (ie a supplier based in Greece) but also other indirect risks:</p>
+<ul>
+<li>
+<p>Know the extent of your company’s counterparty exposure and understand how suppliers may be affected by another recession/market downturn. Use supplier scorecards where appropriate.</p>
+</li>
+<li>
+<p>Look at physical trade flows as well as the financial flows. Is just one company used for shipping 90% of the time? What if the company went bust? Is there a backup plan?</p>
+</li>
+<li>
+<p>Make sure all parties are clear on the terms of their trade agreements. When is the ownership of goods transferred and who is responsible for arranging the insurance?</p>
+</li>
+</ul>
+<p>Now is also an ideal moment to ensure your company’s sales and procurement departments understand the importance of the supply chain to the business. As a longer-term project, companies could also look for ways to improve supply chain visibility: ranging from a commercial card programme to supply chain software.</p>
+<!--nextpage-->
+<h3 id="technology-worth-the-investment">Technology: worth the investment</h3>
+<p>Treasury management systems have been instrumental in allowing corporates to react more quickly to recent market events. The right treasury technology can increase efficiency, transparency and control over the department’s operations – and, of course, the company’s cash.</p>
+<p>The hardest part of technology is sometimes not the implementation but securing the budget for it in the first place. The following points are just some of the benefits that a new TMS can offer, and can be useful for building an argument around the replacement of a legacy system:</p>
+<ul>
+<li>
+<p><strong>An improvement in risk management</strong>, such as operational, counterparty and financial risk, enabling treasurers to better model the effects of different hedging, borrowing and investment decisions.</p>
+</li>
+<li>
+<p><strong>Increased visibility of cash</strong> across the business, allowing companies to see their accurate, up-to-date cash position. “We are looking at trying to improve our cash flow forecasting with simpler models for people to use, because we do it in over 100 countries,” observes Lay, who has successfully implemented 360T.</p>
+</li>
+<li>
+<p><strong>More efficient system capabilities</strong>, enabling businesses to meet accounting and regulatory reporting requirements more readily.</p>
+</li>
+<li>
+<p><strong>Automation of processes</strong>, which leads to an increase in labour productivity allowing staff to be re-deployed away from repetitive manual tasks towards value-added activities. Misys completed its first phase IT2 implementation in September last year [as the Eurozone crisis was taking off].</p>
+<p>“IT2 has been very successful,” says Hawkes. “It has forced a lot of much needed automation and process improvement, but it’s an ever developing discipline. Misys is based all over the world, operates in virtually every currency and runs exposures and hedges in all currencies with significant P&amp;L implications.</p>
+<p>“Our inter-company cash flows and cross currency IP recharges are massively complex. The more we can automate the processes around managing these, by using the system, the better visibility and understanding we have and ultimately better control on the holy grail of P&amp;L volatility on revaluations.”</p>
+</li>
+<li>
+<p><strong>Improved integration with third party systems</strong>, such as ERP and accounting systems. This leads to improved STP rates, fewer errors and reduces the need for rekeying data.</p>
+</li>
+</ul>
+<p>With the concerns surrounding bank counterparties, corporates may also want to reconsider SWIFT Corporate Access. One of the advantages of SWIFT for Corporates, for example, is that the use of a non-proprietary connection means that the corporate is less tied down to a particular bank.</p>
+<h3 id="survival-of-the-fittest">Survival of the fittest</h3>
+<p>Whether the euro’s problems are resolved through a united front or through break-up, what is clear is that the companies that are best prepared and in an optimal state of health will have the greatest chance of growth. While some lucky cash-rich organisations will be able to take advantage of the challenging environment and acquire their competitors at bargain prices, the rest will soldier on and look for organic opportunities.</p>
+<div class="boxed">
+<h3 id="treasury-todays-round-up-of-survival-essentials">Here is Treasury Today’s round-up of survival essentials:</h3>
+<ul>
+<li>
+<h5>Do not think a euro break-up is out of the question.</h5>
+<p>It may be unlikely, but nothing is inevitable. Revisit our <a href="#how-to-prepare-for-eurogeddon">tips on contingency planning</a> as your first port of call.</p>
+</li>
+<li>
+<h5>Initiate a detailed overview of your cash position.</h5>
+<p>You may be surprised (pleasantly, even) by what you discover. If you can’t measure and monitor your cash performance, then you can’t be in a position to optimise it.</p>
+</li>
+<li>
+<h5>Do not delay any drive towards centralisation.</h5>
+<p>Not only will centralisation present significant opportunities for economies of scale as well as efficiency gains, it will also enhance overall control. Leverage this crisis to overhaul your treasury structure where possible.</p>
+</li>
+<li>
+<h5>Consider innovative ways of keeping the company’s supply chain healthy.</h5>
+<p>Supplier finance or even vendor finance may be appropriate. Such programmes will also be easier to implement in a centralised treasury environment.</p>
+</li>
+<li>
+<h5>Explore the benefits of local institutions.</h5>
+<p>‘Too big to fail’ is a relative concept; local financial institutions, deemed systemic by smaller states, may present interesting opportunities for depositing cash.</p>
+</li>
+<li>
+<h5>Think again about yield.</h5>
+<p>With smarter strategies on where to place your cash as well as maturity periods, there is still an opportunity to achieve some return. At the same time, investment expectations should be realistically adjusted and investment policies may also need tweaking.</p>
+</li>
+<li>
+<h5>Use the Eurozone crisis to your advantage.</h5>
+<p>Perhaps as a means to put forward a strong case for more efficient resources in the treasury function – from new technology to new staff.</p>
+</li>
+<li>
+<h5>Listen to your peers.</h5>
+<p>Talk to other treasurers about their experiences and how they are changing the way they operate. This kind of insight really can be invaluable.</p>
+</li>
+</ul>
+</div>
+<div class="footnotes">
+<ol>
+<li id="fn:1">
+<p>Greece, Ireland, Italy, Portugal, Spain. <a href="#fnref:1" rev="footnote">↩</a></p>
+</li>
+</ol>
+</div>
+</div>
+<div id="crisis-timeline">
+<h2> </h2>
+<h2>Eurozone crisis timeline</h2>
+<p>To tie in with this week’s publication of our ‘Eurozone: Treasurers’ Survival Guide’ supplement, we have compiled a timeline of the key events of the Eurozone crisis.</p>
+<ol id="timeline">
+<li>
+<data value="1999-01">January 1999</data>
+<p>The euro is launched into action with great political fanfare and hailed as the one of the singular achievements of the European Union (EU).  At the time, sceptics of the European Monetary Union (EMU) argued that the single currency was foremost a political project, with economics taking the back seat; significant structural weaknesses, such as the lack of a fiscal union, were built into the euro’s foundation.  These voices, however, were a minority amid the jubilation of the new currency.</p>
+</li>
+<li>
+<data value="2001-01">January 2001</data>
+<p>Greece becomes the twelfth country to join the Eurozone.  While the expansion of the EMU is welcomed, the country’s history of fiscal irresponsibility highlights concerns among some commentators that, once a country has entered the EMU, there is no longer any incentive to continue the reform of its economy and public finances.  The Growth and Stability Pact, a Eurozone agreement, often called the ‘golden rule,’ that limited budget deficits to 3% of GDP, is criticised as being not powerful enough to restrain member states’ fiscal spending.</p>
+</li>
+<li>
+<data value="2004-11">November 2004</data>
+<p>The Greek government admits that it misled Eurozone member states over its apparent achievement of meeting the fiscal requirements for entry into the EMU.  New statistics are released which reveal Greece’s budget deficit has never been below 3% since 1999, in effect breaking EU entry rules.  The disclosure hints at future trouble down at the line.</p>
+</li>
+<li>
+<data value="2005-03">March 2005</data>
+<p>After successfully hosting the Olympic Games in Athens the year before, Greece’s spending programmes take their toll.  A new government, led by the right-wing New Democracy Party, imposes an austerity budget amid efforts to put the country’s public finances back on track.</p>
+</li>
+<li>
+<data value="2008-09">September 2008</data>
+<p>The structural weaknesses of the euro, such as the lack of a common fiscal system and poor wage and price flexibility across Eurozone member states, erupts in the aftermath of the Global Financial Crisis (GFC) – symbolised by the collapse of Lehman Brothers in September 2008 – following almost a decade-long strategy of low interest rates pursued by the European Central Bank (ECB).  Enormous amounts of private debt are transformed into public debt by means of bank bailouts, and the burdens of several Eurozone governments increase substantially.</p>
+</li>
+<li>
+<data value="2008-12">December 2008</data>
+<p>Since joining the Eurozone, Greece attracts sustained criticism from economists for its apparent reluctance to reform its economy and poor management of its public finances.  Economic difficulties culminate into riots erupting in Athens as the Greek government imposes a budget aimed at cutting its public debt which, at 93% of GDP, is one of the highest in the EU.</p>
+</li>
+<li>
+<data value="2009-10">October 2009</data>
+<p>With the Greek political establishment straining under sustained market pressure and allegations of corruption, the Socialist party wins a snap general election in October 2009 pledging a €3 billion stimulus package to revive the country’s ailing economy.  Heavy selling of Greek stocks and bonds commences as fears mount over Greece’s alleged unwillingness to tackle its deteriorating public finances.</p>
+</li>
+<li>
+<data value="2009-12">December 2009</data>
+<p>The Eurozone crisis enters a new, more uncertain phase as Fitch and Standard &amp; Poor’s, two leading ratings agencies, downgrade Greece’s credit rating.  The downgrades spark a fresh wave of selling in bond markets, highlighting not only the persistent debt problems of Greece, but also other European states as well, such as Ireland and Portugal. George Papandreou, the new Greek prime minister, admits in December that his country’s 2009 budget deficit stands at 12.7%, twice the figure previously published.</p>
+</li>
+<li>
+<data value="2010-04">April 2010</data>
+<p>Standard &amp; Poor’s downgrades Greek bonds to junk status citing serious concerns over the country’s deteriorating finances and its poor economic outlook.  After months of resisting EU pressure to accept international aid – and having been shut out of bond markets by means of prohibitive interest rates - Greece capitulates, making a formal request in late April to the EU for a bailout.</p>
+</li>
+<li>
+<data value="2010-05">May 2010</data>
+<p>The Greek government receives a bailout package to the value of €110 billion for a three-year period, backed by the EU and the International Monetary Fund (IMF), as part of a wider commitment of €750 billion of emergency measures.  Among actions taken was the creation of the European Financial Stability Facility (EFSF), a temporary institution backed by €440 billion in Eurozone guarantees, designed to stem market contagion to the periphery. Greek ten year bond yields fall from a peak of 12.23 to 7.31%.  The bailout, however, ultimately fails to assure markets.</p>
+<p>In a significant and controversial expansion of its remit, the ECB announces that it will purchase Greek, Irish and Portuguese government bonds in the secondary market in an effort to calm the crisis.  Given that the ECB is forbidden by its constitution to finance European governments directly, the central bank’s executive board argues that it will sterilise its purchases of government debt by withdrawing equivalent amounts of liquidity out of the market, so as to neutralise any inflationary effect.  Nevertheless, the move is greeted with strong opposition by Axel Weber, president of the German Bundesbank, who voices his hostility to the ECB’s unprecedented move into fiscal territory.</p>
+</li>
+<li>
+<data value="2010-07">July 2010</data>
+<p>In an attempt to restore market confidence the EU publishes the results of its bank stress tests on the leading financial institutions in Europe, designed to examine whether European banks can withstand another severe economic shock.  Only seven out of a total of 91 banks examined fail to meet the proposed capital requirements, among them Germany’s Hypo Real Estate and Greece’s ATEbank.  The results are greeted with scepticism by the market and the stress test fails to restore confidence in the Eurozone banking system, with many analysts arguing it was not strict enough.</p>
+</li>
+<li>
+<data value="2010-11">November 2010</data>
+<p>Ireland becomes the second Eurozone member state to be bailed out by the EU and IMF, stoking further panic in the market.  The €85 billion package is dependent on the Irish government slashing public spending and reigning in its government deficit that soared in the aftermath of its property bubble collapse.  Meanwhile Greece’s public debt soars to over 142% of GDP, demonstrating further the ineffectiveness of the bailout package earlier in the year.</p>
+</li>
+<li>
+<data value="2011-03">March 2011</data>
+<p>European leaders approve the creation of the European Stability Mechanism (ESM), a permanent €500 billion bailout fund that is set to replace the temporary EFSF when it expires in 2013.  Analysts welcome the development as a belated recognition that Europe requires concrete, permanent measures to tackle the Eurozone crisis.</p>
+</li>
+<li>
+<data value="2011-05">May 2011</data>
+<p>Portugal is bailed out by the EU and the IMF.  After the rescue package is announced, the market begins to turn on larger Eurozone economies, such as Spain and Italy, convinced that European leaders are unable to assert control over the crisis.</p>
+</li>
+<li>
+<data value="2011-06">June 2011</data>
+<p>The yield on Greek ten year bonds continues its steady ascent, hitting 17.78% in mid-June.  Standard &amp; Poor’s cuts Greece’s credit rating to CCC and places the country on a negative outlook over persistent concerns that Greece will default on its debt.  The Greek prime minister calls for a second bailout in order to save the Greek economy.</p>
+</li>
+<li>
+<data value="2011-07">July 2011</data>
+<p>Greece receives a second bailout after political agreement is reached by Eurozone leaders at an emergency summit in Brussels.  The settlement calls for an additional loan package worth €109 billion; the extension of Greece’s repayment terms and a reduction in the cost of servicing its debt; the participation of the private sector in reducing the country’s debt burden; and the granting of new powers of the EFSF to purchase bonds and offer emergency lines of credit to solvent Eurozone countries.  In response, however, Greek ten year bond yields fall only 300 basis points to 14.71%.  Once again, the new rescue plan is criticised by economists as an inadequate response to the gravity of the crisis.</p>
+<p>The results of the European Banking Authority’s second bank stress test are also released in July revealing that 8 out of 90 financial institutions in Europe failed to pass the mark.  The tests again fail to instil confidence in the market, with many market analysts questioning the credibility of the assessment.</p>
+</li>
+<li>
+<data value="2011-08">August 2011</data>
+<p>The ECB announces that it will buy Spanish and Italian bonds, reactivating its once dormant bond purchase programme of 2010.  The commitment is a substantial undertaking given the size of the two economies and leads to questions as to whether the central bank has the firepower to realise its aims in reducing bond yields.  The ECB’s actions constitute the first official recognition by European officials that the Eurozone crisis is spreading towards the heart of the continent.</p>
+</li>
+<li>
+<data value="2011-09">September 2011</data>
+<p>The Eurozone crisis takes on a new momentum with the political framework, both at the European and national level, showing cracks amid escalating turmoil in the market.  Jürgen Stark, a member of the executive board of the ECB, resigns in protest against the central bank’s ‘unorthodox’ policy of bond purchases, a development which highlights the deep divisions within the ECB over its Eurozone rescue strategy.  Italy’s credit rating is downgraded from A+ to A due to the unstable political environment in Rome, while Spain implements a constitutional amendment to keep future budget deficits within a strict limit, with the hope of assuaging market fears about its economy.</p>
+<p>In mid-September, two French banks, Société Générale and Crédit Agricole, are downgraded by Moody’s due to concerns about their holdings of Greek debt.  The downgrade fuels market tension as Eurozone leaders grapple to contain the contagion, and leads to calls that the European banking system - its books laden with Greek debt - should be recapitalised.  Meanwhile the slowdown in the German economy (in the third quarter) adds to Eurozone woes, suggesting that even Europe’s strongest economy faces trouble, further restricting the available avenues to European recovery.</p>
+</li>
+<li>
+<data value="2011-10">October 2011</data>
+<p>Leaders impose a deadline for late October to end the Eurozone crisis decisively.  The crisis has now evolved into three intricately-linked issues: the urgent need to implement a second bailout for Greece; recapitalisation of the European banking system; and the creation of a firewall, in the form of an empowered EFSF, to contain the economic crisis.</p>
+</li>
+<li>
+<data value="2011-11">November 2011</data>
+<p>The Greek government makes the shock announcement of a referendum on the country’s EU membership.  In response EU leaders suspend the €8 billion bailout tranche to the embattled country while uncertainty remains.  Papandreou’s gamble fails to pay off and his government collapses. Stock and bond prices tumble in Europe, America and Asia.  Markets immediately turn on Italy with ten year bond yields rising to above 7.5%, an unsustainable level that saw other periphery economies succumb to bailouts.  Silvio Berlusconi, the Italian prime minister, is forced to while Mario Monti, a former European Commissioner, is selected to lead an emergency government.  Meanwhile Lucas Papademos, a former president of the ECB, heads a new interim administration in Greece.</p>
+<p>These developments arrive within days of the new ECB president beginning his tenure at the helm of the central bank.  Mario Draghi faces the challenge of balancing an effective crisis rescue plan with the central bank’s reputation for a hawkish stance on monetary policy.</p>
+<p>The crisis enters a new phase after a German bond auction fails to attract a number of buyers, with one third of the bonds left unsold.  In late November central banks across the globe surprised markets with a co-ordinated action to avert a pending liquidity crisis.  The Federal Reserve cut the rate at which the ECB borrows short-term dollar loans from 1.1% to 0.6% in an effort to alleviate funding issues for European banks.  Stock markets rally with Germany’s DAX jumping 5.4% and the Dow Jones Industrial Average soaring by 409 points.</p>
+</li>
+<li>
+<data value="2011-12">December 2011</data>
+<p>At an emergency summit in Brussels on 9th December, Britain vetoes proposed treaty changes concerning the creation of new fiscal compact.  Made on the grounds of national interest, the British move means that a two-speed Europe is now an economic reality.  The remaining 26 EU member states vow to press on formulating an intergovernmental treaty ensuring strict budgetary discipline aimed at solving the crisis.  European leaders also decide that the €500 billion ESM will be brought forward by one year. The rescue fund will now become operational in July 2012.  Markets react cautiously to the agreement reached at the summit; by the following Monday enthusiasm already begins to wane.</p>
+<p>Meanwhile, the ECB cuts interest rates by 25 basis points to 1.0%.  In response to the deteriorating funding conditions in the European banking system, Draghi announces additional emergency measures, such as extending ECB bank loans up to three years and relaxing the rules for bank collateral so as to ensure easier conditions for banks to access ECB liquidity.  A consensus now gathers among Eurozone finance ministers that the ECB must form the backbone of Europe’s response to fight the crisis.  The ECB thus far refuses to become lender of last resort, stating that the crisis is foremost a fiscal problem, to be solved in the capitals of Europe.</p>
+</li>
+</ol>
+</div>
+<style type="text/css">
+    #master_2_left_1_addToBasket_NoPriceContactUsButton
+    {
+    display: none;
+    }
+</style></div>
+</div>
+
+</div>]]></complete_body>
+	</node>
+	<node>
+		<category><![CDATA[Handbooks]]></category>
+		<title><![CDATA[Cash Management in the Nordic and Baltic Regions 2011]]></title>
+		<publish_date><![CDATA[ Published: Sep 2011 ]]></publish_date>
+		<hero_image><![CDATA[]]></hero_image>
+		<complete_body><![CDATA[<div class="gs-grid__col gs-grid__col-1-10 gs-grid__col--expand" style="">
+<div class="hero hero--article spaceing">
+<div class="hero__heroarticle__img-wrap">
+</div>
+</div><div class="v-spacing--bottom">
+<h2 class="h2 copy__heading"></h2>
+<h3 class="sub-heading copy__sub-heading"></h3>
+<div class="copy__body"><p>This revamped Handbook is designed to provide corporate treasurers with a detailed insight into the cash management issues that companies face when operating in the Nordic and Baltic regions.</p>
+<br/>
+<a class="button--red-stroke" href="mailto: subscriberservices@treasurytoday.com?subject=Request%20PDF&amp;body=Please send me a PDF of the Cash Management in the Nordic and Baltic Regions Best Practice Handbook.">Request PDF</a>
+<p style="margin-top:1em;"> </p>
+<h3 id="introduction">Introduction</h3>
+<p>This revamped Handbook is designed to provide corporate treasurers with a detailed insight into the cash management issues that companies face when operating in the Nordic and Baltic regions.  We begin by discussing which countries fall under the ‘Nordic’ and ‘Baltic’ labels and then in Section 1, we look at the business landscape in the Nordics and Baltics, discovering how the regions came to be seen as one market.  We also look at the competitiveness of the regions’ individual economies, whilst touching on trends such as the adoption of e-invoicing and the importance of sustainability in the Nordics and Baltics.</p>
+<p>Cash management in the region is complicated by the fact that there are numerous different currencies in use.  In Section 2, therefore, we examine the impact that this multi-currency environment has on pan-regional cash management structures and provide an update on euro adoption across the Nordic and Baltic countries.  As the Baltic states grow closer to the Nordics and all eventually adopt the euro (so far only Estonia has adopted the single currency), it is possible that cash management in the Nordic and Baltic regions may not differ significantly from cash management elsewhere in Europe.</p>
+<p>SEPA and its impact on the region is another topic covered in Section 2, together with the intricacies of cash pooling in the Nordics and Baltics.  Here we explain the most commonly used pooling structures, with a specific focus on the Nordics’ own version of cash pooling, known as ‘single legal account pooling’.  Naturally, cash management products do vary between providers in the regions and we also take a look at distinguishing between the cash management banks in the regions.</p>
+<p>Variation of cash management services and general business practices affecting treasury among the specific countries in the region is an additional challenge.  In Section 3, therefore, we explore each of the countries in the regions on an individual basis, providing a macroeconomic picture, details of the banking sector, as well as an overview of the payments and clearing landscape, investment instruments and tax considerations.</p>
+<p>Finally, in Section 4, we provide a checklist for those companies considering the expansion of their cash management structure into the Nordic and Baltic countries.  This provides treasurers with a strong starting point for their further research into doing business in the regions.</p>
+<p>For more information on the topics covered in this Handbook, readers may also be interested in our Best Practice Handbook, European Cash Management: a practical guide in which we take a broader look at cash management issues.</p></div>
+</div>
+
+</div>]]></complete_body>
+	</node>
+	<node>
+		<category><![CDATA[Handbooks]]></category>
+		<title><![CDATA[Managing the Financial Supply Chain]]></title>
+		<publish_date><![CDATA[ Published: Sep 2010 ]]></publish_date>
+		<hero_image><![CDATA[]]></hero_image>
+		<complete_body><![CDATA[<div class="gs-grid__col gs-grid__col-1-10 gs-grid__col--expand" style="">
+<div class="hero hero--article spaceing">
+<div class="hero__heroarticle__img-wrap">
+</div>
+</div><div class="v-spacing--bottom">
+<h2 class="h2 copy__heading"></h2>
+<h3 class="sub-heading copy__sub-heading"></h3>
+<div class="copy__body"><p>As a direct result of the financial crisis, working capital management and supply chain improvement have become top treasury priorities. While corporates look for efficiency gains to free up working capital, FSCM is helping companies to achieve value throughout their supply chains.</p>
+<br/>
+<a class="button--red-stroke" href="mailto: subscriberservices@treasurytoday.com?subject=Request%20PDF&amp;body=Please send me a PDF of the Managing the Financial Supply Chain Best Practice Handbook.">Request PDF</a>
+<p style="margin-top:1em;"> </p>
+<h3>Preface</h3>
+<p>Working capital management has been a natural focus for corporate treasurers over the last eighteen months.  That focus, coupled with difficult funding conditions, has driven companies to look more heavily towards optimising their financial supply chains.  As a result, the demand for supply chain finance (SCF) solutions has grown tremendously in 2010.</p>
+<p>We have therefore updated this Best Practice Handbook to reflect the increasingly important role of the financial supply chain in today’s treasury environment.  We begin with an overview of the treasurer’s role in financial supply chain management post-crisis.  In Section 1, we also examine the financial effects of physical supply chain disruptions.</p>
+<p>Section 2 of this Handbook provides analytical insight into the trends affecting supply chains today – and how these have evolved over the last 12 months.  Themes explored range from supplier sustainability to increased competition among SCF providers.  We take an objective view of the pros and cons of traditional supply chain financing techniques in Section 3 and also provide an SCF checklist.</p>
+<p>In 2009, worldwide trade volumes fell by 12%.  This has had a profound knock-on effect to trade finance, as we discuss in Section 4 of this Handbook.  We also provide an overview of trade instruments post-crisis, looking at those which provide risk mitigation and those which can free up working capital in the early stages of trade.</p>
+<p>Technology has a critical role to play in today’s financial supply chain processes – not only as a means of monitoring business metrics and improving operational efficiency, but also of enhancing risk management and visibility.  In Section 5 we discuss established and evolving supply chain technologies and examine the role of SWIFT in facilitating trade transactions.</p>
+<p>We go back to basics in Section 6, revisiting the physical and financial supply chain processes.  We look at the most common barriers to efficient financial supply chain management, and how these can be overcome.  We also discuss the fundamentals of working capital management, and provide a useful list of tips for working capital optimisation.</p>
+<p>Choosing between SCF providers is never an easy task.  We outline the key points to consider in Section 7, where we answer frequently asked supply chain questions.  Additional topics include measuring supply chain performance and improving payments reconciliation.</p>
+<p>We hope you will find this handbook useful. As always, we are committed to improving the quality of our research and we welcome any comments or suggestions to <a href="mailto:editorial@treasurytoday.com">editorial@treasurytoday.com</a></p></div>
+</div>
+
+</div>]]></complete_body>
+	</node>
+	<node>
+		<category><![CDATA[Handbooks]]></category>
+		<title><![CDATA[Cash Management in Central Europe]]></title>
+		<publish_date><![CDATA[ Published: Oct 2008 ]]></publish_date>
+		<hero_image><![CDATA[]]></hero_image>
+		<complete_body><![CDATA[<div class="gs-grid__col gs-grid__col-1-10 gs-grid__col--expand" style="">
+<div class="hero hero--article spaceing">
+<div class="hero__heroarticle__img-wrap">
+</div>
+</div><div class="v-spacing--bottom">
+<h2 class="h2 copy__heading"></h2>
+<h3 class="sub-heading copy__sub-heading"></h3>
+<div class="copy__body"><p>This handbook is a comprehensive update of our 2006 report providing current information on issues affecting the nations and the Central European region as a whole. In this handbook we look at the individual countries and the region as a whole, considering the banking and payments landscape and the cash management options open to corporates.</p>
+<p> </p>
+<p><a class="button--red-stroke" href="mailto: subscriberservices@treasurytoday.com?subject=Request%20PDF&amp;body=Please send me a PDF of the Cash Management in Central Europe Best Practice Handbook">Request PDF</a></p>
+<p> </p>
+<h3 id="introduction">Introduction</h3>
+<p>This handbook is a comprehensive update of our 2006 report providing current information on issues affecting the nations and the Central European region as a whole.</p>
+<p>The developing nature of Central Europe and the expanding economies of its individual nations are having a profound effect on Europe. Since becoming members of the European Union, Bulgaria, the Czech Republic, Hungary, Poland, Romania, Slovakia and Slovenia have been impacted by developments in legislation and the introduction of new directives. In this handbook we look at the individual countries and the region as a whole, considering the banking and payments landscape and the cash management options open to corporates.</p>
+<h4 id="adoption-of-the-euro">Adoption of the euro</h4>
+<p>The adoption of the euro remains a pressing issue in the region. Since our last handbook, Slovenia has adopted the single currency, while Slovakia has announced a date for its replacement of the koruna. For the remaining nations, however, adoption of the euro remains a distant objective. The implications of this are beginning to be magnified with the launch of the Single Euro Payments Area (SEPA), one of Europe’s most significant developments in relation to cross-border payments.</p>
+<h4 id="opportunities-and-obstacles">Opportunities and obstacles</h4>
+<p>Throughout this handbook we will be analysing the opportunities for effective cash management and the obstacles that companies may face. While improvements have been made on a number of levels, Central European countries continue to face numerous challenges in their efforts to ensure complete integration with their western peers. We will outline the possibilities for managing cash in the region, look at the diverse range of payment and clearing systems, analyse the potential management structures that can be implemented and highlight the conditions for establishing a regional treasury centre.</p>
+<p>We will also take the opportunity to focus on the cash pool offerings in the region, concluding with the local issues that should be considered from a legal and tax perspective in each country.</p>
+<p>For more information on the topics covered throughout this handbook, readers may be interested in Treasury Today’s Best Practice handbook, European Cash Management, in which we take a broader look at cash management issues in Europe.</p></div>
+</div>
+
+</div>]]></complete_body>
+	</node>
+	<node>
+		<category><![CDATA[Handbooks]]></category>
+		<title><![CDATA[A Guide to SEPA Payment Instruments]]></title>
+		<publish_date><![CDATA[ Published: Jun 2008 ]]></publish_date>
+		<hero_image><![CDATA[]]></hero_image>
+		<complete_body><![CDATA[<div class="gs-grid__col gs-grid__col-1-10 gs-grid__col--expand" style="">
+<div class="hero hero--article spaceing">
+<div class="hero__heroarticle__img-wrap">
+</div>
+</div><div class="v-spacing--bottom">
+<h2 class="h2 copy__heading"></h2>
+<h3 class="sub-heading copy__sub-heading"></h3>
+<div class="copy__body"><p>Launched in January 2008, SEPA heralds an ambitious migration to new euro-wide payment instruments and infrastructures. The gradual roll-out of the SEPA Credit Transfer Scheme and the SEPA Cards Framework and the scheduled launch of the SEPA Direct Debit Scheme by November 2009, bring the European Commission’s vision for the single market several steps closer to realisation.</p>
+<p> </p>
+<a class="button--red-stroke" href="mailto: subscriberservices@treasurytoday.com?subject=Request%20PDF&amp;body=Please send me a PDF of A Guide to SEPA Payment Instruments Best Practice Handbook.">Request PDF</a>
+<p> </p>
+<h3>Introduction</h3>
+<p>The Single Euro Payments Area (SEPA) was launched in January 2008, heralding an ambitious two year migration to new euro-wide payment instruments and infrastructures. The gradual roll-out of the SEPA Credit Transfer Scheme and the SEPA Cards Framework, the publication of the Payment Services Directive in December 2007, and the scheduled launch of the SEPA Direct Debit Scheme (albeit belatedly) by November 2009, bring the European Commission’s vision for the single market several steps closer to realisation.</p>
+<p>Corporate willingness to convert to the new payment instruments is crucial to the success of SEPA. Achieving this starts with ensuring they have the right information. ‘Knowledge is power’ is a well used but fitting cliché as knowing what SEPA is about – its features, processes and infrastructures as well as the issues challenging what may not be a quite so smooth journey to fruition – will lead to a greater understanding of how it impacts and ultimately benefits the individual business.</p>
+<p>This handbook gives a comprehensive overview of SEPA, providing information to help corporates understand the importance of SEPA and its consequences.</p>
+<p>Europe has started one of the largest restructuring exercises ever to occur within the payments industry. Corporates must embrace SEPA in order to achieve the advantages it promises.</p></div>
+</div>
+
+</div>]]></complete_body>
+	</node>
+</data>

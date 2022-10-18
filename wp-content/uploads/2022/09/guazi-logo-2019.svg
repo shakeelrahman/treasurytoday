@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html lang="en" class="ie9 no-js"><![endif]-->
+<!--[if !IE]><!-->
+<html lang="en">
+<!--<![endif]-->
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+    <title>500 Error - Treasury Today</title>
+
+    <style>
+        body {
+            overflow: hidden;
+        }
+
+        html, body {
+            position: relative;
+            min-height: 100%;
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: Roboto,sans-serif;
+        }
+
+        .Container {
+            text-align: center;
+            position: relative;
+        }
+
+        .MainTitle {
+            display: block;
+            font-size: 2rem;
+            font-weight: lighter;
+            text-align: center;
+        }
+
+        .MainDescription {
+            max-width: 50%;
+            font-size: 1.2rem;
+            font-weight: lighter;
+        }
+
+        .MainGraphic {
+            position: relative;
+            margin-bottom: 100px;
+        }
+
+            .MainGraphic img {
+                max-width: 400px;
+            }
+    </style>
+
+</head>
+
+<body>
+    <div class="Container">
+        <div class="MainGraphic">
+            <a href="/">
+                <img src="/assets/img/treasury-today-logo.png" />
+            </a>
+        </div>
+        <h1 class="MainTitle">
+            An error has occurred
+        </h1>
+        <p class="Main Description">
+            Sorry, there was an error on the page - please click on the logo to get the home page or hit 'reload' on your browser in a minute to try again.
+        </p>
+
+    </div>
+</body>
+</html>

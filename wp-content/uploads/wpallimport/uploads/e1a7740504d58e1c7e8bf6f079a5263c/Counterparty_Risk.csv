@@ -1,0 +1,481 @@
+category,title,publish_date,hero_image,complete_body
+Counterparty Risk,The payments and beneficial ownership quagmire of Russian sanctions, Published: May 2022 ,https://treasurytoday.com:443/-/media/images/risk-management/counterparty-risk/2022-05-06-tt-07-b2b__russia-close-on-map-focus-name-357402074__1920x1080.jpg?w=420&usecustomfunctions=1¢ercrop=1&hash=C84E21D9928C97D2529DDEE3FFE5C5AF,"<div class=""gs-grid__col gs-grid__col-1-10 gs-grid__col--expand"" style="""">
+<div class=""hero hero--article "">
+<div class=""hero__heroarticle__img-wrap"">
+<p><em>Sanctions are an extension of government foreign policy and a breach can unleash profound financial and reputational implications. Treasury’s role in ensuring compliance of the unprecedented and sweeping sanctions in response to Russia’s invasion of Ukraine is both vital and complex.</em></p>
+<picture class=""hero__picture"" imgclass="".heroarticle_summary__img""><!--[if IE 9]><video style='display: none;'><![endif]--><source media=""(min-width: 1440px)"" srcset=""https://treasurytoday.com:443/-/media/images/risk-management/counterparty-risk/2022-05-06-tt-07-b2b__russia-close-on-map-focus-name-357402074__1920x1080.jpg?w=1800&amp;usecustomfunctions=1¢ercrop=1&amp;hash=F05AB1C5E977C9107C2687CF04C3E154""/><!--[if IE 9]></video><![endif]--><!--[if IE 9]><video style='display: none;'><![endif]--><source media=""(min-width: 1200px)"" srcset=""https://treasurytoday.com:443/-/media/images/risk-management/counterparty-risk/2022-05-06-tt-07-b2b__russia-close-on-map-focus-name-357402074__1920x1080.jpg?w=1400&amp;usecustomfunctions=1¢ercrop=1&amp;hash=0207351144C8C37BBA3EFD2E119BF5B6""/><!--[if IE 9]></video><![endif]--><!--[if IE 9]><video style='display: none;'><![endif]--><source media=""(min-width: 1024px)"" srcset=""https://treasurytoday.com:443/-/media/images/risk-management/counterparty-risk/2022-05-06-tt-07-b2b__russia-close-on-map-focus-name-357402074__1920x1080.jpg?w=1200&amp;usecustomfunctions=1¢ercrop=1&amp;hash=B4BA778D50C57AD476DF6BA442C70676""/><!--[if IE 9]></video><![endif]--><!--[if IE 9]><video style='display: none;'><![endif]--><source media=""(min-width: 769px)"" srcset=""https://treasurytoday.com:443/-/media/images/risk-management/counterparty-risk/2022-05-06-tt-07-b2b__russia-close-on-map-focus-name-357402074__1920x1080.jpg?w=1024&amp;usecustomfunctions=1¢ercrop=1&amp;hash=8E97871DFA0FE1D4A90D1AC901899F45""/><!--[if IE 9]></video><![endif]--><!--[if IE 9]><video style='display: none;'><![endif]--><source media=""(min-width: 550px)"" srcset=""https://treasurytoday.com:443/-/media/images/risk-management/counterparty-risk/2022-05-06-tt-07-b2b__russia-close-on-map-focus-name-357402074__1920x1080.jpg?w=638&amp;usecustomfunctions=1¢ercrop=1&amp;hash=54CC89380029AB1DB406FC1E9AD419E6""/><!--[if IE 9]></video><![endif]--><img alt=""Close up of Russia on a map"" class="".heroarticle_summary__img"" src=""https://treasurytoday.com:443/-/media/images/risk-management/counterparty-risk/2022-05-06-tt-07-b2b__russia-close-on-map-focus-name-357402074__1920x1080.jpg?w=420&amp;usecustomfunctions=1¢ercrop=1&amp;hash=C84E21D9928C97D2529DDEE3FFE5C5AF"" srcset=""https://treasurytoday.com:443/-/media/images/risk-management/counterparty-risk/2022-05-06-tt-07-b2b__russia-close-on-map-focus-name-357402074__1920x1080.jpg?w=420&amp;usecustomfunctions=1¢ercrop=1&amp;hash=C84E21D9928C97D2529DDEE3FFE5C5AF""/></picture> </div>
+</div><div class=""v-spacing--bottom"">
+<h2 class=""h2 copy__heading""></h2>
+<h3 class=""sub-heading copy__sub-heading""></h3>
+<div class=""copy__body""><p>Ever since western economies imposed sweeping and unprecedented sanctions on Russia’s oligarchs, central bank and SOEs, international banks have scrambled to manage their Russian exposure, particularly in their investment banking operations, alert to suspect shell companies and third parties, or sanctioned entities evading SWIFT to send and receive funds via crypto transactions. Meanwhile, corporates have rushed to ascertain beneficial ownership in their supply chains and ensure no payments to or from sanctioned entities pass through treasury, juggling the challenge of ensuring the company fulfils its contractual obligations while remaining inside covenants as the rulebook for doing business in Russia is changed for the foreseeable future.</p>
+<p>Sanctions have been around for years, and companies are well prepared with controls and screening processes. But even corporates with the most robust sanctions programmes and limited direct exposure to sanctioned entities were caught unaware by the scale and speed of their imposition in February 2022. “We have a well-defined process that involves sanctions checks on all our customers, vendors and banks. We were able to ease the latest Russian sanctions into this existing compliance structure however the breadth and velocity in which they were implemented was challenging,” says Dubai-based Toby Shore, Senior Director and Group Treasurer at Emirates Global Aluminium, one of the world’s biggest aluminium producers where minimal Russian exposure in dollar terms rests in a handful of relationships. Despite the UAE not imposing any sanctions on Russia, the risk of a breach of sanctions would be far reaching, especially regarding financial covenants in syndicated financing documents with US-based lenders, including multilateral agencies. “A breach of sanctions could cause large reputational damage to EGA as well as possible fines and the financing being called in,” says Shore.</p>
+<h4 id=""payments"">Payments</h4>
+<p>For many companies with Russian exposure, one of the biggest treasury challenges has manifest in paid for goods not being delivered bringing a new level of risk into pre-payment structures. Although Russian entities are still legally able to export their goods, transport is scarce. Witness how container shipping lines have suspended new bookings to Russia for fear of carrying sanctioned cargo while Europe’s ports have clogged up because of customs checks to comply with sanctions. Elsewhere grain, iron ore and oil exports from the Black Sea are stuck after the region was classified as a high-risk war zone by the Joint War Committee, an advisory body that guides insurers.</p>
+<p>“Pre-paying for goods and services with entities in sanctioned countries during times of geopolitical tension is a first order of risk,” says payments expert Natasha de Terán, former Head of Corporate Affairs at SWIFT, a member of the Bank of England’s CBDC Engagement Forum and the author of “The Pay Off: How changing the way we pay changes everything“. She notes that the due diligence cost incurred by banks seeking to execute legitimate Russian payments on behalf of clients is likely to have risen to such an extent that the fees they can charge for doing so will have become punitive for their clients, especially when the cost of currency volatility on the conversion is factored in. And this is on the assumption that corporates can find banks willing to transact on their behalf in the first place. “Banks can prevent you doing what could be legitimate because the legal and reputational risk they themselves face is so significant; the uncertainty and complexity of existing sanctions, coupled with the likelihood of sanctions escalation means they will often over-comply with sanctions. Banks may often refuse to deal with entities because they might be sanctioned in the future, or because they are on another country’s sanctions list,” she explains.</p>
+<h4 id=""beneficial-ownership"">Beneficial ownership</h4>
+<p>The impact of sanctions on corporate supply chains holds another layer of even more complex and onerous processes. Companies are scrambling to ascertain the true ownership structures of their Russian customers, suppliers, partners, service providers or contractors in what can amount to thousands of relationships lest they are owned by a sanctioned entity. Until now, many corporates selling and buying uncontroversial Russian products had no obligation to know the ownership structures of their customers in this kind of depth, says Andrew Henderson, Head of Due Diligence Proposition at LSEG and an expert on third-party risk. “They have been under no obligation to know the ownership structure behind their customer but in a significant change, they now need to know ultimate ownership.”</p>
+<p>The process is particularly challenging when it comes to ascertaining the ownership of companies in the supply chain. “It can be very difficult to see the whole ownership chain of a business,” explains Heather Robinson, Head of FS Operations at KonexoUK, a division of Eversheds Sutherland who reports an upcoming dramatic increase in companies’ due diligence workload. “Before, due diligence typically involved being able to identify beneficial owners of anything more than 20% of a business, dependent on risk posed to the business and the risk appetite of the firm. Now, our clients say they need to know the ownership structure down who owns 1% of the business.”</p>
+<h4 id=""technology"">Technology</h4>
+<p>Getting the due diligence and onboarding right has pushed technology centre stage. Corporates can no longer rely solely on banks’ screening technology to manage their sanctions risk and need to integrate sanctions screening tools into their own treasury management system (TMS) or use third-party screening programmes to flag any suspicious transactions. Technology is a vital tool, agrees LSEG’s Henderson who notes that once companies have identified beneficial ownership, they can apply sanction screens in a workflow process. “For most of our clients, sanctions are just one of the risks in their supply chain or distribution channel but the rate of change in sanctions has increased their focus,” says LSEG’s Henderson.</p>
+<p>That said, many companies are relying on manual processes to check the sanctions list (which in the early weeks of the war increased by over 300 names on one day) with their customer base. Sifting through a paper trail written in Russian to ascertain beneficial ownership is daunting enough, especially combined with different countries having different sanctions. “It’s not a one size fits all,” says Robinson, “Companies are really feeling pressure in terms of screening and the volume of changes because of the reputational pressure of being caught out.” Next, companies need to put monitoring processes in place and stay across any changes to the list in a case management process that incorporates legal advice. “If these processes are weak, companies will find themselves with a book of customers they don’t want,” warns Robinson.</p>
+<h4 id=""fallout"">Fallout</h4>
+<p>Sweeping sanctions against Russia have also had important and wide-reaching ripple effects. EGA – with no direct exposure to sanctioned companies or people – has still felt the fallout, particularly manifest in restricted access to SWIFT. The company had contractual obligations to honour payments to its Russian suppliers incurred before the announcement of the sanctions, but the avenue to remit funds dramatically narrowed and became more complex, explains Shore. “In another twist, the compulsory conversion of FX into roubles by Russia’s central bank caused further challenges in meeting our contractual commitments,” he adds.</p>
+<p>Western companies left unable to pay unsanctioned Russian customers and clients because banks compliance teams won’t authorise or process payments or offer trade finance is now commonplace, agrees LSEG’s Henderson. “If a company can’t pay clients and customers in the normal way, they aren’t going to be doing much business and it’s causing another challenge. Many companies are having to stop doing business with Russian entities whether they are sanctioned or not.” And it’s just as much of a factor for corporates in countries that haven’t imposed sanctions on Russia because failure to comply could trip secondary sanctions. That said, experts also report a merry go round of onboarding and offboarding whereby corporates offboard a client because they are outside their risk appetite, only for them to onboard with others.</p>
+<h4 id=""the-future"">The future</h4>
+<p>Small companies conducting short-term, risk-free transactions will continue – or return – to doing business with unsanctioned Russian entities. However, once they’ve left, large companies and banks will be very slow to return to Russia because of the cost and reputational risk. When sanctions were lifted against Iran in 2016, big business proved very reluctant to return. “Sanctions are easier to put on than take off,” says de Terán.</p>
+<p>Changes to today’s FX processes could be another long-term consequence. Currencies have been weaponised by the war, illustrated in western economies freezing Russia’s foreign currency holdings in overseas central banks. One argument, increasingly heard, suggests that countries like India, Brazil and China won’t want to build large allocations to dollars overseas that could be confiscated if they incur the wrath of the US, challenging the idea that, as the idiom goes, dollars are as safe as houses. It could lead to corporates in these countries having more currency pools abroad or extending out their hedging programmes. When it comes to strategic imports, countries might even request payment in their local currency, or go through other currencies than the dollar. “From a treasurer’s point of view, the world starts to look a bit more complicated,” says de Terán. In contrast, although EGA’s Shore agrees that longer-term there may be greater calls from some quarters to move away from the US dollar as the world’s global currency, it is unlikely any time in the immediate future. “The lack of a viable alternative to the US dollar will maintain its primacy in global trade,” he says.</p>
+<p>Could crypto begin to fill the gap in another long-term consequence? At the moment, treasury teams need to be equally (if not even more) wary of crypto transactions and particularly mindful of customers offering to pay or receive payment with crypto because they can’t pay via banks. “While crypto is not bad by itself, it isn’t necessarily an alternative. Even presuming you are legally allowed to buy the goods in question and that the seller itself is not subject to any sanctions, your bank may not be willing to bank the funds once you receive them, so you will be left holding crypto you can’t necessarily use and left carrying the ‘currency’ risk.” Indeed, she believes that cryptocurrencies are rarely used in a meaningful way for payments except between crypto currencies themselves – so, for example, a crypto trader might sell bitcoin and buy a stablecoin, says Tether, before reinvesting – much as you might sell out stocks and hold cash.</p>
+<p>In one positive aside, experts conclude that compliance teams will be given a degree of slack by the regulator. “There isn’t zero tolerance to getting it wrong,” explains Robinson. “But there is a very low tolerance to getting it wrong.” If a company breaches sanction is a minor way, making one payment to a sanctioned entity, a declaration could suffice; any more breeches will bring an investigation, scrutiny and expose control weaknesses. “The penalty for getting it wrong can be huge but it is a spectrum; corporates should act quickly and put their controls in place,” concludes Robinson.</p></div>
+</div>
+
+</div>"
+Counterparty Risk,Managing counterparty risk, Published: Sep 2017 ,https://treasurytoday.com:443/-/media/images/risk-management/counterparty-risk/double-exposurebusiness-team-meeting-present-investor-ss504520198.jpg?w=420&usecustomfunctions=1¢ercrop=1&hash=075AE191D07CABF369E29E26F0382C1C,"<div class=""gs-grid__col gs-grid__col-1-10 gs-grid__col--expand"" style="""">
+<div class=""hero hero--article spaceing"">
+<div class=""hero__heroarticle__img-wrap"">
+<picture class=""hero__picture"" imgclass=""heroarticle__img""><!--[if IE 9]><video style='display: none;'><![endif]--><source media=""(min-width: 1440px)"" srcset=""https://treasurytoday.com:443/-/media/images/risk-management/counterparty-risk/double-exposurebusiness-team-meeting-present-investor-ss504520198.jpg?w=1800&amp;usecustomfunctions=1¢ercrop=1&amp;hash=E74365650F45D8463689F81FA11E3E7E""/><!--[if IE 9]></video><![endif]--><!--[if IE 9]><video style='display: none;'><![endif]--><source media=""(min-width: 1200px)"" srcset=""https://treasurytoday.com:443/-/media/images/risk-management/counterparty-risk/double-exposurebusiness-team-meeting-present-investor-ss504520198.jpg?w=1400&amp;usecustomfunctions=1¢ercrop=1&amp;hash=FD72A1D61F2A42706DBE8B141E41A76D""/><!--[if IE 9]></video><![endif]--><!--[if IE 9]><video style='display: none;'><![endif]--><source media=""(min-width: 1024px)"" srcset=""https://treasurytoday.com:443/-/media/images/risk-management/counterparty-risk/double-exposurebusiness-team-meeting-present-investor-ss504520198.jpg?w=1200&amp;usecustomfunctions=1¢ercrop=1&amp;hash=81BCECC9C8269FD4D26EA76DC06475A9""/><!--[if IE 9]></video><![endif]--><!--[if IE 9]><video style='display: none;'><![endif]--><source media=""(min-width: 769px)"" srcset=""https://treasurytoday.com:443/-/media/images/risk-management/counterparty-risk/double-exposurebusiness-team-meeting-present-investor-ss504520198.jpg?w=1024&amp;usecustomfunctions=1¢ercrop=1&amp;hash=AF70B1099966ED179731BCFCC5304402""/><!--[if IE 9]></video><![endif]--><!--[if IE 9]><video style='display: none;'><![endif]--><source media=""(min-width: 550px)"" srcset=""https://treasurytoday.com:443/-/media/images/risk-management/counterparty-risk/double-exposurebusiness-team-meeting-present-investor-ss504520198.jpg?w=638&amp;usecustomfunctions=1¢ercrop=1&amp;hash=88389F4220CC24C5CB8C5A074B1AA83C""/><!--[if IE 9]></video><![endif]--><img alt=""Double exposure of person on laptop and city"" class=""heroarticle__img"" src=""https://treasurytoday.com:443/-/media/images/risk-management/counterparty-risk/double-exposurebusiness-team-meeting-present-investor-ss504520198.jpg?w=420&amp;usecustomfunctions=1¢ercrop=1&amp;hash=075AE191D07CABF369E29E26F0382C1C"" srcset=""https://treasurytoday.com:443/-/media/images/risk-management/counterparty-risk/double-exposurebusiness-team-meeting-present-investor-ss504520198.jpg?w=420&amp;usecustomfunctions=1¢ercrop=1&amp;hash=075AE191D07CABF369E29E26F0382C1C""/></picture> </div>
+</div><div class=""v-spacing--bottom"">
+<h2 class=""h2 copy__heading""></h2>
+<h3 class=""sub-heading copy__sub-heading""></h3>
+<div class=""copy__body""><p><em>Counterparty risk increasingly covers many different types of risk – and many different types of counterparty. How has this area evolved over the last decade, and what techniques can treasurers use to manage their risk exposures?</em></p>
+<p>Corporate treasurers are required to manage many different types of risk – and one category which has been the focus of considerable attention in recent years is that of counterparty risk. This is an area which most treasurers will need to consider to some extent. A survey published earlier this year by the Association for Financial Professionals (AFP) on the strategic role of the treasury found that 49% of respondents played a lead role in counterparty risk analysis, with 24% playing a supporting role.</p>
+<p>At its most basic level, counterparty risk refers to the risk that a counterparty will fail to meet its contractual obligations. In practice, however, this is a broad term which encompasses many different types of risk – and, indeed, many different types of counterparty. ES Venkat, Head of Asia Pacific Treasury Product Management at Bank of America Merrill Lynch, explains that counterparty risk incorporates a number of different elements, including financial investments with counterparties, bank relationships and relationships with suppliers.</p>
+<p>Philipe Jaccard, Head of Liquidity at ANZ, likewise sees counterparty risk as a topic affecting many different types of relationship. “Counterparty risk usually refers to financial institutions such as banks, insurance companies, broker dealers, asset managers, custodians and commodity traders,” he says. “Commercial counterparties should also be included since they are the main sources of cash inflows and outflows.”</p>
+<p>As such, counterparty risk includes a range of scenarios, such as the risk that the failure of a bank could result in the loss of a company’s deposits, or that changes to a bank’s lending policy could affect the company’s access to financing. Likewise, the company could suffer financial loss if the counterparty in a derivatives transaction failed to meet its obligations. Where supply chain exposures are concerned, disruptions in the supply chain could result in essential deliveries being delayed, incomplete or even failing to arrive at all – or customers could default on their payments, potentially resulting in liquidity problems.</p>
+<p>With so many possible scenarios, it should be no surprise that counterparty risk is also connected to many other types of risk exposure. “If I look at the categories of risk that treasurers are focusing on at the primary level, these include credit risk, compliance risk and reputational risk,” says Venkat. “On the secondary level, they also need to consider operational risk, strategic risk, liquidity risk and market risk.”</p>
+<p>The possibility of an adverse event leading to reputational damage is a particular concern for many companies in Asia. Aon’s Global Risk Management Survey 2017, which surveyed 2,000 respondents from public and private companies around the world, found that respondents in Asia Pacific ranked damage to reputation/brand as their top risk, followed by regulatory/legislative changes, increasing competition and failure to innovate or meet customer needs.</p>
+<h3 id=""changing-landscape"">Changing landscape</h3>
+<p>Counterparty risk management is notable in that the parameters of this topic have shifted considerably over the last decade. For one thing, regulatory developments in recent years have made compliance risk a greater concern than in the past. “Where compliance risk is concerned, the rules are getting tighter and the need for transparency is growing,” says Venkat. “The amount of due diligence that treasurers need to undertake on their counterparties has become enormous, resulting in an additional burden.”</p>
+<p>More widely, recent years have seen a notable shift in terms of the way in which counterparty risk is assessed. As Jaccard points out, “The issues related to counterparty risk have evolved over time, and can be divided into pre-global financial crisis and Basel III, and post-GFC and Basel III.” Before the financial crisis and Basel III, Jaccard says that counterparty risk was typically assessed by rating agencies on a different scale from corporates. “For example, the rating of financial institutions was done on the basis of the financial institutions’ quality of capital. Settlement risk was usually classified as a systemic risk related to a country’s financial infrastructure eg payment systems.”</p>
+<p>He adds that at this point, pricing often “glossed out” specific counterparty risks. “Libor was one size fits all and open to manipulations,” he adds. “Control was managed purely in terms of limits, not price, and was often loosely enforced and only reported at quarter end.” In addition, Jaccard says that liquidity risk did not feature in the assessment of counterparty risk – and “liquidity risk arising from commercial activities was usually out of scope”.</p>
+<h3 id=""after-the-financial-crisis"">After the financial crisis</h3>
+<p>Since the financial crisis and the arrival of Basel III, Jaccard says that financial institutions are now more tightly regulated by specialised regulators that are focused on a segment of the industry. He points out that the measures used by rating agencies to assess financial institutions “have been vastly expanded to cover credit, settlement, liquidity and regulatory risks”.</p>
+<p>Jaccard notes that under Basel III, banks have had to meet higher capital requirements and liquidity requirements. “The key measures of liquidity are the coverage ratio, forcing banks to maintain a buffer of high quality assets to insure a risk of cash outflow,” he says. “On the flip side of the balance sheet, banks must maintain a higher ratio of long-term debt or operating account deposits, which are considered as good as long-term debt because their operational nature makes them hard to move.” Jaccard adds that various factors are applied to operational deposit to assess their stability – “for example, retail deposits are assumed to be 100% stable while corporate deposits are assumed at only 50%”.</p>
+<p>At the same time, Jaccard says that a number of other developments have affected the management of counterparty risk since the financial crisis. For one thing, he notes that market-wide pricing such as Libor has not fared well because one size no longer fits all. At the same time, issues such as settlement and liquidity risk have become top of mind, with liquidity risk now extended to include commercial counterparties such as suppliers and customers.</p>
+<h3 id=""looking-past-credit-ratings"">Looking past credit ratings</h3>
+<p>One issue which came to light following the financial crisis was the disadvantage of relying on external credit ratings when monitoring bank risk. As David Blair, an independent treasury consultant based in Singapore, points out, the global financial crisis “showed us painfully” that credit ratings should not be relied upon. This was particularly underlined by the fact that Lehman Brothers maintained an investment grade rating until its collapse in 2008.</p>
+<p>Subsequently, Blair says that some larger treasuries began to do their own credit analysis – but with such large volumes of data to analyse, it is unrealistic for smaller treasury teams to follow suit. While some treasurers have focused their attention on credit default swap spreads, Blair says that these display a level of volatility which is at odds with a treasurer’s need for operational effectiveness. He argues that implied ratings can provide a more stable value, noting that these can be readily accessed by treasurers who use market data providers.</p>
+<p>Despite their limitations, credit ratings continue to play an important role in counterparty risk management. The FIS survey found that 92% of treasurers use external credit ratings to categorise their banks from a risk standpoint. However, the survey also found that many are adopting a more proactive approach, with 68% looking at country/region risk and 58% factoring industry into their risk evaluation.</p>
+<h3 id=""overcoming-the-challenges"">Overcoming the challenges</h3>
+<p>Managing all of the risks included within the category of counterparty risk can be a challenging task. A survey published last year by FIS about treasury risk management and regulations found that 56% of respondents indicated moderate/severe difficult in the area of managing credit risk to commercial counterparties. Meanwhile, 54% of respondents cited difficulties in managing bank counterparty risk.</p>
+<p>The way in which counterparty risk is approached will vary for different companies depending on their geographical footprint, their business model and their banking and investment strategy. When it comes to managing counterparty risk, Venkat says there are no shortcuts. “Treasurers need to put a robust risk framework and governance model in place and then see how they are managing each of the relevant categories of risk,” he says.</p>
+<p>Venkat points out that treasurers may face internal as well as external challenges. “Internally, it is important to get the Board, management and all employees to accept the need for a strong risk culture and framework,” he says. “However, selling that idea can be challenging as there are conflicting priorities between different departments: sales wants to sell more; treasury wants to achieve a higher yield on investments and purchasing wants to get the cheapest deals. It is important to get all of these competing priorities on the same page within the acceptable risk limits.”</p>
+<p>In order to address these challenges effectively, companies should have a clear counterparty risk management policy in place. This should define the types of counterparty risk exposure incurred by the company and set out how different risks should be identified and monitored, as well as defining the responsibilities of relevant people within the organisation. It should also detail the treasury’s eligible counterparties and set out the criteria which any new counterparties will need to fulfil before being added to the list. Parameters may be put in place for different types of counterparty.</p>
+<h3 id=""managing-counterparty-risk-in-practice"">Managing counterparty risk in practice</h3>
+<p>Kenneth Ng is Corporate Treasurer at DFS Group, a luxury retailer headquartered in Hong Kong. According to Ng, the company has paid more attention to managing its counterparty risk since the financial crisis, using daily monitoring to keep track of its risks.</p>
+<p>As such, DFS Group uses a number of strategies to manage its exposures. “From a funding perspective, DFS limits its cash balance with each bank group,” says Ng. “From an operating perspective, DFS diversifies its risk by working with different banks simultaneously, and by utilising bank-independent platforms for forex trading and payment services.” When it comes to overcoming the challenges, Ng says, “We need to balance work efficiency and risk exposure management. Clear and frank communication is important not only within the company, but also with banks.”</p>
+<h3 id=""managing-the-risks"">Managing the risks</h3>
+<p>The diverse nature of counterparty risk means that different tools and techniques can be used to mitigate the different exposures which come under this umbrella. For financial institution counterparty risk, for example, Jaccard says that treasurers need to establish strict counterparty limits for assets and liabilities by currencies and jurisdictions. “These need to be maintained all the time, approved by the board and monitored daily.”</p>
+<p>He points out that treasurers also need to diversify their counterparty risk – although this creates a challenge in terms of cost, as diversification means that the counterparty will not be limited to the lower cost providers. “Also, this creates a challenge with the operational effort of moving assets and liabilities to maintain limits.”</p>
+<p>Where different types of counterparty risk are concerned, Jaccard points out that there are other ways that treasurers can mitigate counterparty risk. “They can expand supply chain financing opportunities such as longer-term payments from suppliers and shorter terms from customers. Also, they can go beyond cash forecasting to stress their ability to survive in a cash crunch, for example the impact of an accident for an airline, or running out of supplies.”</p>
+<p>Meanwhile, companies can manage the risks associated with accounts receivable by undertaking rigorous credit checks before extending credit to customers, as well as by monitoring any changes in their payment behaviour.</p>
+<p>In conclusion, managing counterparty risk is an important element of the treasurer’s role, and one which has become more challenging in recent years. By managing this area effectively, treasurers can reduce the risk that a counterparty default will result in negative consequences for the company – but this requires a proactive and rigorous approach.</p></div>
+</div>
+
+</div>"
+Counterparty Risk,Dow Corning Adam Smith Webinar, Published: Jan 2016 ,,"<div class=""gs-grid__col gs-grid__col-1-10 gs-grid__col--expand"" style="""">
+<div class=""hero hero--article spaceing"">
+<div class=""hero__heroarticle__img-wrap"">
+</div>
+</div><div class=""v-spacing--bottom"">
+<h2 class=""h2 copy__heading"">Want to know the secret to a good night’s sleep? Mitigate your risks</h2>
+<h3 class=""sub-heading copy__sub-heading""></h3>
+<div class=""copy__body""><p><strong><img alt=""Dow Corning logo"" height=""41"" src=""https://treasurytoday.com:443/-/media/logos/dow-corning-logo-2015-90x41.png?la=en&amp;hash=D146FA1849E757BB149CDDEE31902663"" width=""90""/></strong></p>
+<p><strong>Adam Smith Awards Winner – Best Risk Management Solution</strong></p>
+<p>Dow Corning had $2bn plus in cash and investments and protecting this from counterparty default was a major challenge. However, their counterparty risk management approach had historically fallen short of industry standards. The management approach involved a considerable amount of manual monitoring, was primarily reactive vs proactive and was limited in scope. John Coon, Global Treasury Manager explains how the company mobilised its resources to build a Counterparty Risk Dashboard to become a fully automated one-stop-shop for treasury.</p>
+<p>This webinar was held on Wednesday 20th January 2016.</p>
+<div style=""text-align:center;"">
+<a class=""button-block button--red-stroke"" href=""https://treasurytoday.com:443/-/media/pdf/webinar-slides/tt-2016-01-20-webinar-dow-corning-slidepack.pdf?la=en&amp;hash=37A36E913A3778C45B5F911C7C5AB02D"" onclick=""_gaq.push(['_trackEvent','Download','PDF',this.href]);"" target=""_blank"">Download slide pack</a>
+</div></div>
+</div>
+<div class=""video-panel v-spacing--bottom"" data-component=""video-panel"" data-height="""" data-videourl=""https://vimeo.com/526223575"" data-width="""">
+<div class=""video-panel__item"">
+<a class=""video-panel__link"" href=""#video-player"">
+<img src=""https://treasurytoday.com:443/-/media/images/risk-management/counterparty-risk/tt-2016-01-20-webinar-dow-corning-splashscreen.jpg""/>
+<span class=""video-panel--overlay"">
+<span class=""icon-play"">Watch video</span>
+</span>
+</a>
+</div>
+</div>
+<div class=""v-spacing--bottom highlight-block"">
+<h2 class=""h3 copy__heading"">Questions asked throughout the webinar</h2>
+<div class=""copy__body""><ul>
+<li>
+<p>How does lending relationship affect the amount of risk you will take with a counterparty? Eg do you have any large relationship banks who you do not place any funds with or do you make exceptions to the model? <strong>(09:13)</strong></p>
+</li>
+<li>
+<p>Is this dashboard designed in-house or by outside company, this is something I would like to use for my own role in Treasury. <strong>(15:41)</strong></p>
+</li>
+<li>
+<p>What is the benefit of linking the counterparty model to TMS? <strong>(18:42)</strong></p>
+</li>
+<li>
+<p>What TMS system/provider do you use? <strong>(20:12)</strong></p>
+</li>
+<li>
+<p>How do you treat subsidiaries that are not rated? Do you consider them as having the same credit risk of the parent bank? <strong>(20:30)</strong></p>
+</li>
+<li>
+<p>Do you ever override your model and place a lower credit limit on a particular banking counterparty? <strong>(22:55)</strong></p>
+</li>
+<li>
+<p>What are the greatest benefits of the dashboard? <strong>(24:00)</strong></p>
+</li>
+<li>
+<p>Since the Bloomberg Risk Model includes a variety of metrics in coming up with the score (CDS, share price, ratings...) why not just use this score? <strong>(25:14)</strong></p>
+</li>
+<li>
+<p>What are the costs involved (as well in terms of employees) for running this platform? <strong>(26:44)</strong></p>
+</li>
+<li>
+<p>Have these models been back-tested? Is it possible with so few data points? <strong>(27:32)</strong></p>
+</li>
+</ul></div>
+</div>
+
+</div>"
+Counterparty Risk,Counterparty risk: know your limits, Published: Jul 2014 ,https://treasurytoday.com:443/-/media/images/risk-management/counterparty-risk/ss-speedometer-and-very-fast-cars-on-highway-148962476.jpg?w=420&usecustomfunctions=1¢ercrop=1&hash=317EC41011978653FFC35FEE901880FE,"<div class=""gs-grid__col gs-grid__col-1-10 gs-grid__col--expand"" style="""">
+<div class=""hero hero--article spaceing"">
+<div class=""hero__heroarticle__img-wrap"">
+<picture class=""hero__picture"" imgclass=""heroarticle__img""><!--[if IE 9]><video style='display: none;'><![endif]--><source media=""(min-width: 1440px)"" srcset=""https://treasurytoday.com:443/-/media/images/risk-management/counterparty-risk/ss-speedometer-and-very-fast-cars-on-highway-148962476.jpg?w=1800&amp;usecustomfunctions=1¢ercrop=1&amp;hash=F27BBC7B395E6E7ECE8B3D2A46AA0051""/><!--[if IE 9]></video><![endif]--><!--[if IE 9]><video style='display: none;'><![endif]--><source media=""(min-width: 1200px)"" srcset=""https://treasurytoday.com:443/-/media/images/risk-management/counterparty-risk/ss-speedometer-and-very-fast-cars-on-highway-148962476.jpg?w=1400&amp;usecustomfunctions=1¢ercrop=1&amp;hash=EE348F4FA50F04450DCBE22F8CCA461E""/><!--[if IE 9]></video><![endif]--><!--[if IE 9]><video style='display: none;'><![endif]--><source media=""(min-width: 1024px)"" srcset=""https://treasurytoday.com:443/-/media/images/risk-management/counterparty-risk/ss-speedometer-and-very-fast-cars-on-highway-148962476.jpg?w=1200&amp;usecustomfunctions=1¢ercrop=1&amp;hash=DDFC6694A3438174B09302A80873FB6A""/><!--[if IE 9]></video><![endif]--><!--[if IE 9]><video style='display: none;'><![endif]--><source media=""(min-width: 769px)"" srcset=""https://treasurytoday.com:443/-/media/images/risk-management/counterparty-risk/ss-speedometer-and-very-fast-cars-on-highway-148962476.jpg?w=1024&amp;usecustomfunctions=1¢ercrop=1&amp;hash=79FBFDDEE570953241FC213815C4EF3B""/><!--[if IE 9]></video><![endif]--><!--[if IE 9]><video style='display: none;'><![endif]--><source media=""(min-width: 550px)"" srcset=""https://treasurytoday.com:443/-/media/images/risk-management/counterparty-risk/ss-speedometer-and-very-fast-cars-on-highway-148962476.jpg?w=638&amp;usecustomfunctions=1¢ercrop=1&amp;hash=0339CAD369F56E85B29B75313873D547""/><!--[if IE 9]></video><![endif]--><img alt=""Speedometer with very fast cars on highway"" class=""heroarticle__img"" src=""https://treasurytoday.com:443/-/media/images/risk-management/counterparty-risk/ss-speedometer-and-very-fast-cars-on-highway-148962476.jpg?w=420&amp;usecustomfunctions=1¢ercrop=1&amp;hash=317EC41011978653FFC35FEE901880FE"" srcset=""https://treasurytoday.com:443/-/media/images/risk-management/counterparty-risk/ss-speedometer-and-very-fast-cars-on-highway-148962476.jpg?w=420&amp;usecustomfunctions=1¢ercrop=1&amp;hash=317EC41011978653FFC35FEE901880FE""/></picture> </div>
+</div><div class=""v-spacing--bottom"">
+<h2 class=""h2 copy__heading""></h2>
+<h3 class=""sub-heading copy__sub-heading""></h3>
+<div class=""copy__body""><p><em>In simple terms, counterparty risk is defined as the possibility that someone you do business with will be unable to meet their obligations to you. The higher the odds of a default are, the higher the level of counterparty risk. This is all well and good on paper, but as any treasurer knows, counterparty risk is far more nuanced in reality. It’s a multi-faceted threat that is constantly changing and evolving. In this article, we re-emphasise the need for treasurers to keep on top of counterparty risks, examining both existing and emerging threats.</em></p>
+<p>In the not so distant past, the majority of corporate counterparty risk management frameworks were based on credit ratings on the grounds that they provide simple and independent metrics of creditworthiness. There is no need to explain the negatives of this over-reliance on credit ratings, which have been well documented in the global press. One positive impact of this dependency, however, was that it functioned as a wake-up call to banks, ratings agencies and corporates alike.</p>
+<p>Yet despite the significant progress that has been made post-crisis in understanding and managing counterparty risk, many corporate organisations still lack formal counterparty risk exposure policies or frameworks, not to mention the appropriate knowledge or tools to analyse and monitor these exposures. So how can treasurers stay on top of counterparty risk?</p>
+<h3 id=""start-at-the-source"">Start at the source</h3>
+<p>Effective measurement and control of counterparty risk starts with identifying the different sources of risk facing the organisation. The following table, while by no means exhaustive, provides a good starting point, outlining a number of traditional sources of counterparty risk.</p>
+<p>In addition to these more traditional sources of counterparty risk, new threats are constantly emerging. One of these is the risk of working with corrupt or ‘undesirable’ counterparties. Indeed, there is a growing global trend for both regulators and consumers to hold corporates accountable for the actions of the third parties that they choose to interact with.</p>
+<p>“As such, organisations cannot afford to neglect the non-financial due diligence they must now do to comply with US and UK anti-bribery laws,” says Ian Barclay, Managing Director at investigations, intelligence and risk management specialist, Stroz Friedberg, Hong Kong. “Failing to adequately assess the counterparties that the company does business with can not only expose the organisation to reputational damage, but to operational risk, government investigations, financial penalties and potential criminal liability,” he notes.</p>
+<p>Newspaper headlines certainly provide plenty of evidence to support this. For instance, GlaxoSmithKline Plc (GSK)’s third-quarter 2013 sales of pharmaceuticals and vaccines in China fell 61% after an anti-corruption probe began. And now that the Chinese police have charged a number of GSK China personnel with corruption, the company is attempting to clean up its act by stopping payments to doctors who promote its products. While everyone supports the company’s action against corruption, from a competitive standpoint, this bold move could prove very costly in what is a $1 trillion-a-year global industry.</p>
+<p>The GSK China scandal also highlights the need to be aware of country risk when identifying and measuring counterparty exposures: bribery between sales staff and doctors is a well-documented challenge in China. Since the nature of business is only becoming more international, treasurers must ensure country risk is firmly on their counterparty radar.</p>
+<p>Once counterparty risk sources have been accurately identified, it is time to consider the best way to measure and manage any threats. This helps the treasurer to ensure that undesirable exposures do not develop in the first place.</p>
+<h3 id=""measure-and-manage"">Measure and manage</h3>
+<p>To be clear, there is no silver bullet for measuring and managing counterparty risk. Companies will use a variety of tools and modelling techniques, largely dependent on their size and sophistication. These may range from quantitative approaches such as expected exposure and probability of default calculations, through to more qualitative measures such as assessing the strength of the counterparty’s management team.</p>
+<p>Despite there being no one size fits all tool or technique for measuring and managing counterparty risk, there are some useful rules of thumb that the majority of companies can follow. It might seem obvious, but ensuring that the full counterparty exposure is being managed and measured is one such simple, yet significant rule. The section below outlines some additional appropriate ‘rule of thumb’ responses to the major forms of counterparty exposure. It should be noted, however, that the correct method for measuring and managing counterparty risk depends on the particular circumstances of the corporation, and its counterparty risk policy (more on this later).</p>
+<figure>
+<table>
+<thead>
+<tr>
+<th>Source of risk</th>
+<th>Threat posed</th>
+<th>In particular, watch for …</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th>Deposits</th>
+<td>Potential loss of deposits in instances of bank failure.</td>
+<td>
+<ul>
+<li>
+<p>Large deposits.</p>
+</li>
+<li>
+<p>Overexposure to any one bank/financial institution.</p>
+</li>
+<li>
+<p>The bank/financial institution’s credit rating.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th>Investments</th>
+<td>Loss of investment – whether bonds, equities or another instrument.</td>
+<td>
+<ul>
+<li>
+<p>Maturity of investment.</p>
+</li>
+<li>
+<p>The credit status of the company/institution/vehicle.</p>
+</li>
+<li>
+<p>Market changes.</p>
+</li>
+<li>
+<p>Sovereign credit rating downgrades.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th>Borrowing</th>
+<td>Changes in bank lending policies could affect the level of your repayments and/or the ability to refinance.</td>
+<td>
+<ul>
+<li>
+<p>Mergers, acquisitions and consolidation activity by your lending banks.</p>
+</li>
+<li>
+<p>Changes to a bank/financial institution’s credit policy.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th>Trade financing</th>
+<td>In trade finance arrangements, the supplier sometimes runs the risk of losing the balance payment.</td>
+<td>
+<ul>
+<li>
+<p>Changes to the credit status of the trade financier.</p>
+</li>
+<li>
+<p>Legal recourse in case of default.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th>Leasing</th>
+<td>In leasing agreements, if the leasing company were to fail you could lose the right to the use of the leased goods.</td>
+<td>
+<ul>
+<li>
+<p>Terms of the leasing arrangement.</p>
+</li>
+<li>
+<p>Changes to the credit status of the leasing company.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th>Foreign exchange</th>
+<td>Settlement risk – sending a payment to settle a foreign exchange deal but receive nothing or less than you were expecting in return.</td>
+<td>
+<ul>
+<li>
+<p>Market changes resulting in big fluctuations in exchange rates.</p>
+</li>
+<li>
+<p>Large settlement exposures in exotic currencies.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th>Derivative instruments</th>
+<td>If the other party fails to fulfil its obligations under the agreement you will have to meet the original payments.</td>
+<td>
+<ul>
+<li>
+<p>Settlement risk for derivatives is greatest in the over-the-counter (OTC) markets. Regulation is attempting to reduce this risk through the use of central counterparties (CCPs) but treasurers should be aware of the risk potential where derivative transactions are concerned as non-financial counterparties are often exempt from the mandatory clearing requirements being brought in under these new regulations.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th>Accounts receivable</th>
+<td>Default or late payments.</td>
+<td>
+<ul>
+<li>
+<p>Late payments.</p>
+</li>
+<li>
+<p>Changes in the payment behaviour of your customers.</p>
+</li>
+<li>
+<p>Changes to your customers’ credit status.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th>Suppliers</th>
+<td>Delays in the supply chain.</td>
+<td>
+<ul>
+<li>
+<p>Changes in the credit status of your suppliers.</p>
+</li>
+<li>
+<p>Late/incomplete deliveries.</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=""source"">Source: Treasury Today Best Practice Handbook, Managing Risk in Treasury</p>
+</figure>
+<ul>
+<li>
+<h5>Deposits and investments</h5>
+<p>The key to effectively managing the counterparty risks associated with deposits and investments is cash visibility. An accurate, up-to-date understanding of each of the institutions the corporation banks with is of crucial importance if a corporate is to correctly measure their level of market exposure. To accomplish this, some corporates remain committed to using traditional methods, such as spreadsheets, while others have moved to install specialist software that offers real-time updates and ongoing monitoring and analysis of all the corporation’s counterparty exposures.</p>
+<p>Diversification is ultimately the most effective way to protect deposits and investments from counterparty risk. Both should be spread out and held in multiple banks and institutions, geographical areas, asset classes and a variety of tenors to minimise the likelihood of a loss of capital in a crisis situation. Updating the company’s investment policy is also critical here. Best practice determines that integrated risk metrics should be used to help formulate an investment policy that can adapt to the changing financial environment.</p>
+</li>
+<li>
+<h5>Borrowing:</h5>
+<p>The recent global financial crisis highlighted the importance of keeping a close check on the institutions the company borrows money from. In particular, corporates should look out for circumstances that could lead to financial institutions altering their lending policies and prices. While there should be no great risk to current agreements, banks which offer revolving credit facilities may, in difficult conditions or as a result of regulatory changes (such as Basel III), choose to increase the price of such a facility or perhaps not to renew it.</p>
+</li>
+<li>
+<h5>Foreign exchange:</h5>
+<p>The main concern for corporates when undertaking foreign exchange transactions is settlement risk. This risk is sometimes referred to by the name Herstatt after the German bank which failed during the 1970s leaving a number of unsettled FX payments to its various counterparties. It occurs when a payment to an overseas partner is sent but no corresponding funds are received in return.</p>
+<p>The best way to eliminate this form of risk is through a service called continuous linked settlement (CLS). CLS uses a third-party intermediary to settle FX trades instantly, paying out in the respective currencies when each party confirms that they have the funds to proceed with the transaction. Then, should one of the parties fail to meet the terms of the deal, the amounts originally paid out would then be returned to the relevant parties.</p>
+</li>
+<li>
+<h5>Derivatives:</h5>
+<p>Despite regulatory progress towards central clearing, counterparty risk still presents a problem for corporates conducting derivatives transactions. It is of vital importance when conducting such deals that the counterparty with whom the agreement has been made is able to fulfil their side of the contract. To mitigate such risk a corporate needs to monitor all its derivative positions carefully and regularly carry out internal audits to prevent or detect systematic or fraudulent abuse of positions.</p>
+<p>Within the derivative portfolio, corporates can also look to identify or create offsets to minimise aggregate counterparty exposures. As Andrew Bailey (AMCT, MSTA), National Grid Money Markets Team told Treasury Today: “Where possible, trading should take place on a collateralised basis (using bilateral credit support annexes (CSAs) with minimal thresholds, or trading on a cleared basis), while managing potential liquidity risks that may arise from mark-to-market volatility and resultant collateral requirements. Break clauses can be inserted in longer-dated instruments. Companies should also be cognisant of secondary effects of counterparty risk, such as credit value adjustment (CVA) charges, which can in part be managed using credit auctions and options.”</p>
+</li>
+<li>
+<h5>Accounts receivable:</h5>
+<p>Accounts receivable, is a prime source of counterparty risk. If a company extends credit to its clients there is always some chance that they will not receive payment on time, or possibly not receive any payment at all, should the client end up defaulting on the debt. Either way, the end result is that actual cash flow will not match predicted cash flow – a scenario which left unchecked could potentially become a source of liquidity problems for the corporate.</p>
+<p>All customers therefore should be checked thoroughly in advance of any extension of credit to identify those who pose an excessively high credit risk. Such careful checks should continue to be carried out on existing debtors too – paying particular attention to changes in payment behaviour which could possibly indicate that they are experiencing financial difficulties.</p>
+</li>
+<li>
+<h5>Trade financing and leasing:</h5>
+<p>While trade financing can actually be used by a corporation as a means of mitigating counterparty risk, it does not eliminate all the risk from a trade. Common risk management procedure for trade financing would involve assessing both the creditworthiness of the organisation providing the trade finance and the legal counterparty in the leasing agreement.</p>
+<p>It is also important to be aware of the level of protection available in instances of default. Some trade finance providers and leasing companies belong to international banking groups, while others do not. It is therefore essential to carefully assess the balance sheets of any trade finance provider prior to conducting any business with them.</p>
+</li>
+<li>
+<h5>Supplier risk:</h5>
+<p>Supplier risk is an important, yet sometimes neglected facet of counterparty risk management. Disruption to the supply chain can have severe consequences, as the recent financial crisis illustrated. When suppliers began to go out of business during the credit crisis, many of their clients soon followed, unable to stay solvent without the necessary materials or funding to continue operating.</p>
+<p>In order to effectively manage supplier risk a corporate should examine each level of its supply chain and identify at each stage the appropriate action to be taken should the risk posed become a reality. It may be useful to draw up a supplier risk intelligence checklist.</p>
+</li>
+</ul>
+<h3 id=""you-cant-beat-them-all"">You can’t beat them all</h3>
+<p>Finally, while every effort should be made to keep a lid on counterparty exposures, even the best risk analysis or tools in the world will still not prevent certain defaults. In addition to a robust counterparty risk management framework, therefore, controls and guidelines should be put in place for when the inevitable happens.</p></div>
+</div>
+<div class=""v-spacing--bottom highlight-block"">
+<h2 class=""h3 copy__heading"">Counterparty risk management policy</h2>
+<div class=""copy__body"">
+<p>An effective counterparty risk management approach should always include a clear policy. According to consultancy firm Zanders, basic items to cover in this policy should include:</p>
+<ul>
+<li>
+<p>A list of eligible counterparties for treasury transactions, plus acceptance criteria for new counterparties – for example, to ensure consistent ISDA and credit support agreements are in place. This will also be linked to the credit commitment.</p>
+</li>
+<li>
+<p>Eligible instruments and transactions (which can be credit standing dependent).</p>
+</li>
+<li>
+<p>The term and duration of transactions (which can also be credit standing dependent).</p>
+</li>
+<li>
+<p>Variable maximum credit exposure limits based on credit standing.</p>
+</li>
+<li>
+<p>Exposure measurement guidelines – how is counterparty risk identified and quantified?</p>
+</li>
+<li>
+<p>Responsibility and accountability guidelines – who should have ultimate responsibility for managing counterparty risk?</p>
+</li>
+<li>
+<p>Key performance indicators (KPIs) to measure and monitor performance.</p>
+</li>
+<li>
+<p>A definition of reporting requirements and format.</p>
+</li>
+<li>
+<p>An overall framework for decision-making by staff, including treatment of breaches.</p>
+</li>
+<li>
+<p>Continuous improvement measures – what procedures are required to keep the policy up-to-date?</p>
+</li>
+</ul>
+<p class=""source""><em>Source: Zanders</em></p></div>
+</div>
+
+</div>"
+Counterparty Risk,Counterparty credit risk, Published: May 2013 ,,"<div class=""gs-grid__col gs-grid__col-1-10 gs-grid__col--expand"" style="""">
+<div class=""hero hero--article spaceing"">
+<div class=""hero__heroarticle__img-wrap"">
+</div>
+</div><div class=""v-spacing--bottom"">
+<h2 class=""h2 copy__heading""></h2>
+<h3 class=""sub-heading copy__sub-heading""></h3>
+<div class=""copy__body""><figure class=""portrait left""><img alt=""Portrait of Andrew Bailey"" height=""150"" src=""http://treasurytoday.com/i/2013/05/2013-05-tt-03-qa-andrew-bailey-100x150.jpg"" width=""100""/></figure>
+<h5 id=""andrew-bailey-amct-msta-national-grid-money-markets-team"">Andrew Bailey (AMCT, MSTA), National Grid Money Markets Team:</h5>
+<p>There is no simple answer to this problem, but there are a range of measures that corporates can employ to monitor and mitigate their exposures. Counterparty risk management policies have traditionally been based on credit ratings, on the grounds that they provide simple and independent metrics of creditworthiness. However, throughout the financial crisis, market-based indicators have revealed deteriorating credit quality faster than ratings downgrades. Credit default swap (CDS) levels can be used as a leading indicator of distress, using changes in levels as much as the absolute values, although not all CDS prices will be liquid or efficient.</p>
+<p>Treasurers should look outside of the individual entity to the wider group and the country of domicile, taking into account potential support from the parent or sovereign in the event of default. If practical, take the time to analyse capital adequacy measures such as tangible common equity (TCE) and Tier 1 capital ratios. However, with the best risk analysis in the world we will still not prevent events of default, so controls must be in place for when the inevitable happens.</p>
+<p>Corporates should start with a diversified banking group, spread over geographies and specialisms, with alternative banks able to cover key trading or cash management functions. When investing cash within the group, companies have recently favoured short-dated, high quality investments at the expense of yield opportunities with lower liquidity or credit quality. Corporates can add a layer of security by investing on a secured basis via the repo market, which can also achieve a yield advantage versus unsecured deposits. Longer duration money market funds (MMFs) can exploit an upward-sloping yield curve, while maintaining diversification and liquidity to keep a low credit risk profile.</p>
+<p>Within the derivative portfolio, offsets can be identified or created to minimise aggregate exposures. Where possible, trading should take place on a collateralised basis (using bilateral credit support annexes (CSAs) with minimal thresholds, or trading on a cleared basis), while managing potential liquidity risks that may arise from mark-to-market volatility and resultant collateral requirements. Break clauses can be inserted in longer-dated instruments. Companies should also be cognisant of secondary effects of counterparty risk, such as credit value adjustment (CVA) charges, which can in part be managed using credit auctions and options.</p>
+<p>Treasurers should maintain vigilance when monitoring the financial health of their counterparties and employ a creative and multi-faceted approach to counterparty risk management.</p>
+<figure class=""portrait left""><img alt=""Portrait of Rohan Douglas"" height=""150"" src=""http://treasurytoday.com/i/2013/05/2013-05-tt-03-qa-rohan-douglas-100x150.jpg"" width=""100""/></figure>
+<h5 id=""rohan-douglas-ceo-quantifi-solutions"">Rohan Douglas, CEO, Quantifi Solutions:</h5>
+<p>Firms new to counterparty risk management can learn from early mistakes and benefit from the most recent modelling innovations that improve accuracy and simplify usage. The first step is accurately measuring counterparty exposure.</p>
+<p>The most consistent and flexible approach is ‘American’ Monte Carlo that captures right and wrong-way risk, taking into account the impact of CSAs, collateral and existing positions. Right and wrong-way risks exist when the credit of the counterparty is related to the exposure of the trade with that counterparty.</p>
+<p>The CSA terms, collateral posted and existing positions all need to be captured and their impacts measured when calculating counterparty exposure. New models accurately capture the expected future exposure profiles of each counterparty. A second step is pricing the costs associated with counterparty exposure. This includes the CVA and the funding cost adjustment (FVA). CVA measures the expected loss from counterparty default. CVA is needed to match bank counterparty methodologies and is also required by accounting standards. FVA measures the expected cost of funding a margined trade. It is important for evaluating alternate counterparties, CSAs and clearing options. Data and model calibration are often overlooked but play key roles in usability and effectiveness.</p>
+<p>Counterparty risk measurement requires a large amount of data – including the terms of all trades with a counterparty, market data required to price these trades, terms of any CSA in place, details regarding collateral posted under the CSA, credit data about the counterparty, volatility information, and information about the relationships between market instruments. This data is both large and changing continually. Accumulation and management of this data is a key driver in the simplicity of implementation and operations of any counterparty risk tool.</p>
+<p>Effective measurement and control of counterparty risk starts with accurate measurement, but even the most sophisticated models are not useful unless the right data management tools provide accurate data as input and a simple and transparent calibration process makes the models usable.</p>
+<figure class=""portrait left""><img alt=""Portrait of Dr. Tim Thompson"" height=""150"" src=""http://treasurytoday.com/i/2013/05/2013-05-tt-03-qa-tim-thompson-100x150.jpg"" width=""100""/></figure>
+<h5 id=""dr-tim-thompson-senior-manager-enterprise-and-risk-services-deloitte"">Dr. Tim Thompson, Senior Manager, Enterprise and Risk Services, Deloitte:</h5>
+<p>For a medium-sized to large corporate, the primary risk management goal with respect to counterparty credit risk (CCR) should be to prevent unwanted exposures from developing. That goal informs the measures to be gathered, risk limits, the controls and governance arrangements needed to keep risk within those agreed guidelines and the skill sets of the teams needed to manage the exposure.</p>
+<p>The industry standard way to measure CCR is through expected exposure (EE), calculated for various points in time, and with a particular focus on the next 12 months. EE takes into account movements in the underlying risk factors as well as any netting and collateral agreements that the corporate has in place with its counterparties, who will nearly always be the banks that have facilitated particular trades. You need to have a clear view of each counterparties’ EE. Limits need to be set to guard against concentrations and, depending on the scale of operations, also at a sector or country level.</p>
+<p>For more sophisticated corporates, EE can be modelled using a Monte Carlo or historic simulation approach, while for less sophisticated corporates it may be sufficient to take the mark-to-market value and apply an add-on (based on standard tables available in the Basel II banking regulations, or a one-off Monte Carlo calculation). The key skills sets required for these tasks are market risk and quantitative finance.</p>
+<p>However, your team also needs credit risk skills, since you need to understand the probability of default (PD) of your counterparties. Multiplying the EE by the PD gives the expected loss (in the assumption of zero recovery). The more conservative approach will also factor in correlations between counterparties, since the kind of scenario that sees Bank A default will usually involve a deterioration in the credit quality of Bank B (especially if they are in the same country).</p>
+<p>From an operational perspective, successful CCR management requires accurate – and as far as possible – automated capture of trade term sheet data into the front office systems and legal information on your netting agreements (ISDAs) or collateral agreements (CSAs) into a collateral system. This information is then combined into a risk system, which is where many firms can suffer from a weak control environment.</p>
+<p>Finally, now that some corporates have better credit ratings than their banking counterparties, it is they who should be requiring collateral from the banks, not the other way round. For those firms, it can make business sense to hire resources that can calculate and manage counterparty risk and the associated collateral requirements independently.</p>
+<figure class=""portrait left""><img alt=""Portrait of Jonathan Chesebrough"" height=""150"" src=""http://treasurytoday.com/i/2013/05/2013-05-tt-03-qa-jonathan-chesebrough-100x150.jpg"" width=""100""/></figure>
+<h5 id=""jonathan-chesebrough-head-of-risk-advisory-royal-bank-of-scotland-rbs"">Jonathan Chesebrough, Head of Risk Advisory, Royal Bank of Scotland (RBS):</h5>
+<p>In the past few years we have seen a lot of interest in this topic and are frequently engaging with our corporate clients as they reassess their bank CCR framework. We have heard of a number of corporates being ‘full’ on some of their counterparty banks, mainly if they evaluate counterparty credit risk by solely using credit rating and/or CDS level. An over reliance on these two measures of credit risk had to be questioned as CDS levels spiked in 2011 and the June 2012 Moody’s downgrade of 15 of the 17 major global banks left very few Aa (or AA) rated banks. For CDS, there has been a realisation that the lack of liquidity in the market limits their effectiveness as a gauge of credit risk. Indeed, studies have shown that even the most actively traded names may only have ten to 15 trades per day, indicating that single trades could overly impact CDS prices.</p>
+<p>Instead it may be more appropriate to complement a counterparty credit assessment based solely on market indicators with a relatively easy to perform fundamental analysis, including both quantitative and qualitative considerations. Some quantitative measures include looking at: capital adequacy such as Tier 1 capital ratio; liquidity including dependence on wholesale funding, loan-to-deposit ratio, and size of liquidity buffer; core business profitability to ensure the counterparty is running a sustainable business; and asset quality such as Portugal, Ireland, Italy, Greece and Spain (PIIGS) exposure. All of these measures indicate the likely ability of a bank to honour their commitments.</p>
+<p>Qualitative measures are harder to implement, but can still complement the quantitative ones. These include assessing: the home government’s support to the industry in cases of turmoil; the strength of local supervision and regulators; the home country’s bankruptcy and resolution process and rights; and the strength of the company’s management.</p>
+<div class=""question"">
+<h3 id=""the-next-question"">The next question</h3>
+<blockquote>
+<p>“Who should be in charge of IT in treasury?”</p>
+</blockquote>
+<p>Please send your comments and responses to <a href=""mailto:qa@treasurytoday.com"">qa@treasurytoday.com</a></p>
+</div></div>
+</div>
+
+</div>"
+Counterparty Risk,The development of SEPA, Published: Jan 2013 ,,"<div class=""gs-grid__col gs-grid__col-1-10 gs-grid__col--expand"" style="""">
+<div class=""hero hero--article spaceing"">
+<div class=""hero__heroarticle__img-wrap"">
+</div>
+</div><div class=""v-spacing--bottom"">
+<h2 class=""h2 copy__heading""></h2>
+<h3 class=""sub-heading copy__sub-heading""></h3>
+<div class=""copy__body""><h3 id=""what-is-sepa"">What is SEPA?</h3>
+<p>The single euro payments area (SEPA) is a payments industry -led initiative that is designed to establish a framework of rights and obligations for creating a standardised process to allow for harmonised payments processing in Europe. In basic terms, SEPA allows individuals, businesses and banks to make payments across Europe as easily – and as cheaply – as if they were making a domestic payment.</p>
+<p>While one of the aims of SEPA is to make retail payments more convenient for customers, it is about much more than that. The greater objective is to strengthen the internal market through enhanced competition and greater efficiency – which was an integral part of the Lisbon Agenda.</p>
+<p>There are three types of SEPA payment instruments:</p>
+<ul>
+<li>
+<h5>SEPA Credit Transfer (SCT)</h5>
+<p>Will provide customers with a single means for transferring funds regardless of whether it’s within the country or involves a cross-border payment.</p>
+</li>
+<li>
+<h5>SEPA Direct Debit (SDD)</h5>
+<p>Will make it possible to charge directly an account in one country within Europe for services by a company based in another country. SDDs are divided into the SDD Core Scheme (SDD Core) and SDD Business-to-Business Scheme (SDD B2B).</p>
+</li>
+<li>
+<h5>SEPA for Cards</h5>
+<p>Will enable consumers to more conveniently use their cards for purchases anywhere in Europe. For retailers, accepting cards will become easier and more attractive.</p>
+</li>
+</ul>
+<h3 id=""in-the-beginning"">In the beginning…</h3>
+<p>The vision for a harmonised area for payments within the EU can be traced back to the discussions that took place during the early 1990s, preceding the establishment of the monetary union.</p>
+<p>But it was only subsequent to the introduction of the euro that the first concrete plans were drafted for a fully integrated, harmonised payments area. The expectation was that the introduction of the single currency would bring about a substantial increase in intra-community trade, and in order to support this there would need to be a system in place to allow all Eurozone members to offer cheap, fast and reliable services for individuals and businesses who wish to make cross-border payments within the EU.</p>
+<p>Progress had already been made during the 1990s on the matter of large-scale wholesale payments typically used by large multinational corporates, but there was not yet any mechanism in place to facilitate smaller day-to-day transactions or retail payments.</p>
+<p>The first serious indication that EU policy-makers were intent on reforming payment systems within the internal market came on 31<sup>st</sup> January 2000. The European Commission, concerned that cross-border retail payments remained expensive and time-consuming, circulated an official communication in which it demanded – rather optimistically with hindsight – “a significant improvement in the efficiency of small value cross-border payments, and substantial reductions in charges to customers, by 1<sup>st</sup> January 2002”.</p>
+<p>Three months later that goal would be formally approved and incorporated as a part of the Lisbon Strategy, the objective of which was to make the European single market the most dynamic and competitive knowledge-based economy in the world by 2010. To demonstrate just how serious they were about pursuing their payments objectives, the European Commission followed up the decree with new legislation – the introduction of Regulation No 2560/2001, which demanded that banks end the practice of price discrimination between cross-border and domestic payments under a specified threshold, initially €12,500, then raised to €50,000.</p>
+<h3 id=""developing-sepa"">Developing SEPA</h3>
+<p>Now the banks, confronted with the choice of either building a new payments infrastructure and process or making continual losses on cross-border transactions, began to take the first tentative steps towards the development of SEPA. But as Ruth Wandhöfer, Head of Regulatory and Market Strategy at Citi Transaction Services, describes, this was merely the beginning of a very complex and protracted negotiation process.</p>
+<p>“At the time of Regulation No 2560/2001 we didn’t really have a cross-border retail payment system for euro transactions,” says Wandhöfer. “We were able to process high value payments with TARGET – later TARGET 2 – but for day-to-day retail payments, we didn’t have anything at a pan-European level. This is why the industry came together – to create a scheme that is more efficient and borderless.</p>
+<p>“But as you can imagine, creating a harmonised scheme that works in the same way for domestic and cross-border retail payment types would also mean that banks open themselves up to competition from outside their home markets – and, of course, that was going to be challenging for many players.”</p>
+<p>The principle difficulty, explains Wandhöfer, was that with a few exceptions the majority of Europe’s banks operate at the domestic level. “Most customers in Europe are consumers and SMEs, because that is how Europe is structured. Therefore most European banks were concerned about potentially losing their customer base if the market opened up,” she says. The thinking was that for a bank to maintain a competitive edge it needed to retain aspects of its domestic flavour of payment.</p>
+<p>Another area of significant disagreement centred on how the new SDD scheme should be designed and implemented. Compromise, Wandhöfer argues, was more straightforward with SCTs “where you just push the money out of the door”.</p>
+<p>“But on the direct debit side it was a much larger challenge,” she says, largely because of the flow and responsibilities around mandates, which varies considerably between European countries. “Some countries, such as Slovenia or Greece, have the debtor bank holding on to the mandate, while in many other countries it is the creditor, for example the UK. Some countries, like Italy for instance, even have a mixed model. And depending on who is holding the mandate, the liability and ability of intervention if there is a wrong transaction debited to an account is, of course, very different.”</p>
+<h3 id=""moving-forward"">Moving forward</h3>
+<p>With the October 2011 announcement that the SEPA migration deadline is 1<sup>st</sup> February 2014 for countries within the Eurozone and 31<sup>st</sup> October 2016 for non-Eurozone states, migration to the new payment instruments has now become driven by regulation, and banks and corporates are engaged in preparations for the transition. Although the SCT and SDD schemes were originally introduced in 2008 and 2009 respectively, the scheme failed to attract quite the level of voluntary adoption the European Payments Council (EPC), among others, was hoping for. It soon became evident to the European Commission that unless the Eurozone wanted to be left with a legacy of independent national systems along with a side-lined SEPA system it would have to introduce legislation to force banks, companies and public administrations to begin the migration process.</p>
+<p>The imminent end-date has definitely helped to focus minds on the necessary steps involved in migrating to SEPA. Demonstrable progress has been made as a result – on the SCT side at the least. For example, as of October 2012 the share of SCTs, as a percentage of the total volume of credit transfers in the euro area, stood at 30.18%, according to European Central Bank’s (ECB) statistics. But corporate migration to SDD continues to crawl along at a sluggish pace, with the scheme presently accounting for only 1.85% of direct debits in the euro area.</p>
+<p>“I think the direct debit has been a bit of a disaster,” admits Wandhöfer. The reason for this, she argues, is about much more than the different ways in which direct debits operated in euro nations previous to the introduction of SEPA; there are also, she believes, significant security issues yet to be satisfactorily addressed. The problem is a lack of a pan-European risk management scheme. “If you think about local processes, you usually have domestic scheme rules in place that enable, for example, a bank to automatically get the funds returned if a collection goes wrong or if it is fraudulent,” she says. But at the present time there is no such recourse available for SEPA users at a pan-European level, meaning that any unwinding of problematic transactions may take longer and be more complicated. This could bring a much greater risk to the parties involved.</p>
+<p>The upshot of this, Wandhöfer says, could ultimately be less harmonisation. “So we’ve got a brilliant solution on paper – one which would bring a lot of benefits to corporates, particularly on the cross-border side,” she says. “But it is exactly that cross-border side where it suddenly gets very scary for some people. And that could be where the local direct debit inside SEPA suddenly starts looking very different. They will probably come up with local risk mitigation models, but I can’t conceive of a pan-European model being introduced from where we are today.”</p>
+<p>Brian Hanrahan, Executive Vice President Sales and Marketing at specialist provider of SEPA payment solutions, Sentenial, agrees that the progress on migrating to the new direct debit scheme has, to date, been rather disappointing. “SDD was a much bigger project,” he says. “Traditionally it has been a domestic instrument – people weren’t doing cross-border direct debits before SEPA. Credit transfers, on the other hand, were already operating cross-border – people were just using more expensive payment mechanisms. So you could say that, unlike SDDs, SCTs have naturally replaced something.”</p>
+<p>The transition to the SCT, he says, has been faster because these instruments present less of a technical challenge for banks and corporates. “If you think of a credit transfer,” he notes, “it is usually a one-off event. You capture your beneficiary details, which are now required in the IBAN format rather than a legacy format, but other than that it is a push instrument – you just send the message to your bank and they will execute the transfer.”</p>
+<p>“But with direct debit there is a lot of back and forth involved. The corporate will send out a collections message to thousands of their customers and then over the next few days a variety of exception messages could come back. There is a lot more traffic and it is a more interactive process, which considerably multiplies the complexity.”</p>
+<h3 id=""getting-ready-for-2014"">Getting ready for 2014</h3>
+<p>SEPA principally began as a politically-based project rather than a business initiative. European policy-makers saw it as a natural next step to the introduction of the single European currency – an essential component of the internal market which legislators hoped would foster greater levels of pan-European trade.</p>
+<p>SEPA’s origins as a political project may explain why many banks and companies have not been in any rush to migrate early. But while the above-mentioned drawbacks may undermine the business case for SEPA, at least with regard to the direct debit, notice of the looming February 2014 deadline means that migration is no longer an option – it is now, unquestionably, a matter of compliance.</p>
+<p>In light of this, nearly all banks and companies operating within the Eurozone have started taking steps to tackle the various technical and contractual changes required to prepare themselves and their customers for the switchover. “I think up until the deadline was announced SEPA had a few niche users. These were mostly companies with large volumes of cross-border payments who had seen a business opportunity in SEPA and adopted early for their own benefits,” says Hanrahan. “But they were in a very small minority. However, since the regulation passed into law most large corporations are now undertaking an impact assessment and many are in a vendor selection process.”</p></div>
+</div>
+
+</div>"

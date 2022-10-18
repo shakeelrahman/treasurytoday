@@ -1,0 +1,38 @@
+ /* Dialogues Page */
+.parallex-1 {
+  min-height: 100vh;
+  background: url("../assets/images/sunset.jpg") no-repeat center/cover fixed;
+}
+.video-parallex {
+  min-height: 100vh;
+  min-width: 100vw;
+  height: 56.25vw;
+  width: 177.7vh;
+  transform: translate(-50%, -50%);
+}
+.parallex-2 {
+  background: url("../assets/images/trade.jpg") no-repeat center/cover fixed;
+}
+.parallex-3 {
+  background: url("../assets/images/global-network-connection-world.jpg") no-repeat center/cover fixed;
+}
+.bg-op{
+  background-color: rgba(255, 255, 255, 0.6);
+}
+.parallex-4{
+  background: url("../assets/images/parallex-3.jpg") no-repeat center/cover fixed;
+}
+.logos div{
+    min-height: 83px;
+    max-height: 83px;
+    float: left;
+    min-width: 180px;
+    padding: 1em;
+    margin-right: 1em;
+  }
+  @media (min-width:992px) {
+    .times{
+        margin-top: -8rem !important;
+    }
+  }
+
