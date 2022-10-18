@@ -44,7 +44,7 @@
                         <span class="sign-icon material-icons fs-6 text-white rounded-circle border border-2 border-white">person_outline</span>
                     </div>
                     <div class="ms-3">
-                        <button class="reg-btn btn text-white border border-2 border-white rounded-pill fw-bold" type="button" data-bs-toggle="modal" data-bs-target="#registerModal"><small>Register</small></button>
+                        <button class="reg-btn btn small text-white border border-2 border-white rounded-pill fw-bold" type="button" data-bs-toggle="modal" data-bs-target="#registerModal">Register</button>
                     </div>
                 <?php
                 else :
