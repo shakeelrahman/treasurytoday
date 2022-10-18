@@ -30,7 +30,7 @@
             <div class="col-lg-2 col-md-3 border-right">
               <ul class="list-unstyled">
                 <li><a class="text-white footer-links" href="/women-in-treasury">Women in Treasury</a></li>
-                <li><a class="text-white footer-links" href="/cash-liquidity-management">Cash & Liquidity</a></li>
+                <li><a class="text-white footer-links" href="/cash-liquidity-management">Cash and Liquidity</a></li>
                 <li><a class="text-white footer-links" href="/risk-management">Management</a></li>
                 <li><a class="text-white footer-links" href="/">Home </a></li>
                 <li><a class="text-white footer-links" href="/contact">Contact Us</a></li>

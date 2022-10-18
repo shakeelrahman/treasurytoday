@@ -10971,6 +10971,9 @@ body .dropdown-link {
     position: relative;
     padding-bottom: 80px;
   }
+  .footer-cont .col-lg-2{
+ padding-left: 20px;
+  }
   .social {
     position: absolute;
     right: 0;
