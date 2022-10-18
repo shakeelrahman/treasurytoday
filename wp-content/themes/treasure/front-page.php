@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 <div id="content">
-  <section class="banner">
+  <section class="banner fpbanner">
     <div class="container">
       <div class="row mx-0 border-bottom py-4">
         <div class="col-md-3 ps-md-0">
