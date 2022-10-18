@@ -10736,7 +10736,7 @@ body .dropdown-link {
 }
 .top-nav .reg-btn {
   min-width: 110px;
-  padding:0.18rem 20px !important;
+  padding:0.35rem 20px !important;
   transition: 0.6s;
 }
 .top-nav .reg-btn:hover {
