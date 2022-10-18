@@ -3,7 +3,7 @@
   <section class="banner fpbanner">
     <div class="container">
       <div class="row mx-0 border-bottom py-4">
-        <div class="col-md-3 ps-md-0 pe-md-3">
+        <div class="col-md-3 col-hero-1 ps-md-0 pe-md-4">
           <h2 class="text-secondary list_heading mb-3">Top Story</h2>
           <?php
           $fptopstory = get_field('select_top_story');
@@ -34,7 +34,7 @@
         <div class="col-md-6 px-md-0">
             <img class="img-fluid border-top border-5 hero-img w-100 border-secondary" src="<?php echo $url; ?>" alt="FP Main Banner" width="600">
         </div>
-        <div class="col-md-3 pe-md-0 ps-md-3 mt-md-0 mt-3">
+        <div class="col-md-3 pe-md-0 col-hero-3 mt-md-0 mt-3">
           <h2 class="text-secondary list_heading">Trending</h2>
           <?php
           wp_reset_postdata();

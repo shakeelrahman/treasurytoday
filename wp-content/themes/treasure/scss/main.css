@@ -10669,12 +10669,23 @@ body .container {
 body .dropdown-link {
   font-size: 14px !important;
 }
+/* new changes */
 .small{
   font-size: 12px;
 }
 .fs-sm{
   font-size: 14px;
 }
+@media screen and (min-width:768px) {
+  .col-hero-3{
+    padding-left: 10px;
+  }
+  .col-hero-1{
+    padding-right: 20px;
+  }
+  }
+/* new changes */
+
 .form-control:focus,
 .btn:focus,
 .form-select:focus {
