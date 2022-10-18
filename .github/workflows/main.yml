@@ -16,5 +16,5 @@ jobs:
         password: ${{ secrets.FTP_PASSWORD_imobi }}
         protocol: ftp
         port: 21
-        local-dir: ./wp-content/themes/treasure
-        server-dir: /wp-content/themes/treasure
+        local-dir: ./wp-content/themes/treasure/
+        server-dir: /wp-content/themes/treasure/
