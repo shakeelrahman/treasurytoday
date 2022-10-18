@@ -10683,7 +10683,8 @@ body .dropdown-link {
   .col-hero-1{
     padding-right: 20px;
   }
-  }
+
+}
 /* new changes */
 
 .form-control:focus,
@@ -10716,7 +10717,7 @@ body .dropdown-link {
   color: #fff;
 }
 .top-nav .search-btn {
-  z-index: 0;
+  z-index: 1;
   right: 25px;
   top: -8.5px;
   background-color: transparent;
@@ -10753,6 +10754,9 @@ body .dropdown-link {
 }
 
 @media (min-width: 992px) {
+  .search-form .form-group{
+    width: 280px;
+  }
   .bor-col::after {
     content: "";
     background-color: #dee2e6;
