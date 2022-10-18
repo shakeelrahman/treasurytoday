@@ -494,7 +494,7 @@
                     ?> 
                 </a>
                 <?php echo get_link_to_topics_page(get_the_ID()); ?>
-                <span class="text-muted small">- <?php echo meks_time_ago(); ?></span>
+                <span class="text-muted small"> - <?php echo meks_time_ago(); ?></span>
                 <a href="<?php the_permalink(); ?>">
                   <h2 class="black-link pe-3"><?php the_title(); ?></h2>
                 </a>
@@ -520,7 +520,7 @@
                     ?>
                 </a>
                <?php echo get_link_to_topics_page(get_the_ID()); ?>
-                <span class="text-muted small">- <?php echo meks_time_ago(); ?></span>
+                <span class="text-muted small"> - <?php echo meks_time_ago(); ?></span>
                 <a href="<?php the_permalink(); ?>">
                   <h2 class="black-link pe-3"><?php the_title(); ?></h2>
                 </a>
