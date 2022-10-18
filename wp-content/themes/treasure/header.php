@@ -39,12 +39,12 @@
 
                 <?php if (!isset($_SESSION['user_name'])) : ?>
                     <div class="me-3 d-flex align-items-center justify-content-center" type="button" data-bs-toggle="modal" data-bs-target="#signInModal">
-                        <button class="sign-btn btn small text-white position-relative">Sign in
+                        <button class="sign-btn btn fs-sm text-white position-relative">Sign in
                         </button>
                         <span class="sign-icon material-icons fs-6 text-white rounded-circle border border-2 border-white">person_outline</span>
                     </div>
                     <div class="ms-3">
-                        <button class="reg-btn btn small text-white border border-2 border-white rounded-pill fw-bold" type="button" data-bs-toggle="modal" data-bs-target="#registerModal">Register</button>
+                        <button class="reg-btn btn fs-sm text-white border border-2 border-white rounded-pill fw-bold" type="button" data-bs-toggle="modal" data-bs-target="#registerModal">Register</button>
                     </div>
                 <?php
                 else :

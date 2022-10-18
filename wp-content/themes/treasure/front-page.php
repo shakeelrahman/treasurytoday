@@ -4,7 +4,7 @@
     <div class="container">
       <div class="row mx-0 border-bottom py-4">
         <div class="col-md-3 ps-md-0 pe-md-3">
-          <h2 class="text-secondary list_heading mb-3">Top story</h2>
+          <h2 class="text-secondary list_heading mb-3">Top Story</h2>
           <?php
           $fptopstory = get_field('select_top_story');
 

@@ -10672,6 +10672,9 @@ body .dropdown-link {
 .small{
   font-size: 12px;
 }
+.fs-sm{
+  font-size: 14px;
+}
 .form-control:focus,
 .btn:focus,
 .form-select:focus {
