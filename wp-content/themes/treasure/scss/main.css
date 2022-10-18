@@ -10955,6 +10955,7 @@ body .dropdown-link {
     margin-bottom: 20px;
   }
   .footer-cont {
+    padding-bottom: 16px;
     flex-direction: column-reverse !important;
   }
   ul {
@@ -10968,6 +10969,7 @@ body .dropdown-link {
 @media (min-width: 768px) {
   .footer-cont {
     position: relative;
+    padding-bottom: 80px;
   }
   .social {
     position: absolute;

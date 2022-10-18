@@ -1,6 +1,6 @@
 <footer class="footer bg-primary pt-0 py-md-5">
        <div class="container">
-         <div class="d-md-block d-flex footer-cont border-bottom pb-md-5 pb-3 pt-5">
+         <div class="d-md-block d-flex footer-cont border-bottom pt-5">
            <div class="row mx-0">
             <div class="col-lg-2 col-md-3 foot-logo py-md-0 py-3 ps-md-0">
               <a class="py-3" href="/">
