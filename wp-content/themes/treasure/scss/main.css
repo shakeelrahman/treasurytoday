@@ -10761,7 +10761,7 @@ body .dropdown-link {
     width: 280px;
   }
   .search-form ,.form-control{
-    padding-left: 45px;
+    padding-right: 45px;
   }
   .bor-col::after {
     content: "";
