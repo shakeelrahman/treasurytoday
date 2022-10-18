@@ -56,7 +56,7 @@
                   <div class="d-md-none mt-3 d-flex align-items-center justify-content-center text-center"><a href="#" class="back text-white position-relative">Back to top <i class="fa-solid fa-chevron-up text-secondary ps-2"></i></a></div>
                 </div>
          </div>
-         <div class="d-flex justify-content-between py-5">
+         <div class="d-flex justify-content-between pt-4 pb-3">
            <p class="small text-muted mb-0">Copyright &copy; Treasury Today 2022 all rights reserved - Terms and Conditions</p>
            <a href="#" class="back me-4 fs-sm text-white position-relative d-md-block d-none">Back to top <span class="material-icons text-secondary up">
               expand_less
