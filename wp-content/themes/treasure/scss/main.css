@@ -10713,6 +10713,9 @@ body .dropdown-link {
   border: 2px #cc2029 solid !important;
   border-radius: 30px;
 }
+.top-nav .form-control:focus-visible{
+  outline: solid 2px #fff !important;
+}
 .top-nav .form-control::-webkit-input-placeholder {
   color: #fff;
 }
@@ -10756,6 +10759,9 @@ body .dropdown-link {
 @media (min-width: 992px) {
   .search-form .form-group{
     width: 280px;
+  }
+  .search-form ,.form-control{
+    padding-left: 45px;
   }
   .bor-col::after {
     content: "";
