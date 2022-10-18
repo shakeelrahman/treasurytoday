@@ -1,4 +1,4 @@
-<footer class="footer bg-primary pt-0 py-md-5">
+<footer class="footer bg-primary pt-0 pt-md-5">
        <div class="container">
          <div class="d-md-block d-flex footer-cont border-bottom pt-5">
            <div class="row mx-0">
