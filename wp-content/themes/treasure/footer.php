@@ -58,7 +58,7 @@
          </div>
          <div class="d-flex justify-content-between py-3">
            <p class="small text-muted">Copyright &copy; Treasury Today 2022 all rights reserved - Terms and Conditions</p>
-           <a href="#" class="back me-4 small text-white position-relative d-md-block d-none">Back to top <span class="material-icons text-secondary up">
+           <a href="#" class="back me-4 fs-sm text-white position-relative d-md-block d-none">Back to top <span class="material-icons text-secondary up">
               expand_less
               </span></a>
          </div>
