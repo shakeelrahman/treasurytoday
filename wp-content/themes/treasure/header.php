@@ -38,7 +38,7 @@
                 <?php get_search_form(); ?> 
 
                 <?php if (!isset($_SESSION['user_name'])) : ?>
-                    <div class="me-3 d-flex align-items-center justify-content-center" type="button" data-bs-toggle="modal" data-bs-target="#signInModal">
+                    <div class="d-flex align-items-center justify-content-center sign-div" type="button" data-bs-toggle="modal" data-bs-target="#signInModal">
                         <button class="sign-btn btn fs-sm text-white position-relative">Sign in
                         </button>
                         <span class="sign-icon material-icons fs-6 text-white rounded-circle border border-2 border-white">person_outline</span>
