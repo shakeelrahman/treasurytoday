@@ -10758,6 +10758,9 @@ body .dropdown-link {
 }
 
 @media (min-width: 992px) {
+  .search-form{
+    margin-right: 10px;
+  }
   .search-form .form-group{
     width: 280px;
   }
