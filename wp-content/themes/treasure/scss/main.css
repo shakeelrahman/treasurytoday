@@ -11192,10 +11192,10 @@ h1,
 }
 
 /* new changes starts */
-@media screen and (min-width: 768px) {
-  /* .col-3 img {
+@media screen and (min-width: 1250px) {
+  .col-3 img {
     max-width: 308px;
-  } */
+  }
   .hero-img {
     max-width: 638px;
   }
