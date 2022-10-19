@@ -10768,7 +10768,10 @@ body .dropdown-link {
     margin-left: -7px;
     margin-right: 2.9rem;
   }
-  .bor-col::after {
+  .bor-col{
+    border-right: 1px solid #e5e5e5;
+  }
+  /* .bor-col::after {
     content: "";
     background-color: #dee2e6;
     width: 0.8px;
@@ -10776,7 +10779,7 @@ body .dropdown-link {
     position: absolute;
     top: 0;
     right: 15px;
-  }
+  } */
   .navbar {
     position: relative;
   }
