@@ -10698,12 +10698,25 @@ body .dropdown-link {
   padding: 0.39rem 0 ;
 }
 .top-nav .form-control {
-  background-color: transparent;
-  border: 2px transparent solid;
+  /* background-color: transparent; */
+  /* border: 2px transparent solid; */
   width: 120px;
   z-index: 1;
-  padding: 10px 40px 10px 20px;
-  transition: width .4s ease-in-out;
+  /* padding: 10px 40px 10px 20px; */
+  /* transition: width .4s ease-in-out; */
+
+    font-size: .875rem;
+    font-weight: 400;
+    box-sizing: border-box;
+    color: #fff;
+    border-radius: 40px;
+    border-color: transparent;
+    background-color: transparent;
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    padding: 10px 40px 10px 20px;
+    transition: width .4s ease-in-out;
+    cursor: auto;
 }
 .top-nav .form-control:focus,
 .top-nav .form-control:active {
