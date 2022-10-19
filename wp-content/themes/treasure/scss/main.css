@@ -11205,6 +11205,9 @@ h1,
     max-width: 638px;
   }
 }
+a .text-secondary{
+  color: #c93642;
+}
 .col-3 img{
   min-width: 100px;
 }
