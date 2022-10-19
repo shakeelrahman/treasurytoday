@@ -191,7 +191,7 @@
   <section class="technology">
     <div class="container">
       <div class="d-flex justify-content-between align-items-center pb-4 px-md-0 px-3">
-        <h3 class="text-secondary fw-bold heading"><?php the_field('tec_section_title') ?></h3>
+        <h4 class="text-secondary fw-bold heading"><?php the_field('tec_section_title') ?></h4>
         <a href="<?php echo esc_url(get_field('tec_enter_section_link')); ?>" class="text-secondary pe-md-2">View all</a>
       </div>
       <div class="row mx-0 border-bottom pb-3">
@@ -464,7 +464,7 @@
   <section class="insight pt-5">
     <div class="container border-bottom">
       <div class="d-flex justify-content-between align-items-center pb-4 px-md-0 px-3">
-        <h3 class="text-secondary fw-bold heading"><?php the_field('ianda_enter_section_title') ?></h3>
+        <h4 class="text-secondary fw-bold heading"><?php the_field('ianda_enter_section_title') ?></h4>
         <a href="<?php echo esc_url(get_field('ianda_selection_section_link')); ?>" class="text-secondary pe-md-2">View all</a>
       </div>
       <div class="row mx-0">
@@ -642,7 +642,7 @@
   <section class="insight pt-5 cashliquiditymanagement ">
     <div class="container border-bottom">
       <div class="d-flex justify-content-between align-items-center pb-4 px-md-0 px-3">
-        <h3 class="text-secondary fw-bold heading"><?php the_field('cash_enter_section_title') ?></h3>
+        <h4 class="text-secondary fw-bold heading"><?php the_field('cash_enter_section_title') ?></h4>
         <a href="<?php echo esc_url(get_field('cash_select_section_link')); ?>" class="text-secondary pe-md-2">View all</a>
       </div>
       <div class="row mx-0">
