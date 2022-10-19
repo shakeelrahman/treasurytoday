@@ -11190,7 +11190,9 @@ h1,
     margin-right: 15px;
   }
 }
-
+.text-muted{
+  color: #173e6d !important;
+}
 /* new changes starts */
 @media screen and (min-width: 1250px) {
   .col-3 img {
