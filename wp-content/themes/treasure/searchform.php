@@ -1,6 +1,6 @@
  <form class="position-relative search-form" action="<?php echo home_url(); ?>" id="search-form" method="get">
      <div class="form-group d-flex justify-content-end me-4">
-         <input type="search" name="s" id="s" class="form-control py-1 small" placeholder="Search">
+         <input type="search" name="s" id="s" class="form-control border-3 border-primary text-white rounded-pill py-1 small" placeholder="Search">
          <button class="search-btn position-absolute" type="button">
              <!-- <i class="material-icons fs-4 btn text-white">search</i> -->
              <span class="sr-only">Search</span>
