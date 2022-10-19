@@ -11229,4 +11229,8 @@ a .text-secondary{
 .navbar-nav .nav-item:last-child{
   border-right: none !important;
 }
+.sponsored-item{
+font-size: 14px ;
+padding: 8px 12px 8px 0;
+}
 /* new changes ends */
