@@ -43,7 +43,7 @@
                         </button>
                         <span class="sign-icon material-icons fs-6 text-white rounded-circle border border-2 border-white">person_outline</span>
                     </div>
-                    <div class="ms-3">
+                    <div class="reg-div">
                         <button class="reg-btn btn fs-sm text-white border border-2 border-white rounded-pill fw-bold" type="button" data-bs-toggle="modal" data-bs-target="#registerModal">Register</button>
                     </div>
                 <?php
