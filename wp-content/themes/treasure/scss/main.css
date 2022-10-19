@@ -11207,7 +11207,7 @@ h1,
   }
 }
 a .text-secondary{
-  color: #c93642;
+  color: #c93642 !important;
 }
 .col-3 img{
   min-width: 100px;

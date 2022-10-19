@@ -167,8 +167,8 @@
       ?>
         <a class="d-flex justify-content-between" id="spon-link" href="<?php the_permalink(); ?>">
           <div class="col-md-9">
-            <h2 class="text-white"><?php the_title(); ?></h2>
-            <h5 class="text-secondary small">Sponsored</h5>
+            <h2 class="text-white mb-3"><?php the_title(); ?></h2>
+            <h5 class="text-secondary text-uppercase small mb-3">Sponsored</h5>
             <p class="text-white">
               <?php echo get_the_excerpt(); //the_excerpt();  
               ?>
