@@ -30,7 +30,7 @@ $wp_query = new WP_Query($args);
           ?>
               <li class="list-group-item ps-0">
                   <a class="text-secondary small" href="<?php echo get_home_url(); ?>treasurytoday/women-in-treasury/articles/">Articles</a>
-                <span class="text-muted small">-<?php the_date(); ?></span>
+                <span class="text-muted small"> - <?php the_date(); ?></span>
                 <p class="fw-bold mb-0">
                   <a href="<?php the_permalink(); ?>"><?php echo wp_trim_words(get_the_title(), 10, '...'); ?></a>
                 </p>
