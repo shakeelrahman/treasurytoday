@@ -6,6 +6,7 @@ include get_template_directory() . '/redirects.php';
 require_once('inc/passvaluetoapi.php');
 require_once('inc/awardsfuntions.php');
 require_once('inc/newgalleryshortcode.php');
+require_once('inc/customdatelisting.php');
 
 function acf_post_object_custom_query( $args, $field, $post_id ) 
 {
@@ -43,7 +44,7 @@ add_filter('upload_mimes', 'add_file_types_to_uploads');
 function meks_time_ago() {
 	global $post;
 	$post_time = strtotime( $post->post_date ); 
-	return human_time_diff( $post_time, current_time( 'timestamp' ) ).' '.__( 'ago' );
+	return human_time_diff_2( $post_time, current_time( 'timestamp' ) ).' '.__( 'ago' );
 }
 
 if (version_compare($GLOBALS['wp_version'], '5.3', '<')) {

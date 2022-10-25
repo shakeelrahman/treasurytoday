@@ -27,13 +27,9 @@ $wp_query = new WP_Query($args);
           if ($readfromposts) :
             foreach ($readfromposts as $post) :
               setup_postdata($post);
-              $readfrompostcategories = get_the_category(get_the_ID());
-              if (!empty($readfrompostcategories)) {
-                $setpermalinkcat = '<a class="text-secondary small" href="' . esc_url(get_category_link($readfrompostcategories[1]->term_id)) . '">' . esc_html($readfrompostcategories[1]->name) . '</a>';
-              }
           ?>
               <li class="list-group-item ps-0">
-                <?php echo $setpermalinkcat; ?>
+                  <a class="text-secondary small" href="<?php echo get_home_url(); ?>treasurytoday/women-in-treasury/articles/">Articles</a>
                 <span class="text-muted small">-<?php the_date(); ?></span>
                 <p class="fw-bold mb-0">
                   <a href="<?php the_permalink(); ?>"><?php echo wp_trim_words(get_the_title(), 10, '...'); ?></a>
@@ -90,7 +86,7 @@ $wp_query = new WP_Query($args);
                                 </ul>
           </nav>
           <div class="women-articles">
-            <img loading="lazy" class="wp-image-413 size-full alignnone " src="http://localhost/treasurytoday/wp-content/uploads/2022/08/women-in-treasury-logo.png" alt="women-in-treasury-logo" width="600" height="96">
+            <img loading="lazy" class="wp-image-413 size-full alignnone " src="/wp-content/uploads/2022/08/women-in-treasury-logo.png" alt="women-in-treasury-logo" width="600" height="96">
             <h5 class="text-secondary my-3 fw-bold">Women in Treasury articles</h5>
             <div class="text-secondary" id="ajaxrefresh">
               <?php
@@ -110,7 +106,7 @@ $wp_query = new WP_Query($args);
                     </a>
                     <a class="text-secondary small" href="<?php the_permalink(); ?>">
                       Articles</a>
-                    <span class="text-muted small">- 29 days ago</span>
+                    <span class="text-muted small">- <?php echo meks_time_ago(); ?></span>
                     <a class="" href="<?php the_permalink(); ?>">
                       <h3 class="black-link pe-3"><?php the_title(); ?></h3>
                     </a>

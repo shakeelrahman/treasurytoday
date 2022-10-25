@@ -20,7 +20,9 @@ if (have_posts()) :
                            <div class="excerpt_italic" style="font-style: italic;"> 
                                <?php 
                                 if(has_excerpt()){
+									the_post_thumbnail('post-thumbnail', ['class' => 'img-fluid', 'title' => 'Feature image']);
                                     the_excerpt();
+									
                                 }
                                 else
                                 {

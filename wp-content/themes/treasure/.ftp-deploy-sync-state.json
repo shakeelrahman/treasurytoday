@@ -1,0 +1,1155 @@
+{
+    "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
+    "version": "1.0.0",
+    "generatedTime": 1666172600037,
+    "data": [
+        {
+            "type": "file",
+            "name": "adam-smith-awards-cat.php",
+            "size": 2699,
+            "hash": "941368037268a44a4bb19183720148aebddd3a661ebbca818b602494eb33c774"
+        },
+        {
+            "type": "file",
+            "name": "adam-smith-awards-gallery.php",
+            "size": 2540,
+            "hash": "34d5d7567df485b9d02a9692d2e13181a92ba834dbfd0cf92e633d8be15ac552"
+        },
+        {
+            "type": "file",
+            "name": "adam-smith-awards.php",
+            "size": 2534,
+            "hash": "e1d3129a5422c3428bbfc7d716887b0f64fab303a0ed223e01a495ab9ed9439f"
+        },
+        {
+            "type": "file",
+            "name": "admasmithawardsmenu.php",
+            "size": 2018,
+            "hash": "fac8e25c74994a69724679c48a04b7bae413b511290c5d298e836630b610c6be"
+        },
+        {
+            "type": "folder",
+            "name": "apis"
+        },
+        {
+            "type": "folder",
+            "name": "assets"
+        },
+        {
+            "type": "folder",
+            "name": "auth"
+        },
+        {
+            "type": "file",
+            "name": "categoryxxxxxx.php",
+            "size": 5863,
+            "hash": "23a943d21aece1b8402478ed8bbc516a0662913b8aecd5c3d02aac2e4bbf86c7"
+        },
+        {
+            "type": "file",
+            "name": "chinazone.php",
+            "size": 8218,
+            "hash": "17c48cfe81f14bbf919b0ff8b6133687d5095d196d9313e87fe484d5625f45f0"
+        },
+        {
+            "type": "file",
+            "name": "class-wp-bootstrap-navwalker.php",
+            "size": 4864,
+            "hash": "ef133e1446aac39d22fbb0ba8c4d138a6458269b294f8787edc88d4cc305d93e"
+        },
+        {
+            "type": "file",
+            "name": "contactus.php",
+            "size": 526,
+            "hash": "2b5cad95a02a9a532782743cf9451c5d15ecf69dfbd393b674ed311ee9c183d0"
+        },
+        {
+            "type": "file",
+            "name": "custompoststypes.php",
+            "size": 9800,
+            "hash": "c0b9790612dbea51df342b11c726816dcadddf14c33b1e1b1475c81b22d0fc4e"
+        },
+        {
+            "type": "file",
+            "name": "events.php",
+            "size": 4261,
+            "hash": "3fa2b46d40000b404018d7695e4e984f4e71256a2349580267a2a168e6d34b19"
+        },
+        {
+            "type": "file",
+            "name": "footer.php",
+            "size": 5234,
+            "hash": "d1202bea2392bcca082d9b4902b728d0b85a8fbc274ed3b208f27a1ada532066"
+        },
+        {
+            "type": "file",
+            "name": "forgot.php",
+            "size": 2503,
+            "hash": "23db53dfbf21022ac755bbd8501292e4cf84e819f618cc4e51852406cbe3b1b4"
+        },
+        {
+            "type": "file",
+            "name": "front-page.php",
+            "size": 33891,
+            "hash": "7c1429aa54d8089cac48f32336f6a656045008e01ab526ef3a0ae63b3af6fdca"
+        },
+        {
+            "type": "file",
+            "name": "functions.php",
+            "size": 16055,
+            "hash": "b6003af3e0403b283b5a7574362bf79b7c5ed40591e1edd453240f450eaf1119"
+        },
+        {
+            "type": "file",
+            "name": "header.php",
+            "size": 3095,
+            "hash": "bb4b72ac440f50805610d9bd9d67d876867a8b9533ce65b0bcd3a3eed57bcbaf"
+        },
+        {
+            "type": "folder",
+            "name": "inc"
+        },
+        {
+            "type": "file",
+            "name": "index.php",
+            "size": 929,
+            "hash": "ddb355082beac1e1a856953fe241d7c9cac5493e5301564df50ac97f5a5ae791"
+        },
+        {
+            "type": "folder",
+            "name": "js"
+        },
+        {
+            "type": "folder",
+            "name": "layout"
+        },
+        {
+            "type": "folder",
+            "name": "linkedin"
+        },
+        {
+            "type": "file",
+            "name": "login.php",
+            "size": 2728,
+            "hash": "734d6f063011aeef186620d8e6ee4f3b70d5cf1efec7bf8c3ce4ee4cfbb08f41"
+        },
+        {
+            "type": "file",
+            "name": "magazine.php",
+            "size": 2833,
+            "hash": "73662d5de4381826fae7cefd84955f2b761f54a2f8486dd6099a7d0c4b5fbdc0"
+        },
+        {
+            "type": "file",
+            "name": "masterclasses.php",
+            "size": 3823,
+            "hash": "4109e5b2841270ec5a5d5e72b9a5707c033141bfd4ac95e64645af2e81507eb5"
+        },
+        {
+            "type": "file",
+            "name": "menu.php",
+            "size": 4265,
+            "hash": "96467a472ce2b3348b715e3f6cd1bde8825431b4bd0c68be325562f12f20a314"
+        },
+        {
+            "type": "folder",
+            "name": "other designs"
+        },
+        {
+            "type": "file",
+            "name": "page.php",
+            "size": 9114,
+            "hash": "b7540ac2894b8fbab17b1f4921cb0dca06e869a466d3f0646b0113441158baa8"
+        },
+        {
+            "type": "file",
+            "name": "pagination.php",
+            "size": 2944,
+            "hash": "547b8f48e23f8e2bbeb6f7177b2069ca0f080bdddbf2a81ec8b238757e695a13"
+        },
+        {
+            "type": "file",
+            "name": "podcasts.php",
+            "size": 3324,
+            "hash": "f052161547bc13d5a9fdf19e147cb8a15d284fb20c7f72d350c009995f83fbcf"
+        },
+        {
+            "type": "file",
+            "name": "profileswomen.php",
+            "size": 8123,
+            "hash": "fa484f949d8d9cf26bba9b37b166bdbd4c60568a8fee94578088007b6df18a54"
+        },
+        {
+            "type": "file",
+            "name": "redirects.php",
+            "size": 5297,
+            "hash": "ce92c73223d0f026520289f2923a2005e8e80a858ed4d1249dc714e4b954a79d"
+        },
+        {
+            "type": "file",
+            "name": "register.php",
+            "size": 5716,
+            "hash": "a20f14714ea5f56b461d3c493bc85976d9e01458591c28fd3a8b0644c035931f"
+        },
+        {
+            "type": "file",
+            "name": "registerpage.php",
+            "size": 5837,
+            "hash": "29dbd31d1276ce2ab073c05bbda05458a70b14a7754788cb86460e09bff69572"
+        },
+        {
+            "type": "file",
+            "name": "resetpassword.php",
+            "size": 5605,
+            "hash": "9f2c38eec832d3740e2b51e4ce8b66bdceb34f9dd2dfc3e7aa78e7f838008f2a"
+        },
+        {
+            "type": "file",
+            "name": "screenshot.png",
+            "size": 573758,
+            "hash": "ae899184a8d2241fe2d523baf5a1bc0980c42cd0ad4abfbb87b0c9c059454da1"
+        },
+        {
+            "type": "folder",
+            "name": "scss"
+        },
+        {
+            "type": "file",
+            "name": "search.php",
+            "size": 1162,
+            "hash": "d9da09f7799eba6e33d1997388a67c009ee332dcfbd4a0aef693cad462199afc"
+        },
+        {
+            "type": "file",
+            "name": "searchform.php",
+            "size": 1564,
+            "hash": "0543a9d2f5c4edf044721a93ae72b4c786a237944d92bf7f8fdd0e8f3f17da99"
+        },
+        {
+            "type": "file",
+            "name": "single-ttpodcast.php",
+            "size": 979,
+            "hash": "0970b1ce96bb1880f42fc3e324c565205494e531481961e7890cb6786b63c21d"
+        },
+        {
+            "type": "file",
+            "name": "single-ttwomen.php",
+            "size": 7811,
+            "hash": "27163e64ea1d0239d5e697d8e78b419c34d9ce2b35cbbc4ab23e79f297bc2b6d"
+        },
+        {
+            "type": "file",
+            "name": "single.php",
+            "size": 2422,
+            "hash": "597ae249e66e6be7a0e0024d519422e55c13fa333feb52dde9e4aeb32a858e78"
+        },
+        {
+            "type": "file",
+            "name": "style.css",
+            "size": 2557,
+            "hash": "1deabb7e6f7605c49c12005de8530ecd688fab2eddb14b33f83e7de4769a128c"
+        },
+        {
+            "type": "file",
+            "name": "taxonomy-magazine_category.php",
+            "size": 1604,
+            "hash": "ac964cad6dd560c34dbc7df44952634f781ef9e44e66e5202cddce27e04e32ef"
+        },
+        {
+            "type": "file",
+            "name": "temp_topics.php",
+            "size": 4181,
+            "hash": "1e0af3047fd0e4ba9e93dc6724043fa7c12dd83b3c01ba975632178b43ba1240"
+        },
+        {
+            "type": "file",
+            "name": "termsandconditions.php",
+            "size": 809,
+            "hash": "81bd9aec16c029103ad126130b1a47e7d480bd4aefa37a4a32b879a69a218c99"
+        },
+        {
+            "type": "file",
+            "name": "treasurydialogues.php",
+            "size": 9946,
+            "hash": "9cf13f2177d1cb8347764f787b2849e25cc01d90b2d70f003f93dbf9ad505787"
+        },
+        {
+            "type": "file",
+            "name": "verifynewuser.php",
+            "size": 1953,
+            "hash": "d7c67412ab7e6d2aa6e77046ecdf0f4e9182dd0afdcc7bac32291cde8d706048"
+        },
+        {
+            "type": "file",
+            "name": "webinars.php",
+            "size": 4191,
+            "hash": "d5b779626579a6695ea7ee814c514d5accecd99e3b8a11fa177e80b6f4b0af06"
+        },
+        {
+            "type": "file",
+            "name": "webinarsOnDemand.php",
+            "size": 4440,
+            "hash": "457876c2de26384bed20a340097c720e1c91b2a48d25292a4c7ae02b8aa230c5"
+        },
+        {
+            "type": "file",
+            "name": "women-in-treasury.php",
+            "size": 5656,
+            "hash": "300d23a67b0301af5c40bfc2697a3f803fc2597d08e750298c3931d8290d3fca"
+        },
+        {
+            "type": "file",
+            "name": "womenarticles.php",
+            "size": 7117,
+            "hash": "892bb485f7c80d2ed8af9e413f5db3b45a9b232da39a8b2cf11b38478c360821"
+        },
+        {
+            "type": "file",
+            "name": "womenforums.php",
+            "size": 9135,
+            "hash": "4848ce894788e9498c8d900077675556a2538a570379ce77d732dcf086c1886f"
+        },
+        {
+            "type": "file",
+            "name": "womenstudy.php",
+            "size": 6345,
+            "hash": "775912f8be3288dac69532bc6688f905d6f32dd4d0664c5b31566b2d9edfeb50"
+        },
+        {
+            "type": "file",
+            "name": "apis/mobileapis.php",
+            "size": 0,
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "type": "folder",
+            "name": "assets/images"
+        },
+        {
+            "type": "file",
+            "name": "auth/forgot.php",
+            "size": 1837,
+            "hash": "5c870181e4f4da11411f6253e6517162bef6d4a32483e995fe42eb6b8180322d"
+        },
+        {
+            "type": "file",
+            "name": "auth/login.php",
+            "size": 2426,
+            "hash": "e3d58359a59daa79d329c027c9874d9ca06d0ea4d9278bc4b8a4b84a63de0ff7"
+        },
+        {
+            "type": "file",
+            "name": "auth/register.php",
+            "size": 4176,
+            "hash": "bb64c58048b9a245046d1f6c1c6bbf7a35bb9e274e9c543c845792eed6c3e675"
+        },
+        {
+            "type": "folder",
+            "name": "inc/LinkedIn"
+        },
+        {
+            "type": "file",
+            "name": "inc/awardsfuntions.php",
+            "size": 1477,
+            "hash": "21f699e2c42ede26ba33d7138b039b85463e9153fec105ccbbd1865831e85d28"
+        },
+        {
+            "type": "file",
+            "name": "inc/linkedinoauthxxxxx.php",
+            "size": 2219,
+            "hash": "bf7a2404d020b58b8a3c074f5c38b454c78694026cb648deab050a7244df184c"
+        },
+        {
+            "type": "file",
+            "name": "inc/newgalleryshortcode.php",
+            "size": 8223,
+            "hash": "c0d75250f817933350f5aeb7a354d4453effc38f2002c9c6d9a827e16aa87464"
+        },
+        {
+            "type": "file",
+            "name": "inc/passvaluetoapi.php",
+            "size": 11366,
+            "hash": "2da282b47293fe8dda8a2fad4d53044642e4e9e8426193f1d6302c020ca752fb"
+        },
+        {
+            "type": "file",
+            "name": "inc/passvaluetoapibeforecompany.php",
+            "size": 8949,
+            "hash": "58162a71042f94febe0e049c77ff5f72b2d372b63bfe9b38862923d081d88e68"
+        },
+        {
+            "type": "file",
+            "name": "js/ajax-pagination.js",
+            "size": 1529,
+            "hash": "1250275f48c9686970b6ffee6217cbec13d1ba7ab2b02d01e104fa117e6c471e"
+        },
+        {
+            "type": "file",
+            "name": "js/ajaxloadmore.js",
+            "size": 1535,
+            "hash": "0341237a8edf860d21ef837c749f073906e9dfa7be1f61c6c45427b90ae46727"
+        },
+        {
+            "type": "file",
+            "name": "js/customjsfile.js",
+            "size": 4949,
+            "hash": "5fd6b62c8c3be3a5699af6e058b98231ed2723de9bb9cdb75ae2fb88310761bc"
+        },
+        {
+            "type": "file",
+            "name": "js/customjsfileBeforeCompany.js",
+            "size": 4964,
+            "hash": "9a4b670f063035e34642f128cac40bf84a98281d62ff20773f69db0616f6f505"
+        },
+        {
+            "type": "file",
+            "name": "js/index.js",
+            "size": 4762,
+            "hash": "7eca73787db894e68873045ed264e3152b91af91aa58c7c2955bc2e9c4e8e674"
+        },
+        {
+            "type": "file",
+            "name": "js/indexbeforeCompany.js",
+            "size": 4067,
+            "hash": "5cb0d3da4400da0fffda8709e4a348c3f1c61a00e3d5443e5a1d6faaa25939d5"
+        },
+        {
+            "type": "file",
+            "name": "layout/footer.php",
+            "size": 5115,
+            "hash": "c50aeaca1ff1808767b09c8972d4d9b3b25a656dd6f50ae9d40ca35922475991"
+        },
+        {
+            "type": "file",
+            "name": "layout/header.php",
+            "size": 11203,
+            "hash": "11e4bf5c793026ba4c09929d0fd37e90eb626f04626c971f3abdc7308a37f035"
+        },
+        {
+            "type": "file",
+            "name": "linkedin/config.php",
+            "size": 703,
+            "hash": "410f85fc254700236e9bb2cb6d0c2cb3bde12d59a3bb5857e3cf63e9b2b1f2af"
+        },
+        {
+            "type": "file",
+            "name": "linkedin/userclass.php",
+            "size": 9,
+            "hash": "ad3a6dcf75229de362d1e5570400f7be6b07831c20f2a8ece82badd46af44a5b"
+        },
+        {
+            "type": "file",
+            "name": "other designs/adam-smith-awards-asia-yearbook.php",
+            "size": 5387,
+            "hash": "31057b9dd7d16b5fac4f7655869c1a523b8090a7f02a96ef8b62af0f111941f7"
+        },
+        {
+            "type": "file",
+            "name": "other designs/adam-smith-awards-asia.php",
+            "size": 7941,
+            "hash": "d920c52cbbbb0e18335390c33307488f6207314b68b8b08c4bcece7dc29527d5"
+        },
+        {
+            "type": "file",
+            "name": "other designs/adam-smith-awards-yearbook.php",
+            "size": 5387,
+            "hash": "61989814dce289a102347fbba983319b9d2cf0293446254af99740cc41aea62d"
+        },
+        {
+            "type": "file",
+            "name": "other designs/adam-smith-awards.php",
+            "size": 7353,
+            "hash": "b69531e2b16ee2e34625439511f527e588b734b8274ee093537611ab8e8d1ee1"
+        },
+        {
+            "type": "file",
+            "name": "other designs/banking.php",
+            "size": 8840,
+            "hash": "7e6035734d5b2d6e1a1763a5abb92be47d1e73fb1d1336984c10ebb10d958f9a"
+        },
+        {
+            "type": "file",
+            "name": "other designs/cash-and-liquidity-management.php",
+            "size": 8910,
+            "hash": "9542e169b1df7fabbc8935c6fdf436164f3a588b6b9dc83441e18f753d87b2b1"
+        },
+        {
+            "type": "file",
+            "name": "other designs/china-zone.php",
+            "size": 11455,
+            "hash": "ebaf0754aecbeb2891cd27c71d3b5fee5a3bb1a9b4cb1065ba51c623d193bddc"
+        },
+        {
+            "type": "file",
+            "name": "other designs/contact.php",
+            "size": 4580,
+            "hash": "38bced9854eff6366168811a0b98b1893de4bc50ccb2858e8c326d12ff5e03f8"
+        },
+        {
+            "type": "file",
+            "name": "other designs/events.php",
+            "size": 5726,
+            "hash": "e1a798ef3cea227497d00a6085fc362f6899e7b45b0246583e6a8cb355b3a3a2"
+        },
+        {
+            "type": "file",
+            "name": "other designs/funding-&-investing.php",
+            "size": 9321,
+            "hash": "93f5bbde17245f4f3da7d3884f1e0628568154e6cd4be354e112005a8da23865"
+        },
+        {
+            "type": "file",
+            "name": "other designs/handbooks.php",
+            "size": 5451,
+            "hash": "dce919c9a6861502d137e0b2508588f32b7aa4159ade0ccf783ce8bca6a7e782"
+        },
+        {
+            "type": "file",
+            "name": "other designs/insights-&-analysis.php",
+            "size": 8720,
+            "hash": "0ab215d02b12aff69ad394a2a113ddae2655edffe168ca384d6c3d62281ed010"
+        },
+        {
+            "type": "file",
+            "name": "other designs/magazine-asia.php",
+            "size": 5339,
+            "hash": "a6bf428fe90e619d34de5209eefea4b1f73f17a3d060f1a2fe4480315a237090"
+        },
+        {
+            "type": "file",
+            "name": "other designs/magazine.php",
+            "size": 5319,
+            "hash": "dd4a2c6b9750bcab3b0064b5a2cfd5909d6aacaf5795d960e1a3e84126fd854c"
+        },
+        {
+            "type": "file",
+            "name": "other designs/package.json",
+            "size": 54,
+            "hash": "797023100d06b353a1dac7b3073ab762d09923e931ff881bdc3f8c8d7fee2791"
+        },
+        {
+            "type": "file",
+            "name": "other designs/perspectives.php",
+            "size": 8668,
+            "hash": "bbd700941059e4ab093b61fc70effa10744a7c97f2dbaee54491977e655208f3"
+        },
+        {
+            "type": "file",
+            "name": "other designs/podcasts.php",
+            "size": 5267,
+            "hash": "ff2b0106765a3ae7f45b6b17ef25f5632ef121493b4944a1c37009ce7ade380f"
+        },
+        {
+            "type": "file",
+            "name": "other designs/regional-focus.php",
+            "size": 9082,
+            "hash": "3f002f5bc94f245eb5130db2c7ef358f4e4436dfd6d392c51bf6fb24059f54a7"
+        },
+        {
+            "type": "file",
+            "name": "other designs/regulation-and-standards.php",
+            "size": 9141,
+            "hash": "1798c85e013be5e04f03214a42c52f500af4d0933c9dc2ead5d475bd52c2893c"
+        },
+        {
+            "type": "file",
+            "name": "other designs/risk-management.php",
+            "size": 9365,
+            "hash": "3192a6d551caa126612644829bcff6839a8e36aa69926743d44e8369422cfa98"
+        },
+        {
+            "type": "file",
+            "name": "other designs/supplements.php",
+            "size": 5420,
+            "hash": "52550a16dc4c068c8ae590814a4ea63a708a26dbffa1360eed0e81dcfc7a8fa1"
+        },
+        {
+            "type": "file",
+            "name": "other designs/technology.php",
+            "size": 9094,
+            "hash": "bd63d1f667e2ae691186cd73c38280ae6b28e15c2faf9c2cae5049d372a6333d"
+        },
+        {
+            "type": "file",
+            "name": "other designs/trade-and-supply-chain.php",
+            "size": 9057,
+            "hash": "2e52a69475baa7734726734fd71f98ef18e5f700344dcee79071b65a3088ef07"
+        },
+        {
+            "type": "file",
+            "name": "other designs/treasury-practice.php",
+            "size": 9257,
+            "hash": "35e536cb2ec1bb38534d19982a9b73cf6f3b48347b3a959982cb419394d99a5d"
+        },
+        {
+            "type": "file",
+            "name": "other designs/treasury-talent.php",
+            "size": 9011,
+            "hash": "141d893169e05821bd3ef5e1e3280659117aaee1095a081ba6493c9b2297a61c"
+        },
+        {
+            "type": "file",
+            "name": "other designs/webinars.php",
+            "size": 2687,
+            "hash": "efeef0f8e492735be9c58b0ccc7876c493da159707d1797258b81e23ca811b80"
+        },
+        {
+            "type": "file",
+            "name": "other designs/women-in-treasury.php",
+            "size": 6335,
+            "hash": "449b2f3d709ffc07fabd5a1f65deb5ec033b32f03652b83ef0b7a8fd3eaaf679"
+        },
+        {
+            "type": "file",
+            "name": "scss/_custom.scss",
+            "size": 70,
+            "hash": "4b421b7577bd410c4d4a027e457a2a072fb181f42b475dea88fea6cf8a4b2c74"
+        },
+        {
+            "type": "file",
+            "name": "scss/_index.scss",
+            "size": 7462,
+            "hash": "e31b7c63554990ab2a04930f1c9d8b3cfd82904590c08efe32254ba4132853ac"
+        },
+        {
+            "type": "file",
+            "name": "scss/_pages.scss",
+            "size": 1179,
+            "hash": "5483bffd03ea7a392e733ddb6763daafa439a7ce519ff74d1f57314462ec1029"
+        },
+        {
+            "type": "file",
+            "name": "scss/dialogues.css",
+            "size": 870,
+            "hash": "c101c776210fd46c38cb6df1d2370980520d915da8a0197eb8280f7cc2fdbcb4"
+        },
+        {
+            "type": "file",
+            "name": "scss/main.css",
+            "size": 216292,
+            "hash": "05b885b965aa161f0e22b875d8e3bc8218b01f21ac3402d9ca9dfb9ae340f75a"
+        },
+        {
+            "type": "file",
+            "name": "scss/main.css.map",
+            "size": 97901,
+            "hash": "ba231afc4d72450cb8006606ce022b257a9a9f067b35e5a8a0b96a67b086dc11"
+        },
+        {
+            "type": "file",
+            "name": "scss/main.scss",
+            "size": 291,
+            "hash": "a409a16d865ececde62561bc0daf82f62a7b5751ea6c8306ab25a420ccc87ef3"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/ab-header.jfif",
+            "size": 46409,
+            "hash": "ab854bd5563ea4a63f7420114bcdaa352d512c146cd71b5164799ce1fe4febd7"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/ad_1.jpg",
+            "size": 252908,
+            "hash": "9edfefc98d1b3ad4f864c2f62cc98a612a9a8a5a0e3c1343315a1b409f369c0f"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/ad_2.jpg",
+            "size": 627516,
+            "hash": "51ed6e498767d6c1597825ec94d50eee859dedb5b38b5b218c8a79ac718f9ee4"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/ad_3.jpg",
+            "size": 477173,
+            "hash": "dce2dd6c8183b64f1c35e160d60041492a14c538aad7567383df9066b3632580"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/ad_4.jfif",
+            "size": 30292,
+            "hash": "d9b289c5b16939b6697488b9334a6a983bf1b1240cb23a1d768808af268a3c51"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/adam_smith2.jpg",
+            "size": 194121,
+            "hash": "ea97154fc7b96ba24a3a347a190e15111a82e1254634b250fe48cacb0fef80af"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/adam_smith_asia.jpg",
+            "size": 198039,
+            "hash": "a7d5c20956a75fbf92a2fee41ca9138e7a96be159c045265bb88d5a4e0fd91d6"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/adam_smith_awards.jpg",
+            "size": 237013,
+            "hash": "3f2acd8200db92602d1b9d75a25ca8246639a7546c67e7461d7fad6160abfd02"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/add_1.jpg",
+            "size": 214371,
+            "hash": "04e56fdd9f1edbb1c1fde34c8d5ce0b50d10e5252dbe705b689c65022e3c1fe0"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/add_2.jpg",
+            "size": 221977,
+            "hash": "460b5d58e837303b46e41e5db8d8e7efbf62495aafe96e1536b0f11c0566bda4"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/add_3.jpg",
+            "size": 486950,
+            "hash": "6092b1a47b60c2a7bfe153866bf720d0aa71915351767b587b0cb0daba5c13d0"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/add_4.jpg",
+            "size": 183532,
+            "hash": "e3f078b3ef29574d948ac3b56b25ab92ad770a0174ccf47a6a0558721610ba94"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/awards.jpg",
+            "size": 239183,
+            "hash": "f2c823a37771733a0e97bdc39898e7d266a3655118cad1d6f5bbb89510cdd367"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/banner.jpg",
+            "size": 129181,
+            "hash": "80b619da86f5fc54f2e9761222d8bae0e9556193ef94390d8c5e6968ecbe44ed"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/cisco-logo-2021.svg",
+            "size": 3221,
+            "hash": "55dc5f8f8e61ffddb88f99892bb040215531d10cb9fcb3a69ae0247c11743f66"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/citi-logo.png",
+            "size": 2806,
+            "hash": "3e677243a65663fcc7aeb9c2c329f84d62e3b00b29da1a3b9459d8295a0b4cf7"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/custom-logo.png",
+            "size": 2992,
+            "hash": "87a1c96712fa480f99e2a403f9cdaa781771afae273f9c44d220ece02a99e37c"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/dummyimage.jpg",
+            "size": 48147,
+            "hash": "c844cadb5f692dae2b43b9a98e2999099c2f154d39a256189724a82bb3f6a55d"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/error.svg",
+            "size": 4575,
+            "hash": "faa6108bd68f81b9090271423c2d6edbd133d901ebadefea52e54d1261d3fc2a"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/favicon.ico",
+            "size": 34494,
+            "hash": "357a94aa5796375fa12d313f3a8792bfb4832b24a1a6c8162d25caf3a8c4f6b2"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/ge-logo.svg",
+            "size": 3792,
+            "hash": "ddb61a8652f4585804b39f60daeeea031d3010726ba9624ad8811f2b84bf6275"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/global-network-connection-world.jpg",
+            "size": 202149,
+            "hash": "5b38e9f8281997471cd27e982b71e853abc10faae37ed53e4162cf1c5c169b92"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/green-color.jfif",
+            "size": 16969,
+            "hash": "6e4e791ab12e85a7269170eb12f94f6c05f8667cdfc293ebe95186dd9a39e7fb"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/handbooks.jpg",
+            "size": 419585,
+            "hash": "ac53453f82b8f785bf580c9466aecce13b416777eeef1d05a8fa8e1e286f9c8f"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/henkel-logo.svg",
+            "size": 2153,
+            "hash": "74d3daee38ec327f9b353a43b005b4a0e716526aa30d614c7315e5f7df38f2fc"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/icon-date.svg",
+            "size": 992,
+            "hash": "0607357c66c5259193b12d703394325dada8532024ef7c59c4b492c6c2834dbe"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/icon-microphone.svg",
+            "size": 1287,
+            "hash": "caf7edfbaf5098d97cf408261cfac91d1b4fa51ef748706041ea443767eec52a"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/icon-quote-6ad305.svg",
+            "size": 260,
+            "hash": "475c76b9397afd47d204b4499b447cd7b0ced81b0f572b3d608b619ef0ee93a1"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/im_1.jpg",
+            "size": 335372,
+            "hash": "37168ac5eb3d89f2a04df5fea6a20626e8624f0ba728d0ba04731aca92c0dee6"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/im_2.jpg",
+            "size": 119745,
+            "hash": "90d741e57e441d32e7a2e696b7aa399cc7b629a08222dbcae9797bb872cbb9fc"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/im_3.jpg",
+            "size": 204497,
+            "hash": "c59433ffa041be917f37faa21c48a7601ea4772d323e287676c63b9c9b565b81"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/im_4.mp4",
+            "size": 140237,
+            "hash": "3f685c739b91553b2aca6df6d5aa0405f6d186c21221c2da523bfbc763665065"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/insight_1.jpg",
+            "size": 237217,
+            "hash": "68cfa792612e52980bf5f187b8915482a68558cb35b550e2857108a60544ada3"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/insight_2.jpg",
+            "size": 187042,
+            "hash": "c1facfe309afc80100bf024ba3ec97f432930ddd0165e4b6c4c750a0ecf47075"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/insight_3.jpg",
+            "size": 190668,
+            "hash": "43e60327f8ffb4cfa19fdcdc6672aae5da3f6f36a1ea6f9256b7ad365733f8af"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/insight_4.jpg",
+            "size": 188613,
+            "hash": "abf2fcf1749b48082d7a077cf20a0c16544c4cb12ec50384207df7881347b555"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/insight_5.jpg",
+            "size": 177501,
+            "hash": "c8f42cbf8588aebf7cb6109f3cf10a1fa543019275efd90838a3a4835ab23399"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/insights-news.jpg",
+            "size": 85787,
+            "hash": "f370fd7562ac986e0ef24fd4c1051f634be713622f8225c21f91e5eaa6ba1708"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/logo_footer.png",
+            "size": 7578,
+            "hash": "1f78b71540bdf355c758be5b42a42b5b6ec150ce9973890625fb7864c95c42c7"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/mag_1.jpg",
+            "size": 338831,
+            "hash": "574aa086ee42dda8a197631f45f7f5a0a5ceab61d8f6a1aa2e852fd90914a0d7"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/mag_2.jpg",
+            "size": 497678,
+            "hash": "d352ac9f8e48d7cf01ee0102a89e9651aafcc81bd0502a66913a609221c72537"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/mag_3.jpg",
+            "size": 375561,
+            "hash": "b2ae537f40d15c84ac2ef23ad2cbcb108fdf2dff342f0a63306f70b830bc21ce"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/mag_4.jpg",
+            "size": 433884,
+            "hash": "b0647980b41dfbd1363c0429a8bf27a47e945d4cb72cccb9c23e83f185ef4698"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/magazine-asia.jpg",
+            "size": 535646,
+            "hash": "342d490ca4758fe34188a29812841a5a0e34f58b7e38dacbf8f384c3e7a54dd5"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/magazine.jpg",
+            "size": 378235,
+            "hash": "c01bf5f6956411a321b3726c708df457c0b328cb22682a4831f4e06c1f29b40a"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/man_1.jpg",
+            "size": 253464,
+            "hash": "a2dd3a20ae535178a762c7fc735848cc9a9a37ab423352bd88fbbe9f2d802019"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/man_2.jpg",
+            "size": 522698,
+            "hash": "187a4a813ecd970da2eb571d0b3c5b5e79a20f9009fa77b51338ea797103343a"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/man_3.jpg",
+            "size": 231492,
+            "hash": "9da6254ff565512e7a342d94602527e79b4a72c78e05ec51e9bffbc412cfd926"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/man_4.jpg",
+            "size": 288019,
+            "hash": "aa6f4894703ba86eae1cff8100e442b99cfcb1bd4d5d6a5d0ce7f8b8a61c3e8e"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/man_5.jpg",
+            "size": 402531,
+            "hash": "89316d33b7ed4fe8353d3cf57f1613430973c2258357ce8ecf7372f33c496831"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/one-connect-logo.svg",
+            "size": 12368,
+            "hash": "20e79eb763e3d6361e5440d4ab78e536737e9476f1064b247932b17e3d2cb6e4"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/parallex-3.jpg",
+            "size": 180939,
+            "hash": "82fe0d4f4ff1b322e1958bc16a8704507b7e8f7246f8e489a14790e28055ff84"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/person-awards-asia.jpg",
+            "size": 17525,
+            "hash": "b64263f162bd698fb47c58c3bf0de37864191816f8933d5e0f9b43d073b292fa"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/person-awards.jpg",
+            "size": 274611,
+            "hash": "112b6adb9f6c61f06cf080a80a092db78d7ce49f2a9a8e252b22c9473d097087"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/roche-logo.png",
+            "size": 16243,
+            "hash": "44541d474c623fc81bbce9d17fd86f159af30bc6120772de7136efcc6c38d5ee"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/search-icon.svg",
+            "size": 289,
+            "hash": "564bac8226120842b17a6e3b30efe7ece3566b2edd7ee69b16e1d25adf41e05d"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/seg_1.jpg",
+            "size": 228327,
+            "hash": "330cffab46bda23e7b2ca871a27732235a963996949116532a8ca3447674466a"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/seg_2.jpg",
+            "size": 388443,
+            "hash": "30f962d212dac3ec7504014676d36c0f82f4d0eabaf9fec5141bcfe2c110c74e"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/seg_3.jpg",
+            "size": 356631,
+            "hash": "c972c8c525fbd2a31921066c660a0899a5306b147519aaeca84280cce3619090"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/seg_4.jfif",
+            "size": 45540,
+            "hash": "30060754a307a2ade4b906bfb76fd937b19187e30d744c7a2accd31081c40ef6"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/submerged-material-3163534.mp4",
+            "size": 16552557,
+            "hash": "583162ed7d053ba015496697d6002e65b65662153a9cf05317224f5733611c7c"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/sunset.jpg",
+            "size": 1849088,
+            "hash": "f8b1a998b104ebf82de4b0cbbc5f13a31a80e6dec35536aa290cefb09f3b4e9d"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/supplements.jpg",
+            "size": 378179,
+            "hash": "9c6d070808d073249e73ebe201d1d92f575a230777ca18da933c1d0d2c4d834f"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/tech_1.jpg",
+            "size": 281053,
+            "hash": "1688bac6397ee01841dd9aeba520e4b34c85e2385220f41f0b1c062edc595db3"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/tech_2.jpg",
+            "size": 413839,
+            "hash": "a91b3a91f947dccc745d9a96bd255559f7501ef65861ea399ffd3fdfbd3c8b36"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/tech_3.jpg",
+            "size": 98995,
+            "hash": "d2d6307d35db413f203c0fc824ef57805e72097974174dd5920273ff0db9d5ff"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/tech_4.jpg",
+            "size": 193191,
+            "hash": "b33c2183c6c0b42a8e2faac061e5c4995110a4d6a22d65cf08a9a384fd772c31"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/tech_5.jpg",
+            "size": 280902,
+            "hash": "18679589f9edc71f82d35611c9aab21f8b640a4e77e9f69756cc598bd3e353f4"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/trade.jpg",
+            "size": 314473,
+            "hash": "3b906a186c96633fc7a6bb65c68567aad9f71dc669b7ba50e5e140d386afa78b"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/treasury-today-logo.png",
+            "size": 58381,
+            "hash": "f375c71a7ee33bfc95f18f86d463aa9aea322568eb034e456ec83815c2690a28"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/treasurytoday-adam-smith-awards-2022.svg",
+            "size": 10851,
+            "hash": "122b5c40a8e2ab3099caa5cd34922fa0392c82445ded56b70b15c978f01ff4fe"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/treasurytodayasia-adam-smith-awards-asia-2022.svg",
+            "size": 10539,
+            "hash": "86d5ca02a5cc2adf06415cd82fab757498643d1353599e345aac231ae634034d"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/tt-kenya-airways-v2-100320.mp4",
+            "size": 5052744,
+            "hash": "7dce7daa284538cb780ec85ba2bca8db6d91827e558d52f2d562599c3a40e78e"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/veem-technology-background-1080p.mp4",
+            "size": 26841597,
+            "hash": "54c57f2d02a52b2567146a4c1ae5bfc16a1478e74c155500ed9ab4524a1bf67c"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/vid_1.png",
+            "size": 477766,
+            "hash": "618806897502e7cd00fff4bd56d347e32bc27afb3ae070a4c45d971f87425f56"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/vid_2.png",
+            "size": 893903,
+            "hash": "2b30427e5fd564f5d44eaed3f96bfee21a9c0d31007e08126a13bb1bcd36bd78"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/vid_3.png",
+            "size": 192608,
+            "hash": "f121249ebb0609b6bbe6cdb315196dbea06914698198eae9d61738d3b4ae76ce"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/wom_1.jpg",
+            "size": 465696,
+            "hash": "088a168a40346d5ff293b194b71ccd1cf9745ca6c82e6fe922d7a9c49ccf3b52"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/wom_2.jpg",
+            "size": 358843,
+            "hash": "be41612edcb1b9a5b9975d0094dd1013e07e7e056fc57187753d137529771104"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/wom_3.jpg",
+            "size": 479674,
+            "hash": "d9305f77a9ebe0f4cd31b8f4fa098065a0d38a22910d8019b7c97fe8c5a243c1"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/wom_4.jpg",
+            "size": 630091,
+            "hash": "eb696bc70954514599cbf1fbc1fde6553b1e428794fbebe792ec5d33299dbfa0"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/women-home.jpg",
+            "size": 125665,
+            "hash": "7de3c4f1d955936730dfd82231b358b7a93fae67740afb62fdbe61dc7de588f0"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/women-logo.png",
+            "size": 9694,
+            "hash": "cf01ed06fdbacb8c5e31814206685575265eb83c24e53927eb6c3e8d86f2fdd7"
+        },
+        {
+            "type": "file",
+            "name": "assets/images/xiaomi-logo.svg",
+            "size": 2990,
+            "hash": "5409244312ccde91c4333a392243911bcef191c34caf5b21d46098ed52042205"
+        },
+        {
+            "type": "file",
+            "name": "inc/LinkedIn/LinkedIn.php",
+            "size": 10566,
+            "hash": "edd1d790e6816e23f91b551a8796257cafe52aaac24163a35f23dd6071afb8f6"
+        }
+    ]
+}
